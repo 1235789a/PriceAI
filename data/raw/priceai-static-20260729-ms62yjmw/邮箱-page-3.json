@@ -1,0 +1,4288 @@
+{
+  "platform": "邮箱",
+  "page": 3,
+  "offset": 400,
+  "limit": 200,
+  "url": "https://priceai.cc/api/offers?platform=%E9%82%AE%E7%AE%B1&limit=200&offset=400",
+  "fetchedAt": "2026-07-29T12:49:02.772Z",
+  "raw_hash": "52994457ab6c52ddca70710eb981470012916edf9b9b55944204b67d29afb7b4",
+  "declared_total": 489,
+  "returned_count": 89,
+  "response": {
+    "rows": [
+      {
+        "offer": {
+          "id": "id-acyn4j",
+          "sourceId": null,
+          "sourceName": "购物 - T佬的gmail批发渠道",
+          "sourceStoreName": "购物 - T佬的gmail批发渠道",
+          "collectorKind": null,
+          "sourceTitle": "【法国】2020-2024年gmail邮箱",
+          "price": 6.4,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ai666.dnxb.cc/item/27",
+          "tags": [],
+          "filterTags": [
+            "team_official"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-01T15:35:04.879+00:00",
+          "sourceUpdatedAt": "2026-07-01T15:35:04.879+00:00",
+          "lastSeenAt": "2026-07-01T15:35:04.879+00:00",
+          "verifiedAt": "2026-07-01T15:35:04.879+00:00",
+          "expiresAt": "2026-07-02T15:35:04.879+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1r7lzy5",
+          "sourceId": null,
+          "sourceName": "购物 - T佬的gmail批发渠道",
+          "sourceStoreName": "购物 - T佬的gmail批发渠道",
+          "collectorKind": null,
+          "sourceTitle": "【澳大利亚】2020-2024年gmail邮箱",
+          "price": 6.4,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ai666.dnxb.cc/item/26",
+          "tags": [],
+          "filterTags": [
+            "team_official"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-01T15:35:04.879+00:00",
+          "sourceUpdatedAt": "2026-07-01T15:35:04.879+00:00",
+          "lastSeenAt": "2026-07-01T15:35:04.879+00:00",
+          "verifiedAt": "2026-07-01T15:35:04.879+00:00",
+          "expiresAt": "2026-07-02T15:35:04.879+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1isy2g5",
+          "sourceId": null,
+          "sourceName": "购物 - T佬的gmail批发渠道",
+          "sourceStoreName": "购物 - T佬的gmail批发渠道",
+          "collectorKind": null,
+          "sourceTitle": "【英国】2020-2024 gmail邮箱",
+          "price": 6.4,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ai666.dnxb.cc/item/21",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-01T15:35:04.879+00:00",
+          "sourceUpdatedAt": "2026-07-01T15:35:04.879+00:00",
+          "lastSeenAt": "2026-07-01T15:35:04.879+00:00",
+          "verifiedAt": "2026-07-01T15:35:04.879+00:00",
+          "expiresAt": "2026-07-02T15:35:04.879+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-eht1gj",
+          "sourceId": null,
+          "sourceName": "购物 - T佬的gmail批发渠道",
+          "sourceStoreName": "购物 - T佬的gmail批发渠道",
+          "collectorKind": null,
+          "sourceTitle": "Gmail+YouTube 2020-2024邮箱",
+          "price": 6.48,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ai666.dnxb.cc/item/17",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-01T15:35:04.879+00:00",
+          "sourceUpdatedAt": "2026-07-01T15:35:04.879+00:00",
+          "lastSeenAt": "2026-07-01T15:35:04.879+00:00",
+          "verifiedAt": "2026-07-01T15:35:04.879+00:00",
+          "expiresAt": "2026-07-02T15:35:04.879+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1sv2t9w",
+          "sourceId": "ldxp-yanlidemuqin",
+          "sourceName": "Ai最严厉的妈妈",
+          "sourceStoreName": "Ai最严厉的妈妈",
+          "sourceIncludedAt": "2026-07-24T04:02:49.83514+00:00",
+          "sourceShopCreatedAt": "2026-07-13T05:35:08+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "韩国渠道成品号-未接码-手搓-outlook邮箱",
+          "price": 6.49,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/tf04oq",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_unverified",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:03:49.22+00:00",
+          "sourceUpdatedAt": "2026-07-28T13:26:07.906+00:00",
+          "lastSeenAt": "2026-07-29T12:03:49.22+00:00",
+          "verifiedAt": "2026-07-29T12:03:49.22+00:00",
+          "expiresAt": "2026-07-30T12:03:49.22+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "outlook-account",
+          "slug": "outlook-account",
+          "displayName": "Outlook / Hotmail 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Outlook / Hotmail / Microsoft",
+          "summary": "纯 Outlook、Hotmail、Microsoft、微软邮箱、OAuth2 邮箱商品。",
+          "aliases": [
+            "outlook",
+            "hotmail",
+            "微软邮箱",
+            "microsoft 邮箱",
+            "oauth2",
+            "graph 令牌"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-o7qwpo",
+          "sourceId": "nodebits-05b3a4700ccf9e8a",
+          "sourceName": "WEB3Al",
+          "sourceStoreName": "WEB3Al",
+          "sourceIncludedAt": "2026-06-03T15:05:01.554845+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "【Google个人邮箱】随机地区 22-24年老号 2FA",
+          "price": 6.5,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://web3chirou.com/item/74",
+          "tags": [],
+          "filterTags": [
+            "team_official"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:37.71+00:00",
+          "sourceUpdatedAt": "2026-07-21T02:25:46.761+00:00",
+          "lastSeenAt": "2026-07-29T12:25:37.71+00:00",
+          "verifiedAt": "2026-07-29T12:25:37.71+00:00",
+          "expiresAt": "2026-07-30T12:25:37.71+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1y34m7k",
+          "sourceId": "ldxp-pixelshop",
+          "sourceName": "LDXP Pixelshop",
+          "sourceStoreName": "Gemini源头供货商",
+          "sourceIncludedAt": "2026-05-07T03:35:12.780198+00:00",
+          "sourceShopCreatedAt": "2026-02-28T14:56:37+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区2022--2024年Gmail邮箱带2fa",
+          "price": 6.5,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/r55sty",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "team_official",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-27T10:08:45.461+00:00",
+          "sourceUpdatedAt": "2026-07-27T08:09:00.62+00:00",
+          "lastSeenAt": "2026-07-27T10:08:45.461+00:00",
+          "verifiedAt": "2026-07-27T10:08:45.461+00:00",
+          "expiresAt": "2026-07-28T10:08:45.461+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-5gjf20",
+          "sourceId": null,
+          "sourceName": "购物 - T佬的gmail批发渠道",
+          "sourceStoreName": "购物 - T佬的gmail批发渠道",
+          "collectorKind": null,
+          "sourceTitle": "【韩国】2020-2024 gmail邮箱",
+          "price": 6.5,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ai666.dnxb.cc/item/24",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-01T15:35:04.879+00:00",
+          "sourceUpdatedAt": "2026-07-01T15:35:04.879+00:00",
+          "lastSeenAt": "2026-07-01T15:35:04.879+00:00",
+          "verifiedAt": "2026-07-01T15:35:04.879+00:00",
+          "expiresAt": "2026-07-02T15:35:04.879+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-a72bfk",
+          "sourceId": "ldxp-th52wuw7",
+          "sourceName": "boji1334yd小店",
+          "sourceStoreName": "boji1334yd",
+          "sourceIncludedAt": "2026-07-27T10:18:42.090633+00:00",
+          "sourceShopCreatedAt": "2026-04-24T08:38:47+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "韩国渠道成品号-未接码-手搓-outlook邮箱",
+          "price": 6.6,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/bm9wh5",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_unverified",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:18:27.962+00:00",
+          "sourceUpdatedAt": "2026-07-28T13:15:15.814+00:00",
+          "lastSeenAt": "2026-07-29T12:18:27.962+00:00",
+          "verifiedAt": "2026-07-29T12:18:27.962+00:00",
+          "expiresAt": "2026-07-30T12:18:27.962+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "outlook-account",
+          "slug": "outlook-account",
+          "displayName": "Outlook / Hotmail 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Outlook / Hotmail / Microsoft",
+          "summary": "纯 Outlook、Hotmail、Microsoft、微软邮箱、OAuth2 邮箱商品。",
+          "aliases": [
+            "outlook",
+            "hotmail",
+            "微软邮箱",
+            "microsoft 邮箱",
+            "oauth2",
+            "graph 令牌"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-hvupj4",
+          "sourceId": null,
+          "sourceName": "购物 - T佬的gmail批发渠道",
+          "sourceStoreName": "购物 - T佬的gmail批发渠道",
+          "collectorKind": null,
+          "sourceTitle": "2006-2019【高权重】随机gmail老邮箱",
+          "price": 6.7,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ai666.dnxb.cc/item/20",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-01T15:35:04.879+00:00",
+          "sourceUpdatedAt": "2026-07-01T15:35:04.879+00:00",
+          "lastSeenAt": "2026-07-01T15:35:04.879+00:00",
+          "verifiedAt": "2026-07-01T15:35:04.879+00:00",
+          "expiresAt": "2026-07-02T15:35:04.879+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1c94umo",
+          "sourceId": "fk-10886-xyz",
+          "sourceName": "fk.10886.xyz",
+          "sourceStoreName": "fk.10886.xyz",
+          "sourceIncludedAt": "2026-06-27T04:26:08.37316+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "【随机地区2020--2024年邮箱 】90%GCP",
+          "price": 6.76,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://fk.10886.xyz/item/14",
+          "tags": [],
+          "filterTags": [
+            "team_official"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:14.866+00:00",
+          "sourceUpdatedAt": "2026-07-28T06:05:40.855+00:00",
+          "lastSeenAt": "2026-07-29T12:37:14.866+00:00",
+          "verifiedAt": "2026-07-29T12:37:14.866+00:00",
+          "expiresAt": "2026-07-30T12:37:14.866+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "email-account",
+          "slug": "email-account",
+          "displayName": "其他邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "其他邮箱",
+          "summary": "域名邮箱、自建邮箱、无法进一步确认类型的纯邮箱商品。",
+          "aliases": [
+            "邮箱账号",
+            "域名邮箱",
+            "企业邮箱",
+            "其他邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1nunbx4",
+          "sourceId": "xtacc-top",
+          "sourceName": "xtacc.top",
+          "sourceStoreName": "xtacc.top",
+          "sourceIncludedAt": "2026-07-03T14:02:45.410564+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "【 随机地区Gmail】2021-2024注册｜带2FA｜24小时首登质保",
+          "price": 6.8,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://xtacc.top/products/SL-gmail-2fa-account",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "pro_max_short_term"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:06.662+00:00",
+          "sourceUpdatedAt": "2026-07-20T10:50:08.99+00:00",
+          "lastSeenAt": "2026-07-29T12:20:06.662+00:00",
+          "verifiedAt": "2026-07-29T12:20:06.662+00:00",
+          "expiresAt": "2026-07-30T12:20:06.662+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1qv0ka7",
+          "sourceId": "nodebits-507988bbfaed77a3",
+          "sourceName": "91网|一手货源",
+          "sourceStoreName": "91网|一手货源",
+          "sourceIncludedAt": "2026-06-03T15:06:47.559773+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Google邮箱2010-2019|混合/美国地区|高权重|带2fa|适合业务 / 规格1",
+          "price": 6.8,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://gmail91.shop/products/Google3",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:06.074+00:00",
+          "sourceUpdatedAt": "2026-07-03T14:06:23.817+00:00",
+          "lastSeenAt": "2026-07-29T12:20:06.074+00:00",
+          "verifiedAt": "2026-07-29T12:20:06.074+00:00",
+          "expiresAt": "2026-07-30T12:20:06.074+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-19xzva3",
+          "sourceId": "nodebits-507988bbfaed77a3",
+          "sourceName": "91网|一手货源",
+          "sourceStoreName": "91网|一手货源",
+          "sourceIncludedAt": "2026-06-03T15:06:47.559773+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Google邮箱2020-2024|混合地区|带2fa / 规格1",
+          "price": 6.8,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://gmail91.shop/products/google1",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:06.074+00:00",
+          "sourceUpdatedAt": "2026-07-28T07:50:04.76+00:00",
+          "lastSeenAt": "2026-07-29T12:20:06.074+00:00",
+          "verifiedAt": "2026-07-29T12:20:06.074+00:00",
+          "expiresAt": "2026-07-30T12:20:06.074+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-svypp9",
+          "sourceId": "ldxp-harvey",
+          "sourceName": "LDXP / harvey",
+          "sourceStoreName": "harvey",
+          "sourceIncludedAt": "2026-06-09T14:19:40.042397+00:00",
+          "sourceShopCreatedAt": "2026-04-09T09:42:22+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "iCloud隐私邮箱，发货形式为邮箱----取码url",
+          "price": 6.8,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/7cbqce",
+          "tags": [],
+          "filterTags": [
+            "verification_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:13:01.616+00:00",
+          "sourceUpdatedAt": "2026-07-26T13:38:55.09+00:00",
+          "lastSeenAt": "2026-07-29T12:13:01.616+00:00",
+          "verifiedAt": "2026-07-29T12:13:01.616+00:00",
+          "expiresAt": "2026-07-30T12:13:01.616+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "icloud-email",
+          "slug": "icloud-email",
+          "displayName": "iCloud 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "iCloud",
+          "summary": "纯 iCloud 邮箱、iCloud 隐私邮箱、iCloud 邮箱母号或取码邮箱商品。",
+          "aliases": [
+            "icloud",
+            "icloud 邮箱",
+            "icloud邮箱",
+            "icoud",
+            "icoud 邮箱",
+            "icoud邮箱",
+            "icloud 隐私邮箱",
+            "icloud 母号",
+            "icloud 子号"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-lqrykn",
+          "sourceId": "猫咔-24小时自动发货",
+          "sourceName": "猫咔 - Gemini源头批发",
+          "sourceStoreName": "猫咔 - Gemini源头批发",
+          "sourceIncludedAt": "2026-06-08T16:13:51.751153+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "publicProductsApi",
+          "sourceTitle": "Gmail邮箱账号",
+          "price": 7,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://catcard.uk/#product-7",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:00.829+00:00",
+          "sourceUpdatedAt": "2026-07-21T12:35:13.81+00:00",
+          "lastSeenAt": "2026-07-29T12:37:00.829+00:00",
+          "verifiedAt": "2026-07-29T12:37:00.829+00:00",
+          "expiresAt": "2026-07-30T12:37:00.829+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-8g85um",
+          "sourceId": "ldxp-lanyy",
+          "sourceName": "LDXP / lanyy",
+          "sourceStoreName": "懒羊羊AI",
+          "sourceIncludedAt": "2026-06-10T04:06:24.067604+00:00",
+          "sourceShopCreatedAt": "2026-04-30T08:33:47+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "随机 2-4 年谷歌邮箱（包gcp）",
+          "price": 7.21,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/eel51j",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:43:44.608+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:15:14.424+00:00",
+          "lastSeenAt": "2026-07-29T12:43:44.608+00:00",
+          "verifiedAt": "2026-07-29T12:43:44.608+00:00",
+          "expiresAt": "2026-07-30T12:43:44.608+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-8acwo3",
+          "sourceId": "nodebits-b22e6d696740aef7",
+          "sourceName": "伊莉雅ai会员店",
+          "sourceStoreName": "【伊莉雅】",
+          "sourceIncludedAt": "2026-06-03T10:21:03.623589+00:00",
+          "sourceShopCreatedAt": "2026-04-26T06:14:48+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【随机】谷歌账号20-24年",
+          "price": 7.21,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/ev1t1x",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "team_official"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:27:01.222+00:00",
+          "sourceUpdatedAt": "2026-07-28T07:48:12.112+00:00",
+          "lastSeenAt": "2026-07-29T12:27:01.222+00:00",
+          "verifiedAt": "2026-07-29T12:27:01.222+00:00",
+          "expiresAt": "2026-07-30T12:27:01.222+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-326w60",
+          "sourceId": "nodebits-a5b6328dfe1e3186",
+          "sourceName": "AI华强北",
+          "sourceStoreName": "AI华强北",
+          "sourceIncludedAt": "2026-06-03T10:20:57.3039+00:00",
+          "sourceShopCreatedAt": "2026-04-28T08:57:06+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区 2-4 年谷歌邮箱（包gcp）",
+          "price": 7.21,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/mvbdul",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "telegram_region_us",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:58:49.106+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:47:18.813+00:00",
+          "lastSeenAt": "2026-07-29T11:58:49.106+00:00",
+          "verifiedAt": "2026-07-29T11:58:49.106+00:00",
+          "expiresAt": "2026-07-30T11:58:49.106+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1ugjsc6",
+          "sourceId": "nodebits-974eb11db27cd8ca",
+          "sourceName": "YCYAI",
+          "sourceStoreName": "YCYAPI",
+          "sourceIncludedAt": "2026-06-03T10:20:04.63992+00:00",
+          "sourceShopCreatedAt": "2026-04-04T09:58:14+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "随机 2-4 年谷歌邮箱（包gcp）",
+          "price": 7.42,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/t6dwi2",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:46.209+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:17:28.514+00:00",
+          "lastSeenAt": "2026-07-29T12:20:46.209+00:00",
+          "verifiedAt": "2026-07-29T12:20:46.209+00:00",
+          "expiresAt": "2026-07-30T12:20:46.209+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1unq4v2",
+          "sourceId": "ldxp-zpisrc7g",
+          "sourceName": "链动小铺",
+          "sourceStoreName": "琪琪科技",
+          "sourceIncludedAt": "2026-07-24T05:49:55.336672+00:00",
+          "sourceShopCreatedAt": "2026-07-21T06:42:28+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区 2-4 年谷歌邮箱（包gcp）",
+          "price": 7.42,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/yogj6o",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "telegram_region_us",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:19:28.036+00:00",
+          "sourceUpdatedAt": "2026-07-27T09:40:00.262+00:00",
+          "lastSeenAt": "2026-07-29T12:19:28.036+00:00",
+          "verifiedAt": "2026-07-29T12:19:28.036+00:00",
+          "expiresAt": "2026-07-30T12:19:28.036+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-7fc2k8",
+          "sourceId": "ldxp-echo-dream",
+          "sourceName": "LDXP / echo_dream",
+          "sourceStoreName": "AI小铺",
+          "sourceIncludedAt": "2026-06-02T17:37:35.581197+00:00",
+          "sourceShopCreatedAt": "2026-04-14T10:46:00+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区 2-4 年谷歌邮箱（小部分随机）（85%带gcp）",
+          "price": 7.52,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/fyw6b8",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:15:20.3+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:19:28.958+00:00",
+          "lastSeenAt": "2026-07-29T12:15:20.3+00:00",
+          "verifiedAt": "2026-07-29T12:15:20.3+00:00",
+          "expiresAt": "2026-07-30T12:15:20.3+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1gptjvo",
+          "sourceId": null,
+          "sourceName": "购物 - T佬的gmail批发渠道",
+          "sourceStoreName": "购物 - T佬的gmail批发渠道",
+          "collectorKind": null,
+          "sourceTitle": "2006-2019【高权重】美区IP Gmail 2FA 老邮箱",
+          "price": 7.7,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ai666.dnxb.cc/item/29",
+          "tags": [],
+          "filterTags": [
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-01T15:35:04.879+00:00",
+          "sourceUpdatedAt": "2026-07-01T15:35:04.879+00:00",
+          "lastSeenAt": "2026-07-01T15:35:04.879+00:00",
+          "verifiedAt": "2026-07-01T15:35:04.879+00:00",
+          "expiresAt": "2026-07-02T15:35:04.879+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-3kbidw",
+          "sourceId": "nodebits-3e2a2707f9017f45",
+          "sourceName": "哈哈的ai杂货铺",
+          "sourceStoreName": "哈哈的ai杂货铺",
+          "sourceIncludedAt": "2026-06-03T10:20:48.908705+00:00",
+          "sourceShopCreatedAt": "2026-04-15T11:25:09+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【随机】谷歌账号20-24年",
+          "price": 7.73,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/mlodxz",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "team_official"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:42:26.928+00:00",
+          "sourceUpdatedAt": "2026-07-28T07:26:02.753+00:00",
+          "lastSeenAt": "2026-07-29T12:42:26.928+00:00",
+          "verifiedAt": "2026-07-29T12:42:26.928+00:00",
+          "expiresAt": "2026-07-30T12:42:26.928+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-13assi5",
+          "sourceId": "fk-10886-xyz",
+          "sourceName": "fk.10886.xyz",
+          "sourceStoreName": "fk.10886.xyz",
+          "sourceIncludedAt": "2026-06-27T04:26:08.37316+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "【美区2022-2024年gmail邮箱带2fa 】",
+          "price": 7.8,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://fk.10886.xyz/item/9",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "team_official",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:14.866+00:00",
+          "sourceUpdatedAt": "2026-07-24T15:35:42.293+00:00",
+          "lastSeenAt": "2026-07-29T12:37:14.866+00:00",
+          "verifiedAt": "2026-07-29T12:37:14.866+00:00",
+          "expiresAt": "2026-07-30T12:37:14.866+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1mvtgvg",
+          "sourceId": "nodebits-507988bbfaed77a3",
+          "sourceName": "91网|一手货源",
+          "sourceStoreName": "91网|一手货源",
+          "sourceIncludedAt": "2026-06-03T15:06:47.559773+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Google邮箱2010-2019|混合/美国地区|高权重|带2fa|适合业务 / 规格2",
+          "price": 7.8,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://gmail91.shop/products/Google3",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:06.074+00:00",
+          "sourceUpdatedAt": "2026-07-03T14:06:23.817+00:00",
+          "lastSeenAt": "2026-07-29T12:20:06.074+00:00",
+          "verifiedAt": "2026-07-29T12:20:06.074+00:00",
+          "expiresAt": "2026-07-30T12:20:06.074+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-gbn5yg",
+          "sourceId": "nodebits-05b3a4700ccf9e8a",
+          "sourceName": "WEB3Al",
+          "sourceStoreName": "WEB3Al",
+          "sourceIncludedAt": "2026-06-03T15:05:01.554845+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "【Google个人邮箱】美区 22-24年老号 2FA 【100个=700R】",
+          "price": 8,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://web3chirou.com/item/259",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:37.71+00:00",
+          "sourceUpdatedAt": "2026-07-28T02:25:42.169+00:00",
+          "lastSeenAt": "2026-07-29T12:25:37.71+00:00",
+          "verifiedAt": "2026-07-29T12:25:37.71+00:00",
+          "expiresAt": "2026-07-30T12:25:37.71+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-17dbxsd",
+          "sourceId": "nodebits-507988bbfaed77a3",
+          "sourceName": "91网|一手货源",
+          "sourceStoreName": "91网|一手货源",
+          "sourceIncludedAt": "2026-06-03T15:06:47.559773+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Google邮箱2020-2024|美区|带 2fa",
+          "price": 8,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://gmail91.shop/products/google",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:06.074+00:00",
+          "sourceUpdatedAt": "2026-07-20T17:20:07.994+00:00",
+          "lastSeenAt": "2026-07-29T12:20:06.074+00:00",
+          "verifiedAt": "2026-07-29T12:20:06.074+00:00",
+          "expiresAt": "2026-07-30T12:20:06.074+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1u4z8y0",
+          "sourceId": "ldxp-s5ul3uhi",
+          "sourceName": "LDXP / S5UL3UHI",
+          "sourceStoreName": "ai能量小铺",
+          "sourceIncludedAt": "2026-06-25T07:02:55.621842+00:00",
+          "sourceShopCreatedAt": "2026-04-07T08:54:18+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区 2-4 年谷歌邮箱（包gcp）",
+          "price": 8.14,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/t80wn1",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "telegram_region_us",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:57:48.695+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:23:41.533+00:00",
+          "lastSeenAt": "2026-07-29T11:57:48.695+00:00",
+          "verifiedAt": "2026-07-29T11:57:48.695+00:00",
+          "expiresAt": "2026-07-30T11:57:48.695+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-pq7zwu",
+          "sourceId": "nodebits-b22e6d696740aef7",
+          "sourceName": "伊莉雅ai会员店",
+          "sourceStoreName": "【伊莉雅】",
+          "sourceIncludedAt": "2026-06-03T10:21:03.623589+00:00",
+          "sourceShopCreatedAt": "2026-04-26T06:14:48+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "随机 2-4 年谷歌邮箱（包gcp）",
+          "price": 8.24,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/4kawc8",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:27:01.222+00:00",
+          "sourceUpdatedAt": "2026-07-28T09:46:07.105+00:00",
+          "lastSeenAt": "2026-07-29T12:27:01.222+00:00",
+          "verifiedAt": "2026-07-29T12:27:01.222+00:00",
+          "expiresAt": "2026-07-30T12:27:01.222+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-aamush",
+          "sourceId": "ldxp-hv676a0a",
+          "sourceName": "LDXP / HV676A0A",
+          "sourceStoreName": "AI小店",
+          "sourceIncludedAt": "2026-06-17T12:41:37.570612+00:00",
+          "sourceShopCreatedAt": "2026-06-16T20:45:34+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "印度UPI苹果邮箱成品-半成品",
+          "price": 8.24,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/bfhquu",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "chatgpt_plus_india_upi",
+            "telegram_region_india"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-23T01:43:00.007+00:00",
+          "sourceUpdatedAt": "2026-07-19T18:50:58.314+00:00",
+          "lastSeenAt": "2026-07-23T01:43:00.007+00:00",
+          "verifiedAt": "2026-07-23T01:43:00.007+00:00",
+          "expiresAt": "2026-07-24T01:43:00.007+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "email-account",
+          "slug": "email-account",
+          "displayName": "其他邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "其他邮箱",
+          "summary": "域名邮箱、自建邮箱、无法进一步确认类型的纯邮箱商品。",
+          "aliases": [
+            "邮箱账号",
+            "域名邮箱",
+            "企业邮箱",
+            "其他邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-t0ezgm",
+          "sourceId": null,
+          "sourceName": "购物 - T佬的gmail批发渠道",
+          "sourceStoreName": "购物 - T佬的gmail批发渠道",
+          "collectorKind": null,
+          "sourceTitle": "Gmail+YouTube 2006-2019邮箱",
+          "price": 8.48,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ai666.dnxb.cc/item/18",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-01T15:35:04.879+00:00",
+          "sourceUpdatedAt": "2026-07-01T15:35:04.879+00:00",
+          "lastSeenAt": "2026-07-01T15:35:04.879+00:00",
+          "verifiedAt": "2026-07-01T15:35:04.879+00:00",
+          "expiresAt": "2026-07-02T15:35:04.879+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1vpjv7w",
+          "sourceId": "nodebits-05b3a4700ccf9e8a",
+          "sourceName": "WEB3Al",
+          "sourceStoreName": "WEB3Al",
+          "sourceIncludedAt": "2026-06-03T15:05:01.554845+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "DC-双绑| 2021-2022年 | 邮箱可用 | 账密/token登录 支持Authena验证 大量库存",
+          "price": 8.5,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://web3chirou.com/item/24",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:37.71+00:00",
+          "sourceUpdatedAt": "2026-07-08T13:54:12.382+00:00",
+          "lastSeenAt": "2026-07-29T12:25:37.71+00:00",
+          "verifiedAt": "2026-07-29T12:25:37.71+00:00",
+          "expiresAt": "2026-07-30T12:25:37.71+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "email-account",
+          "slug": "email-account",
+          "displayName": "其他邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "其他邮箱",
+          "summary": "域名邮箱、自建邮箱、无法进一步确认类型的纯邮箱商品。",
+          "aliases": [
+            "邮箱账号",
+            "域名邮箱",
+            "企业邮箱",
+            "其他邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-6ts9ku",
+          "sourceId": "ldxp-dgf2ie5w",
+          "sourceName": "哈基米站",
+          "sourceStoreName": "哈基米站",
+          "sourceIncludedAt": "2026-07-09T16:22:15.73964+00:00",
+          "sourceShopCreatedAt": "2026-07-09T14:22:17+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "精品稳定个人谷歌邮箱老号Gmail 至少两年以上，2FA 随机地区美区居多",
+          "price": 8.5,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/gxkfaq",
+          "tags": [],
+          "filterTags": [
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:12:12.819+00:00",
+          "sourceUpdatedAt": "2026-07-20T13:07:00.506+00:00",
+          "lastSeenAt": "2026-07-29T12:12:12.819+00:00",
+          "verifiedAt": "2026-07-29T12:12:12.819+00:00",
+          "expiresAt": "2026-07-30T12:12:12.819+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-64429h",
+          "sourceId": "ldxp-harvey",
+          "sourceName": "LDXP / harvey",
+          "sourceStoreName": "harvey",
+          "sourceIncludedAt": "2026-06-09T14:19:40.042397+00:00",
+          "sourceShopCreatedAt": "2026-04-09T09:42:22+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "微软邮箱",
+          "price": 8.65,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/f8qwte",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:13:01.616+00:00",
+          "sourceUpdatedAt": "2026-07-22T16:40:04.405+00:00",
+          "lastSeenAt": "2026-07-29T12:13:01.616+00:00",
+          "verifiedAt": "2026-07-29T12:13:01.616+00:00",
+          "expiresAt": "2026-07-30T12:13:01.616+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "outlook-account",
+          "slug": "outlook-account",
+          "displayName": "Outlook / Hotmail 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Outlook / Hotmail / Microsoft",
+          "summary": "纯 Outlook、Hotmail、Microsoft、微软邮箱、OAuth2 邮箱商品。",
+          "aliases": [
+            "outlook",
+            "hotmail",
+            "微软邮箱",
+            "microsoft 邮箱",
+            "oauth2",
+            "graph 令牌"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-ayl8d8",
+          "sourceId": "ldxp-yanlidemuqin",
+          "sourceName": "Ai最严厉的妈妈",
+          "sourceStoreName": "Ai最严厉的妈妈",
+          "sourceIncludedAt": "2026-07-24T04:02:49.83514+00:00",
+          "sourceShopCreatedAt": "2026-07-13T05:35:08+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "印度渠道成品号-未接码-手搓-outlook邮箱-未接码",
+          "price": 8.65,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/aaobty",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_unverified",
+            "telegram_region_india",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:03:49.22+00:00",
+          "sourceUpdatedAt": "2026-07-26T07:14:12.455+00:00",
+          "lastSeenAt": "2026-07-29T12:03:49.22+00:00",
+          "verifiedAt": "2026-07-29T12:03:49.22+00:00",
+          "expiresAt": "2026-07-30T12:03:49.22+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "outlook-account",
+          "slug": "outlook-account",
+          "displayName": "Outlook / Hotmail 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Outlook / Hotmail / Microsoft",
+          "summary": "纯 Outlook、Hotmail、Microsoft、微软邮箱、OAuth2 邮箱商品。",
+          "aliases": [
+            "outlook",
+            "hotmail",
+            "微软邮箱",
+            "microsoft 邮箱",
+            "oauth2",
+            "graph 令牌"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1wf1a5f",
+          "sourceId": "ldxp-dgf2ie5w",
+          "sourceName": "哈基米站",
+          "sourceStoreName": "哈基米站",
+          "sourceIncludedAt": "2026-07-09T16:22:15.73964+00:00",
+          "sourceShopCreatedAt": "2026-07-09T14:22:17+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区2022--2024年Gmail邮箱带2fa",
+          "price": 8.7,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/vo3gzh",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "team_official",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:12:12.819+00:00",
+          "sourceUpdatedAt": "2026-07-27T07:35:46.486+00:00",
+          "lastSeenAt": "2026-07-29T12:12:12.819+00:00",
+          "verifiedAt": "2026-07-29T12:12:12.819+00:00",
+          "expiresAt": "2026-07-30T12:12:12.819+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1uml0e9",
+          "sourceId": "ldxp-gpt-plus",
+          "sourceName": "LDXP / gpt_plus",
+          "sourceStoreName": "aihome",
+          "sourceIncludedAt": "2026-06-16T16:58:19.41028+00:00",
+          "sourceShopCreatedAt": "2026-04-27T13:35:15+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区2022--2024年Gmail邮箱带2fa",
+          "price": 8.76,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/yizsw3",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "team_official",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:02:52.362+00:00",
+          "sourceUpdatedAt": "2026-07-27T07:48:17.542+00:00",
+          "lastSeenAt": "2026-07-29T12:02:52.362+00:00",
+          "verifiedAt": "2026-07-29T12:02:52.362+00:00",
+          "expiresAt": "2026-07-30T12:02:52.362+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1vldtdv",
+          "sourceId": "ldxp-th52wuw7",
+          "sourceName": "boji1334yd小店",
+          "sourceStoreName": "boji1334yd",
+          "sourceIncludedAt": "2026-07-27T10:18:42.090633+00:00",
+          "sourceShopCreatedAt": "2026-04-24T08:38:47+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "印度渠道成品号-未接码-手搓-outlook邮箱-未接码",
+          "price": 8.8,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/ptva4x",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_unverified",
+            "telegram_region_india",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:18:27.962+00:00",
+          "sourceUpdatedAt": "2026-07-27T10:36:07.427+00:00",
+          "lastSeenAt": "2026-07-29T12:18:27.962+00:00",
+          "verifiedAt": "2026-07-29T12:18:27.962+00:00",
+          "expiresAt": "2026-07-30T12:18:27.962+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "outlook-account",
+          "slug": "outlook-account",
+          "displayName": "Outlook / Hotmail 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Outlook / Hotmail / Microsoft",
+          "summary": "纯 Outlook、Hotmail、Microsoft、微软邮箱、OAuth2 邮箱商品。",
+          "aliases": [
+            "outlook",
+            "hotmail",
+            "微软邮箱",
+            "microsoft 邮箱",
+            "oauth2",
+            "graph 令牌"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-7vso1x",
+          "sourceId": "ldxp-2vwx76a4",
+          "sourceName": "LDXP / 2VWX76A4",
+          "sourceStoreName": "牟利ai",
+          "sourceIncludedAt": "2026-06-12T04:35:25.485303+00:00",
+          "sourceShopCreatedAt": "2026-04-17T13:58:00+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区 2-4 年谷歌邮箱（包gcp）",
+          "price": 8.86,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/fabh0d",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "telegram_region_us",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:44:06.323+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:11:59.552+00:00",
+          "lastSeenAt": "2026-07-29T11:44:06.323+00:00",
+          "verifiedAt": "2026-07-29T11:44:06.323+00:00",
+          "expiresAt": "2026-07-30T11:44:06.323+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-3am2ae",
+          "sourceId": "nodebits-58d2f1c37d2e3e56",
+          "sourceName": "我爱买号",
+          "sourceStoreName": "我爱买号",
+          "sourceIncludedAt": "2026-06-03T15:04:41.610431+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "genericHtml",
+          "sourceTitle": "谷歌账号 Gmail20-25年注册稳定老号 谷歌真人注册老号，稳定使用",
+          "price": 9,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://woaimaihao.com/products/gmail-account-20-25",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:35:33.019+00:00",
+          "sourceUpdatedAt": "2026-07-12T09:35:06.994+00:00",
+          "lastSeenAt": "2026-07-29T12:35:33.019+00:00",
+          "verifiedAt": "2026-07-29T12:35:33.019+00:00",
+          "expiresAt": "2026-07-30T12:35:33.019+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-10jie0y",
+          "sourceId": "nodebits-05b3a4700ccf9e8a",
+          "sourceName": "WEB3Al",
+          "sourceStoreName": "WEB3Al",
+          "sourceIncludedAt": "2026-06-03T15:05:01.554845+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "【Google个人邮箱】【台湾】2020-2024 高质量谷歌老号直登 2FA",
+          "price": 9,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://web3chirou.com/item/462",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:37.71+00:00",
+          "sourceUpdatedAt": "2026-07-21T04:25:33.624+00:00",
+          "lastSeenAt": "2026-07-29T12:25:37.71+00:00",
+          "verifiedAt": "2026-07-29T12:25:37.71+00:00",
+          "expiresAt": "2026-07-30T12:25:37.71+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-p98yca",
+          "sourceId": "nodebits-05b3a4700ccf9e8a",
+          "sourceName": "WEB3Al",
+          "sourceStoreName": "WEB3Al",
+          "sourceIncludedAt": "2026-06-03T15:05:01.554845+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "【Google个人邮箱】【新加坡】2020-2024 高质量谷歌老号直登 2FA",
+          "price": 9,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://web3chirou.com/item/250",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:37.71+00:00",
+          "sourceUpdatedAt": "2026-07-26T17:26:21.338+00:00",
+          "lastSeenAt": "2026-07-29T12:25:37.71+00:00",
+          "verifiedAt": "2026-07-29T12:25:37.71+00:00",
+          "expiresAt": "2026-07-30T12:25:37.71+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-2x1he6",
+          "sourceId": "nodebits-05b3a4700ccf9e8a",
+          "sourceName": "WEB3Al",
+          "sourceStoreName": "WEB3Al",
+          "sourceIncludedAt": "2026-06-03T15:05:01.554845+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "【Google个人邮箱】【新加坡】2020-2024 高质量谷歌老号直登 2FA",
+          "price": 9,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://web3chirou.com/item/30",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:37.71+00:00",
+          "sourceUpdatedAt": "2026-07-19T04:08:56.221+00:00",
+          "lastSeenAt": "2026-07-29T12:25:37.71+00:00",
+          "verifiedAt": "2026-07-29T12:25:37.71+00:00",
+          "expiresAt": "2026-07-30T12:25:37.71+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-ipq19m",
+          "sourceId": "nodebits-05b3a4700ccf9e8a",
+          "sourceName": "WEB3Al",
+          "sourceStoreName": "WEB3Al",
+          "sourceIncludedAt": "2026-06-03T15:05:01.554845+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "【Google个人邮箱】【日本】2020-2024 高质量谷歌老号直登 2FA",
+          "price": 9,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://web3chirou.com/item/249",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:37.71+00:00",
+          "sourceUpdatedAt": "2026-07-20T03:25:45.389+00:00",
+          "lastSeenAt": "2026-07-29T12:25:37.71+00:00",
+          "verifiedAt": "2026-07-29T12:25:37.71+00:00",
+          "expiresAt": "2026-07-30T12:25:37.71+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-de03ji",
+          "sourceId": "nodebits-05b3a4700ccf9e8a",
+          "sourceName": "WEB3Al",
+          "sourceStoreName": "WEB3Al",
+          "sourceIncludedAt": "2026-06-03T15:05:01.554845+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "【Google个人邮箱】【英国】2020-2024 高质量谷歌老号直登 2FA",
+          "price": 9,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://web3chirou.com/item/248",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:37.71+00:00",
+          "sourceUpdatedAt": "2026-07-14T14:36:26.939+00:00",
+          "lastSeenAt": "2026-07-29T12:25:37.71+00:00",
+          "verifiedAt": "2026-07-29T12:25:37.71+00:00",
+          "expiresAt": "2026-07-30T12:25:37.71+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-sxa1pj",
+          "sourceId": "nodebits-05b3a4700ccf9e8a",
+          "sourceName": "WEB3Al",
+          "sourceStoreName": "WEB3Al",
+          "sourceIncludedAt": "2026-06-03T15:05:01.554845+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "【Google个人邮箱】随机地区2006-2019【高权重】gmail老邮箱",
+          "price": 9,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://web3chirou.com/item/66",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:37.71+00:00",
+          "sourceUpdatedAt": "2026-07-08T13:54:12.382+00:00",
+          "lastSeenAt": "2026-07-29T12:25:37.71+00:00",
+          "verifiedAt": "2026-07-29T12:25:37.71+00:00",
+          "expiresAt": "2026-07-30T12:25:37.71+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1v4jizy",
+          "sourceId": "ldxp-gpt88",
+          "sourceName": "迷途小铺",
+          "sourceStoreName": "迷途小铺",
+          "sourceIncludedAt": "2026-06-11T13:24:28.507774+00:00",
+          "sourceShopCreatedAt": "2026-04-12T06:01:44+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "韩国渠道成品号-未接码-手搓-outlook邮箱",
+          "price": 9,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/po8ca7",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_unverified",
+            "pro_max_short_term",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T08:03:49.292+00:00",
+          "sourceUpdatedAt": "2026-07-28T11:07:26.049+00:00",
+          "lastSeenAt": "2026-07-29T08:03:49.292+00:00",
+          "verifiedAt": "2026-07-29T08:03:49.292+00:00",
+          "expiresAt": "2026-07-30T08:03:49.292+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "outlook-account",
+          "slug": "outlook-account",
+          "displayName": "Outlook / Hotmail 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Outlook / Hotmail / Microsoft",
+          "summary": "纯 Outlook、Hotmail、Microsoft、微软邮箱、OAuth2 邮箱商品。",
+          "aliases": [
+            "outlook",
+            "hotmail",
+            "微软邮箱",
+            "microsoft 邮箱",
+            "oauth2",
+            "graph 令牌"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-312r8b",
+          "sourceId": "ldxp-8u6h8vi3",
+          "sourceName": "链动小铺 / 8U6H8VI3",
+          "sourceStoreName": "我有米奇妙妙屋",
+          "sourceIncludedAt": "2026-07-09T13:47:22.331657+00:00",
+          "sourceShopCreatedAt": "2026-04-09T11:29:08+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区 2-4 年谷歌邮箱（包gcp）",
+          "price": 9.16,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/o2laer",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "telegram_region_us",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:13:59.349+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:15:42.331+00:00",
+          "lastSeenAt": "2026-07-29T12:13:59.349+00:00",
+          "verifiedAt": "2026-07-29T12:13:59.349+00:00",
+          "expiresAt": "2026-07-30T12:13:59.349+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-15yds2",
+          "sourceId": "ldxp-2vwx76a4",
+          "sourceName": "LDXP / 2VWX76A4",
+          "sourceStoreName": "牟利ai",
+          "sourceIncludedAt": "2026-06-12T04:35:25.485303+00:00",
+          "sourceShopCreatedAt": "2026-04-17T13:58:00+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "韩国渠道成品号-已接码带rt-手搓-outlook邮箱",
+          "price": 9.48,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/n66ut1",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:44:06.323+00:00",
+          "sourceUpdatedAt": "2026-07-26T18:56:04.196+00:00",
+          "lastSeenAt": "2026-07-29T11:44:06.323+00:00",
+          "verifiedAt": "2026-07-29T11:44:06.323+00:00",
+          "expiresAt": "2026-07-30T11:44:06.323+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "outlook-account",
+          "slug": "outlook-account",
+          "displayName": "Outlook / Hotmail 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Outlook / Hotmail / Microsoft",
+          "summary": "纯 Outlook、Hotmail、Microsoft、微软邮箱、OAuth2 邮箱商品。",
+          "aliases": [
+            "outlook",
+            "hotmail",
+            "微软邮箱",
+            "microsoft 邮箱",
+            "oauth2",
+            "graph 令牌"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1yy2jps",
+          "sourceId": "nodebits-490ed62893c9cbd3",
+          "sourceName": "52AI店铺",
+          "sourceStoreName": "52AI店铺",
+          "sourceIncludedAt": "2026-06-03T10:19:51.985462+00:00",
+          "sourceShopCreatedAt": "2026-01-20T09:16:09+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区 2-4 年谷歌邮箱（包gcp）",
+          "price": 9.79,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/l2wy7k",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "telegram_region_us",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:00:03.986+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:23:26.317+00:00",
+          "lastSeenAt": "2026-07-29T12:00:03.986+00:00",
+          "verifiedAt": "2026-07-29T12:00:03.986+00:00",
+          "expiresAt": "2026-07-30T12:00:03.986+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-rqnd2f",
+          "sourceId": "ldxp-x23to6qe",
+          "sourceName": "LDXP / X23TO6QE",
+          "sourceStoreName": "卷子ai ( Lucky )",
+          "sourceIncludedAt": "2026-06-12T04:35:20.99726+00:00",
+          "sourceShopCreatedAt": "2026-04-17T01:14:17+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区 2-4 年谷歌邮箱（包gcp）",
+          "price": 9.79,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/1jyjcp",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "telegram_region_us",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:56:20.411+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:31:43.259+00:00",
+          "lastSeenAt": "2026-07-29T11:56:20.411+00:00",
+          "verifiedAt": "2026-07-29T11:56:20.411+00:00",
+          "expiresAt": "2026-07-30T11:56:20.411+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1qbzmft",
+          "sourceId": "nodebits-58d2f1c37d2e3e56",
+          "sourceName": "我爱买号",
+          "sourceStoreName": "我爱买号",
+          "sourceIncludedAt": "2026-06-03T15:04:41.610431+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "genericHtml",
+          "sourceTitle": "【优质】满年个人谷歌邮箱2020-2024 年注册（少许账号有轻微使用痕迹） 20-24年注册谷歌优质老号，随机IP",
+          "price": 9.99,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://woaimaihao.com/products/gmail-account-20-24",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "team_official"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:35:33.019+00:00",
+          "sourceUpdatedAt": "2026-07-12T09:35:06.994+00:00",
+          "lastSeenAt": "2026-07-29T12:35:33.019+00:00",
+          "verifiedAt": "2026-07-29T12:35:33.019+00:00",
+          "expiresAt": "2026-07-30T12:35:33.019+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1cwi3hk",
+          "sourceId": "nodebits-b8dd3f862443157a",
+          "sourceName": "谷歌邮箱 AI源头批发",
+          "sourceStoreName": "谷歌邮箱 AI源头批发",
+          "sourceIncludedAt": "2026-06-03T15:05:43.424716+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "随机地区2011--2019年gmail邮箱不带2fa 格式 账号--密码--辅助邮箱--辅助邮箱接码链接 (使用说明查看商品详情)",
+          "price": 10,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://hiemail.store/item/9",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "verification_long",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:12.05+00:00",
+          "sourceUpdatedAt": "2026-07-28T12:35:50.991+00:00",
+          "lastSeenAt": "2026-07-29T12:37:12.05+00:00",
+          "verifiedAt": "2026-07-29T12:37:12.05+00:00",
+          "expiresAt": "2026-07-30T12:37:12.05+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-7pu90v",
+          "sourceId": "nodebits-3f7fd5efa24bb31c",
+          "sourceName": "云边小铺",
+          "sourceStoreName": "云边小铺（招代理）",
+          "sourceIncludedAt": "2026-06-03T10:19:32.09771+00:00",
+          "sourceShopCreatedAt": "2026-04-12T05:29:18+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "随机 2-4 年谷歌邮箱（包gcp）",
+          "price": 10,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/fnk16w",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:57:04.593+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:30:57.377+00:00",
+          "lastSeenAt": "2026-07-29T11:57:04.593+00:00",
+          "verifiedAt": "2026-07-29T11:57:04.593+00:00",
+          "expiresAt": "2026-07-30T11:57:04.593+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1em2cu",
+          "sourceId": "nodebits-490ed62893c9cbd3",
+          "sourceName": "52AI店铺",
+          "sourceStoreName": "52AI店铺",
+          "sourceIncludedAt": "2026-06-03T10:19:51.985462+00:00",
+          "sourceShopCreatedAt": "2026-01-20T09:16:09+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区2022--2024年Gmail邮箱带2fa",
+          "price": 10.15,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/heuonk",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "team_official",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:00:03.986+00:00",
+          "sourceUpdatedAt": "2026-07-27T08:06:46.229+00:00",
+          "lastSeenAt": "2026-07-29T12:00:03.986+00:00",
+          "verifiedAt": "2026-07-29T12:00:03.986+00:00",
+          "expiresAt": "2026-07-30T12:00:03.986+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1yfib63",
+          "sourceId": "ldxp-aying",
+          "sourceName": "LDXP / Aying",
+          "sourceStoreName": "Ai俱乐部",
+          "sourceIncludedAt": "2026-06-12T16:12:16.387695+00:00",
+          "sourceShopCreatedAt": "2026-06-14T02:21:45+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "2年谷歌老邮箱",
+          "price": 10.2,
+          "currency": "CNY",
+          "status": "in_stock",
+          "url": "https://pay.ldxp.cn/item/sayctk",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 10,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:06:50.763+00:00",
+          "sourceUpdatedAt": "2026-07-29T12:06:50.763+00:00",
+          "lastSeenAt": "2026-07-29T12:06:50.763+00:00",
+          "verifiedAt": "2026-07-29T12:06:50.763+00:00",
+          "expiresAt": "2026-07-30T12:06:50.763+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-86myqs",
+          "sourceId": "ldxp-tora",
+          "sourceName": "LDXP / Tora",
+          "sourceStoreName": "Tora-雪诺AI源头分销小铺",
+          "sourceIncludedAt": "2026-06-03T05:06:39.154331+00:00",
+          "sourceShopCreatedAt": "2026-04-23T08:36:31+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "随机 2-4 年谷歌邮箱（包gcp）",
+          "price": 10.3,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/g1z4dd",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:56:34.943+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:28:42.599+00:00",
+          "lastSeenAt": "2026-07-29T11:56:34.943+00:00",
+          "verifiedAt": "2026-07-29T11:56:34.943+00:00",
+          "expiresAt": "2026-07-30T11:56:34.943+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-16febr",
+          "sourceId": "nodebits-71d9d5bbbb5d184b",
+          "sourceName": "AI源头批发旗舰店",
+          "sourceStoreName": "AI源头批发旗舰店",
+          "sourceIncludedAt": "2026-06-03T10:21:01.505652+00:00",
+          "sourceShopCreatedAt": "2026-04-24T06:05:28+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【随机】谷歌账号20-24年",
+          "price": 10.82,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/n7gbin",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "team_official"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:59:23.952+00:00",
+          "sourceUpdatedAt": "2026-07-28T07:43:51.899+00:00",
+          "lastSeenAt": "2026-07-29T11:59:23.952+00:00",
+          "verifiedAt": "2026-07-29T11:59:23.952+00:00",
+          "expiresAt": "2026-07-30T11:59:23.952+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-ty5yyn",
+          "sourceId": "nodebits-b8dd3f862443157a",
+          "sourceName": "谷歌邮箱 AI源头批发",
+          "sourceStoreName": "谷歌邮箱 AI源头批发",
+          "sourceIncludedAt": "2026-06-03T15:05:43.424716+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "随机地区2011--2019年gmail邮箱带2fa （无原始电话）",
+          "price": 11,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://hiemail.store/item/31",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:12.05+00:00",
+          "sourceUpdatedAt": "2026-07-25T09:05:12.067+00:00",
+          "lastSeenAt": "2026-07-29T12:37:12.05+00:00",
+          "verifiedAt": "2026-07-29T12:37:12.05+00:00",
+          "expiresAt": "2026-07-30T12:37:12.05+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1ukt0ej",
+          "sourceId": "nodebits-b8dd3f862443157a",
+          "sourceName": "谷歌邮箱 AI源头批发",
+          "sourceStoreName": "谷歌邮箱 AI源头批发",
+          "sourceIncludedAt": "2026-06-03T15:05:43.424716+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "随机地区2011--2019年gmail邮箱带2fa（带2个月接码链接）",
+          "price": 11,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://hiemail.store/item/30",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "verification_long",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:12.05+00:00",
+          "sourceUpdatedAt": "2026-07-28T14:37:15.554+00:00",
+          "lastSeenAt": "2026-07-29T12:37:12.05+00:00",
+          "verifiedAt": "2026-07-29T12:37:12.05+00:00",
+          "expiresAt": "2026-07-30T12:37:12.05+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1uv2iro",
+          "sourceId": "ldxp-xiaofeng",
+          "sourceName": "LDXP / xiaofeng",
+          "sourceStoreName": "晓风ai",
+          "sourceIncludedAt": "2026-06-13T17:40:24.250917+00:00",
+          "sourceShopCreatedAt": "2026-04-08T02:41:58+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "随机 2-4 年谷歌邮箱（包gcp）",
+          "price": 11,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/yrwbp6",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:49:04.862+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:14:12.054+00:00",
+          "lastSeenAt": "2026-07-29T11:49:04.862+00:00",
+          "verifiedAt": "2026-07-29T11:49:04.862+00:00",
+          "expiresAt": "2026-07-30T11:49:04.862+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1ut5phs",
+          "sourceId": "nodebits-b22e6d696740aef7",
+          "sourceName": "伊莉雅ai会员店",
+          "sourceStoreName": "【伊莉雅】",
+          "sourceIncludedAt": "2026-06-03T10:21:03.623589+00:00",
+          "sourceShopCreatedAt": "2026-04-26T06:14:48+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【美区】谷歌账号20-24年",
+          "price": 11.12,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/ywzwyv",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "team_official",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:27:01.222+00:00",
+          "sourceUpdatedAt": "2026-07-27T09:48:36.59+00:00",
+          "lastSeenAt": "2026-07-29T12:27:01.222+00:00",
+          "verifiedAt": "2026-07-29T12:27:01.222+00:00",
+          "expiresAt": "2026-07-30T12:27:01.222+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-2auab3",
+          "sourceId": "ldxp-gueoi7z9",
+          "sourceName": "链动小铺 / GUEOI7Z9",
+          "sourceStoreName": "鹰鹰小铺",
+          "sourceIncludedAt": "2026-07-19T11:16:44.110254+00:00",
+          "sourceShopCreatedAt": "2026-04-16T13:47:45+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "韩国渠道成品号-手搓-outlook邮箱-未接码",
+          "price": 11.33,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/ol90ip",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_unverified",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:45:12.874+00:00",
+          "sourceUpdatedAt": "2026-07-27T02:12:35.228+00:00",
+          "lastSeenAt": "2026-07-29T12:45:12.874+00:00",
+          "verifiedAt": "2026-07-29T12:45:12.874+00:00",
+          "expiresAt": "2026-07-30T12:45:12.874+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh",
+          "riskFeedback": {
+            "count": 1,
+            "offerCount": 0,
+            "sourceCount": 1,
+            "scope": "source",
+            "latestAt": "2026-07-29T03:41:30.896877+00:00",
+            "reasons": [
+              "fraud"
+            ],
+            "summaries": [
+              "有用户反馈，在该商家购买 ChatGPT Team 账号时，发现同一账号被多个不同终端同时使用，存在一号多卖的欺诈风险，可能导致账号被封或无法正常使用。建议购买前先确认账号的独占性与安全状态。"
+            ],
+            "offerSummaries": [],
+            "sourceSummaries": [
+              "有用户反馈，在该商家购买 ChatGPT Team 账号时，发现同一账号被多个不同终端同时使用，存在一号多卖的欺诈风险，可能导致账号被封或无法正常使用。建议购买前先确认账号的独占性与安全状态。"
+            ],
+            "status": "user_report_pending_verification"
+          }
+        },
+        "product": {
+          "id": "outlook-account",
+          "slug": "outlook-account",
+          "displayName": "Outlook / Hotmail 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Outlook / Hotmail / Microsoft",
+          "summary": "纯 Outlook、Hotmail、Microsoft、微软邮箱、OAuth2 邮箱商品。",
+          "aliases": [
+            "outlook",
+            "hotmail",
+            "微软邮箱",
+            "microsoft 邮箱",
+            "oauth2",
+            "graph 令牌"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-6b9e6a",
+          "sourceId": "nodebits-71d9d5bbbb5d184b",
+          "sourceName": "AI源头批发旗舰店",
+          "sourceStoreName": "AI源头批发旗舰店",
+          "sourceIncludedAt": "2026-06-03T10:21:01.505652+00:00",
+          "sourceShopCreatedAt": "2026-04-24T06:05:28+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "精品稳定个人谷歌邮箱老号Gmail 至少两年以上，2FA 随机地区美区居多",
+          "price": 11.33,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/f5m0sc",
+          "tags": [],
+          "filterTags": [
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:59:23.952+00:00",
+          "sourceUpdatedAt": "2026-07-20T13:49:41.452+00:00",
+          "lastSeenAt": "2026-07-29T11:59:23.952+00:00",
+          "verifiedAt": "2026-07-29T11:59:23.952+00:00",
+          "expiresAt": "2026-07-30T11:59:23.952+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1w6pisl",
+          "sourceId": "ldxp-ujlfbvr9",
+          "sourceName": "链动小铺 / UJLFBVR9",
+          "sourceStoreName": "Kstar",
+          "sourceIncludedAt": "2026-07-28T07:23:38.821007+00:00",
+          "sourceShopCreatedAt": "2026-04-13T06:49:51+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "UPI渠道，iCloud邮箱，未接码，保首登。",
+          "price": 12.36,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/u1m3ol",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_unverified",
+            "pro_max_short_term",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:27:13.14+00:00",
+          "sourceUpdatedAt": "2026-07-28T09:42:48.527+00:00",
+          "lastSeenAt": "2026-07-29T12:27:13.14+00:00",
+          "verifiedAt": "2026-07-29T12:27:13.14+00:00",
+          "expiresAt": "2026-07-30T12:27:13.14+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "icloud-email",
+          "slug": "icloud-email",
+          "displayName": "iCloud 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "iCloud",
+          "summary": "纯 iCloud 邮箱、iCloud 隐私邮箱、iCloud 邮箱母号或取码邮箱商品。",
+          "aliases": [
+            "icloud",
+            "icloud 邮箱",
+            "icloud邮箱",
+            "icoud",
+            "icoud 邮箱",
+            "icoud邮箱",
+            "icloud 隐私邮箱",
+            "icloud 母号",
+            "icloud 子号"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-9grdo2",
+          "sourceId": "ldxp-gt7kx1tn",
+          "sourceName": "LDXP / GT7KX1TN",
+          "sourceStoreName": "光之国AI",
+          "sourceIncludedAt": "2026-06-12T14:17:35.062716+00:00",
+          "sourceShopCreatedAt": "2026-05-20T01:12:17+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "随机地区2020--2024年邮箱（当天登录，当天售后）",
+          "price": 12.36,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/a0qyc4",
+          "tags": [],
+          "filterTags": [
+            "team_official"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:57:21.088+00:00",
+          "sourceUpdatedAt": "2026-07-21T07:06:51.577+00:00",
+          "lastSeenAt": "2026-07-29T11:57:21.088+00:00",
+          "verifiedAt": "2026-07-29T11:57:21.088+00:00",
+          "expiresAt": "2026-07-30T11:57:21.088+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "email-account",
+          "slug": "email-account",
+          "displayName": "其他邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "其他邮箱",
+          "summary": "域名邮箱、自建邮箱、无法进一步确认类型的纯邮箱商品。",
+          "aliases": [
+            "邮箱账号",
+            "域名邮箱",
+            "企业邮箱",
+            "其他邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1e07prb",
+          "sourceId": "nodebits-562652c2309e6f77",
+          "sourceName": "会员权益在线",
+          "sourceStoreName": "会员权益在线",
+          "sourceIncludedAt": "2026-06-03T15:04:16.363207+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "2006-2019【高权重】随机gmail老邮箱",
+          "price": 13,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ai666.id/item/512",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:02.21+00:00",
+          "sourceUpdatedAt": "2026-07-03T06:05:58.599+00:00",
+          "lastSeenAt": "2026-07-29T12:37:02.21+00:00",
+          "verifiedAt": "2026-07-29T12:37:02.21+00:00",
+          "expiresAt": "2026-07-30T12:37:02.21+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-aaz76i",
+          "sourceId": "nodebits-3a43007f3911a999",
+          "sourceName": "LynnZee 店铺",
+          "sourceStoreName": "LynnZee 店铺",
+          "sourceIncludedAt": "2026-06-03T15:05:12.372951+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "谷歌邮箱",
+          "price": 13,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "http://lynnzee.myweb999.cfd/item/12",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:36:51.212+00:00",
+          "sourceUpdatedAt": "2026-07-28T13:35:33.734+00:00",
+          "lastSeenAt": "2026-07-29T12:36:51.212+00:00",
+          "verifiedAt": "2026-07-29T12:36:51.212+00:00",
+          "expiresAt": "2026-07-30T12:36:51.212+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-pkuk97",
+          "sourceId": "ldxp-hv676a0a",
+          "sourceName": "LDXP / HV676A0A",
+          "sourceStoreName": "AI小店",
+          "sourceIncludedAt": "2026-06-17T12:41:37.570612+00:00",
+          "sourceShopCreatedAt": "2026-06-16T20:45:34+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "荷兰IDEAL苹果邮箱成品-半成品",
+          "price": 13.39,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/5w51te",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "chatgpt_plus_netherlands_ideal"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-23T01:43:00.007+00:00",
+          "sourceUpdatedAt": "2026-07-19T18:50:58.314+00:00",
+          "lastSeenAt": "2026-07-23T01:43:00.007+00:00",
+          "verifiedAt": "2026-07-23T01:43:00.007+00:00",
+          "expiresAt": "2026-07-24T01:43:00.007+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "email-account",
+          "slug": "email-account",
+          "displayName": "其他邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "其他邮箱",
+          "summary": "域名邮箱、自建邮箱、无法进一步确认类型的纯邮箱商品。",
+          "aliases": [
+            "邮箱账号",
+            "域名邮箱",
+            "企业邮箱",
+            "其他邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-aposbm",
+          "sourceId": "ldxp-tim-ai",
+          "sourceName": "LDXP / Tim_AI",
+          "sourceStoreName": "Tim的AI便利店",
+          "sourceIncludedAt": "2026-07-02T13:31:35.06748+00:00",
+          "sourceShopCreatedAt": "2026-04-07T08:17:02+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "精选20-24年GMAIL_US账号",
+          "price": 13.88,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/atdypf",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "team_official"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:55:33.184+00:00",
+          "sourceUpdatedAt": "2026-07-26T16:46:35.674+00:00",
+          "lastSeenAt": "2026-07-29T11:55:33.184+00:00",
+          "verifiedAt": "2026-07-29T11:55:33.184+00:00",
+          "expiresAt": "2026-07-30T11:55:33.184+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1wpctgf",
+          "sourceId": "ldxp-z6i0vz0q",
+          "sourceName": "LDXP / Z6I0VZ0Q",
+          "sourceStoreName": "AI 云智聪聪",
+          "sourceIncludedAt": "2026-06-28T05:35:58.21154+00:00",
+          "sourceShopCreatedAt": "2026-05-20T16:31:40+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "高质量gmail邮箱 随机地区 2011--2019年gmail邮箱带2fa（带2个月接码链接）",
+          "price": 14.41,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/p8o93n",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified",
+            "verification_long",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T10:45:16.016+00:00",
+          "sourceUpdatedAt": "2026-07-21T16:47:13.93+00:00",
+          "lastSeenAt": "2026-07-29T10:45:16.016+00:00",
+          "verifiedAt": "2026-07-29T10:45:16.016+00:00",
+          "expiresAt": "2026-07-30T10:45:16.016+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-o4kzo",
+          "sourceId": "ldxp-42kwtjge",
+          "sourceName": "链动小铺 / 42KWTJGE",
+          "sourceStoreName": "797",
+          "sourceIncludedAt": "2026-07-09T13:49:16.536295+00:00",
+          "sourceShopCreatedAt": "2026-06-12T07:46:39+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【随机】谷歌账号20-24年",
+          "price": 14.73,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/qdyoh3",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "team_official"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:04:04.311+00:00",
+          "sourceUpdatedAt": "2026-07-28T07:46:09.547+00:00",
+          "lastSeenAt": "2026-07-29T12:04:04.311+00:00",
+          "verifiedAt": "2026-07-29T12:04:04.311+00:00",
+          "expiresAt": "2026-07-30T12:04:04.311+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-ohwynb",
+          "sourceId": "ldxp-8998tm6i",
+          "sourceName": "LDXP / 8998TM6I",
+          "sourceStoreName": "AI-小站",
+          "sourceIncludedAt": "2026-06-11T13:24:52.981269+00:00",
+          "sourceShopCreatedAt": "2026-05-26T08:55:36+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "韩国渠道成品号-未接码-手搓-outlook邮箱",
+          "price": 16.48,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/6ltykg",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_unverified",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:26:00.426+00:00",
+          "sourceUpdatedAt": "2026-07-28T10:19:18.847+00:00",
+          "lastSeenAt": "2026-07-29T12:26:00.426+00:00",
+          "verifiedAt": "2026-07-29T12:26:00.426+00:00",
+          "expiresAt": "2026-07-30T12:26:00.426+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "outlook-account",
+          "slug": "outlook-account",
+          "displayName": "Outlook / Hotmail 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Outlook / Hotmail / Microsoft",
+          "summary": "纯 Outlook、Hotmail、Microsoft、微软邮箱、OAuth2 邮箱商品。",
+          "aliases": [
+            "outlook",
+            "hotmail",
+            "微软邮箱",
+            "microsoft 邮箱",
+            "oauth2",
+            "graph 令牌"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-2u9d29",
+          "sourceId": "ldxp-彩虹马的ai店",
+          "sourceName": "LDXP / 彩虹马的AI店",
+          "sourceStoreName": "彩虹马的AI店",
+          "sourceIncludedAt": "2026-05-08T10:30:01.712597+00:00",
+          "sourceShopCreatedAt": "2026-04-19T03:55:23+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "随机 2-4 年谷歌邮箱（包gcp）",
+          "price": 16.48,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/nnli3k",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:48:50.788+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:13:43.461+00:00",
+          "lastSeenAt": "2026-07-29T11:48:50.788+00:00",
+          "verifiedAt": "2026-07-29T11:48:50.788+00:00",
+          "expiresAt": "2026-07-30T11:48:50.788+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-vmgnxp",
+          "sourceId": "nodebits-9ba97f63fac75ab0",
+          "sourceName": "Meowka喵卡",
+          "sourceStoreName": "Meowka喵卡",
+          "sourceIncludedAt": "2026-06-08T16:14:21.378754+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "unicornHtml",
+          "sourceTitle": "清迈皇家大学邮箱",
+          "price": 16.6,
+          "currency": "CNY",
+          "status": "in_stock",
+          "url": "https://meowka.vip/buy/2",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 14,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-11T11:35:35.406+00:00",
+          "sourceUpdatedAt": "2026-07-11T09:05:23.512+00:00",
+          "lastSeenAt": "2026-07-11T11:35:35.406+00:00",
+          "verifiedAt": "2026-07-11T11:35:35.406+00:00",
+          "expiresAt": "2026-07-12T11:35:35.406+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "email-account",
+          "slug": "email-account",
+          "displayName": "其他邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "其他邮箱",
+          "summary": "域名邮箱、自建邮箱、无法进一步确认类型的纯邮箱商品。",
+          "aliases": [
+            "邮箱账号",
+            "域名邮箱",
+            "企业邮箱",
+            "其他邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1yxxxpy",
+          "sourceId": "ldxp-0000",
+          "sourceName": "LDXP / 0000",
+          "sourceStoreName": "AI海外账号",
+          "sourceIncludedAt": "2026-07-08T05:37:22.420424+00:00",
+          "sourceShopCreatedAt": "2026-06-30T09:38:45+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【领英Lnkdn】2FA/gmx邮箱/随机IP",
+          "price": 20.39,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/rj7pbw",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:04:52.462+00:00",
+          "sourceUpdatedAt": "2026-07-19T21:14:37.807+00:00",
+          "lastSeenAt": "2026-07-29T12:04:52.462+00:00",
+          "verifiedAt": "2026-07-29T12:04:52.462+00:00",
+          "expiresAt": "2026-07-30T12:04:52.462+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "email-account",
+          "slug": "email-account",
+          "displayName": "其他邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "其他邮箱",
+          "summary": "域名邮箱、自建邮箱、无法进一步确认类型的纯邮箱商品。",
+          "aliases": [
+            "邮箱账号",
+            "域名邮箱",
+            "企业邮箱",
+            "其他邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-az23uz",
+          "sourceId": "ldxp-z65qs0qg",
+          "sourceName": "Grok free 普号",
+          "sourceStoreName": "幽羊 AI",
+          "sourceIncludedAt": "2026-07-13T14:33:23.724663+00:00",
+          "sourceShopCreatedAt": "2026-06-17T15:06:06+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美国 .edu 权威教育邮箱 | 可过多种学生优惠认证 | 附详细申请/使用指引 | 售后无忧",
+          "price": 20.6,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/afxbys",
+          "tags": [],
+          "filterTags": [
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:19:43.904+00:00",
+          "sourceUpdatedAt": "2026-07-28T06:24:05.903+00:00",
+          "lastSeenAt": "2026-07-29T12:19:43.904+00:00",
+          "verifiedAt": "2026-07-29T12:19:43.904+00:00",
+          "expiresAt": "2026-07-30T12:19:43.904+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "education-email",
+          "slug": "education-email",
+          "displayName": "教育邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Edu",
+          "summary": "教育邮箱、学校邮箱、edu 邮箱等商品。",
+          "aliases": [
+            "教育邮箱",
+            "edu 邮箱",
+            "学校邮箱",
+            "edu mail",
+            ".edu"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-nmzg28",
+          "sourceId": "nodebits-71d9d5bbbb5d184b",
+          "sourceName": "AI源头批发旗舰店",
+          "sourceStoreName": "AI源头批发旗舰店",
+          "sourceIncludedAt": "2026-06-03T10:21:01.505652+00:00",
+          "sourceShopCreatedAt": "2026-04-24T06:05:28+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美国 .edu 权威教育邮箱 | 可过多种学生优惠认证 | 附详细申请/使用指引 | 售后无忧",
+          "price": 20.6,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/8ywakp",
+          "tags": [],
+          "filterTags": [
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:59:23.952+00:00",
+          "sourceUpdatedAt": "2026-07-28T06:36:23.477+00:00",
+          "lastSeenAt": "2026-07-29T11:59:23.952+00:00",
+          "verifiedAt": "2026-07-29T11:59:23.952+00:00",
+          "expiresAt": "2026-07-30T11:59:23.952+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "education-email",
+          "slug": "education-email",
+          "displayName": "教育邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Edu",
+          "summary": "教育邮箱、学校邮箱、edu 邮箱等商品。",
+          "aliases": [
+            "教育邮箱",
+            "edu 邮箱",
+            "学校邮箱",
+            "edu mail",
+            ".edu"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-4fas8o",
+          "sourceId": "ldxp-2povtutk",
+          "sourceName": "LDXP / 2POVTUTK",
+          "sourceStoreName": "词生量",
+          "sourceIncludedAt": "2026-06-09T06:05:43.25523+00:00",
+          "sourceShopCreatedAt": "2026-05-22T17:08:43+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美国 .edu 权威教育邮箱 | 可过多种学生优惠认证 | 附详细申请/使用指引 | 售后无忧",
+          "price": 20.97,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/kyvfv0",
+          "tags": [],
+          "filterTags": [
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:13:28.826+00:00",
+          "sourceUpdatedAt": "2026-07-28T06:24:48.376+00:00",
+          "lastSeenAt": "2026-07-29T12:13:28.826+00:00",
+          "verifiedAt": "2026-07-29T12:13:28.826+00:00",
+          "expiresAt": "2026-07-30T12:13:28.826+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "education-email",
+          "slug": "education-email",
+          "displayName": "教育邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Edu",
+          "summary": "教育邮箱、学校邮箱、edu 邮箱等商品。",
+          "aliases": [
+            "教育邮箱",
+            "edu 邮箱",
+            "学校邮箱",
+            "edu mail",
+            ".edu"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-5j6qw0",
+          "sourceId": "ldxp-th52wuw7",
+          "sourceName": "boji1334yd小店",
+          "sourceStoreName": "boji1334yd",
+          "sourceIncludedAt": "2026-07-27T10:18:42.090633+00:00",
+          "sourceShopCreatedAt": "2026-04-24T08:38:47+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美国 .edu 权威教育邮箱 | 可过多种学生优惠认证 | 附详细申请/使用指引 | 售后无忧",
+          "price": 23,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/k6cl7y",
+          "tags": [],
+          "filterTags": [
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:18:27.962+00:00",
+          "sourceUpdatedAt": "2026-07-28T00:12:09.972+00:00",
+          "lastSeenAt": "2026-07-29T12:18:27.962+00:00",
+          "verifiedAt": "2026-07-29T12:18:27.962+00:00",
+          "expiresAt": "2026-07-30T12:18:27.962+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "education-email",
+          "slug": "education-email",
+          "displayName": "教育邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Edu",
+          "summary": "教育邮箱、学校邮箱、edu 邮箱等商品。",
+          "aliases": [
+            "教育邮箱",
+            "edu 邮箱",
+            "学校邮箱",
+            "edu mail",
+            ".edu"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-pkgbhc",
+          "sourceId": "ldxp-aishop1",
+          "sourceName": "LDXP / aishop1",
+          "sourceStoreName": "稳问AI --AI 大玩家（AI真源头，招代理）",
+          "sourceIncludedAt": "2026-06-02T17:35:36.605862+00:00",
+          "sourceShopCreatedAt": "2026-04-15T14:21:34+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "随机 2-4 年谷歌邮箱（包gcp）",
+          "price": 24.72,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/5tdcxb",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:44:56.289+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:45:03.479+00:00",
+          "lastSeenAt": "2026-07-29T12:44:56.289+00:00",
+          "verifiedAt": "2026-07-29T12:44:56.289+00:00",
+          "expiresAt": "2026-07-30T12:44:56.289+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-5t5035",
+          "sourceId": "ldxp-youzhi",
+          "sourceName": "链动小铺 / youzhi",
+          "sourceStoreName": "优质AI科技",
+          "sourceIncludedAt": "2026-07-19T17:10:21.928444+00:00",
+          "sourceShopCreatedAt": "2026-07-09T04:55:17+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美国大学教育邮箱Edu Mail【质保7天】",
+          "price": 26.25,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/ifgwgu",
+          "tags": [],
+          "filterTags": [
+            "pro_max_short_term",
+            "duration_trial",
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:38:22.066+00:00",
+          "sourceUpdatedAt": "2026-07-22T04:38:15.86+00:00",
+          "lastSeenAt": "2026-07-29T12:38:22.066+00:00",
+          "verifiedAt": "2026-07-29T12:38:22.066+00:00",
+          "expiresAt": "2026-07-30T12:38:22.066+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh",
+          "riskFeedback": {
+            "count": 1,
+            "offerCount": 0,
+            "sourceCount": 1,
+            "scope": "source",
+            "latestAt": "2026-07-29T12:48:21.61115+00:00",
+            "reasons": [
+              "bad_source"
+            ],
+            "summaries": [
+              "有用户反馈，在该商家购买「ChatGPT Plus 试用订阅」时遇到交付数量不足、兑换码大量失效的问题。建议购买前先确认该商家其他商品的交付信誉与售后模式。"
+            ],
+            "offerSummaries": [],
+            "sourceSummaries": [
+              "有用户反馈，在该商家购买「ChatGPT Plus 试用订阅」时遇到交付数量不足、兑换码大量失效的问题。建议购买前先确认该商家其他商品的交付信誉与售后模式。"
+            ],
+            "status": "user_report_pending_verification"
+          }
+        },
+        "product": {
+          "id": "education-email",
+          "slug": "education-email",
+          "displayName": "教育邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Edu",
+          "summary": "教育邮箱、学校邮箱、edu 邮箱等商品。",
+          "aliases": [
+            "教育邮箱",
+            "edu 邮箱",
+            "学校邮箱",
+            "edu mail",
+            ".edu"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1xwaowa",
+          "sourceId": "ldxp-p98t49h8",
+          "sourceName": "LDXP / P98T49H8",
+          "sourceStoreName": "稳中求胜",
+          "sourceIncludedAt": "2026-06-16T05:17:53.914242+00:00",
+          "sourceShopCreatedAt": "2026-05-17T13:02:09+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美国大学教育邮箱Edu Mail",
+          "price": 38.11,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/lcbh8k",
+          "tags": [],
+          "filterTags": [
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:00:52.198+00:00",
+          "sourceUpdatedAt": "2026-07-24T02:09:51.836+00:00",
+          "lastSeenAt": "2026-07-29T12:00:52.198+00:00",
+          "verifiedAt": "2026-07-29T12:00:52.198+00:00",
+          "expiresAt": "2026-07-30T12:00:52.198+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "education-email",
+          "slug": "education-email",
+          "displayName": "教育邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Edu",
+          "summary": "教育邮箱、学校邮箱、edu 邮箱等商品。",
+          "aliases": [
+            "教育邮箱",
+            "edu 邮箱",
+            "学校邮箱",
+            "edu mail",
+            ".edu"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-azy6dg",
+          "sourceId": "ldxp-harvey",
+          "sourceName": "LDXP / harvey",
+          "sourceStoreName": "harvey",
+          "sourceIncludedAt": "2026-06-09T14:19:40.042397+00:00",
+          "sourceShopCreatedAt": "2026-04-09T09:42:22+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "美区 2-4 年谷歌邮箱（包gcp）",
+          "price": 43.26,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/aa3jtu",
+          "tags": [],
+          "filterTags": [
+            "team_official",
+            "telegram_region_us",
+            "gemini_antigravity_gcp"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:13:01.616+00:00",
+          "sourceUpdatedAt": "2026-07-28T08:21:12.366+00:00",
+          "lastSeenAt": "2026-07-29T12:13:01.616+00:00",
+          "verifiedAt": "2026-07-29T12:13:01.616+00:00",
+          "expiresAt": "2026-07-30T12:13:01.616+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-sivbx4",
+          "sourceId": "nodebits-507988bbfaed77a3",
+          "sourceName": "91网|一手货源",
+          "sourceStoreName": "91网|一手货源",
+          "sourceIncludedAt": "2026-06-03T15:06:47.559773+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Google邮箱2020-2024|混合地区|带2fa / 规格2",
+          "price": 99.99,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://gmail91.shop/products/google1",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "account_verified"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:06.074+00:00",
+          "sourceUpdatedAt": "2026-07-23T03:20:05.125+00:00",
+          "lastSeenAt": "2026-07-29T12:20:06.074+00:00",
+          "verifiedAt": "2026-07-29T12:20:06.074+00:00",
+          "expiresAt": "2026-07-30T12:20:06.074+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "gmail-account",
+          "slug": "gmail-account",
+          "displayName": "Gmail / Google 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Gmail / Google",
+          "summary": "纯 Gmail、Google 邮箱、谷歌邮箱、Google 账号等邮箱商品。",
+          "aliases": [
+            "gmail",
+            "google 邮箱",
+            "谷歌邮箱",
+            "google 账号",
+            "谷歌账号",
+            "gmail 邮箱"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-ae234s",
+          "sourceId": "ldxp-doroai",
+          "sourceName": "链动小铺 / doroai",
+          "sourceStoreName": "Doro AI",
+          "sourceIncludedAt": "2026-07-12T03:53:38.141229+00:00",
+          "sourceShopCreatedAt": "2026-07-05T01:46:54+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "iCloud邮箱-Pro5x成品号-质保首登",
+          "price": 169.95,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/bc2q6t",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:30:43.279+00:00",
+          "sourceUpdatedAt": "2026-07-24T16:50:28.969+00:00",
+          "lastSeenAt": "2026-07-29T12:30:43.279+00:00",
+          "verifiedAt": "2026-07-29T12:30:43.279+00:00",
+          "expiresAt": "2026-07-30T12:30:43.279+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "icloud-email",
+          "slug": "icloud-email",
+          "displayName": "iCloud 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "iCloud",
+          "summary": "纯 iCloud 邮箱、iCloud 隐私邮箱、iCloud 邮箱母号或取码邮箱商品。",
+          "aliases": [
+            "icloud",
+            "icloud 邮箱",
+            "icloud邮箱",
+            "icoud",
+            "icoud 邮箱",
+            "icoud邮箱",
+            "icloud 隐私邮箱",
+            "icloud 母号",
+            "icloud 子号"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-9csu71",
+          "sourceId": "ldxp-doroai",
+          "sourceName": "链动小铺 / doroai",
+          "sourceStoreName": "Doro AI",
+          "sourceIncludedAt": "2026-07-12T03:53:38.141229+00:00",
+          "sourceShopCreatedAt": "2026-07-05T01:46:54+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "iCloud邮箱-Pro20x成品号-质保首登",
+          "price": 265.74,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/cujfir",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:30:43.279+00:00",
+          "sourceUpdatedAt": "2026-07-24T16:50:28.969+00:00",
+          "lastSeenAt": "2026-07-29T12:30:43.279+00:00",
+          "verifiedAt": "2026-07-29T12:30:43.279+00:00",
+          "expiresAt": "2026-07-30T12:30:43.279+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "icloud-email",
+          "slug": "icloud-email",
+          "displayName": "iCloud 邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "iCloud",
+          "summary": "纯 iCloud 邮箱、iCloud 隐私邮箱、iCloud 邮箱母号或取码邮箱商品。",
+          "aliases": [
+            "icloud",
+            "icloud 邮箱",
+            "icloud邮箱",
+            "icoud",
+            "icoud 邮箱",
+            "icoud邮箱",
+            "icloud 隐私邮箱",
+            "icloud 母号",
+            "icloud 子号"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-f84du8",
+          "sourceId": "美国圣母大学nd-edu邮箱-大龄校友-可用gemini-pro-购买-office-365-小店-office-edu邮箱-ai-教育优惠",
+          "sourceName": "美国圣母大学nd.edu邮箱【大龄校友 可用Gemini Pro】 购买 | office 365 小店 - office | edu邮箱 | ai | 教育优惠",
+          "sourceStoreName": "美国圣母大学nd.edu邮箱【大龄校友 可用Gemini Pro】 购买 | office 365 小店 - office | edu邮箱 | ai | 教育优惠",
+          "sourceIncludedAt": "2026-06-08T16:13:40.446213+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "genericHtml",
+          "sourceTitle": "美国俄克拉何马大学ou.edu邮箱【大龄校友】",
+          "price": 388.88,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://of365.vip/product/57.html",
+          "tags": [],
+          "filterTags": [
+            "telegram_region_us"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:36:52.774+00:00",
+          "sourceUpdatedAt": "2026-07-29T07:28:16.797+00:00",
+          "lastSeenAt": "2026-07-29T12:36:52.774+00:00",
+          "verifiedAt": "2026-07-29T12:36:52.774+00:00",
+          "expiresAt": "2026-07-30T12:36:52.774+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "education-email",
+          "slug": "education-email",
+          "displayName": "教育邮箱",
+          "platform": "邮箱",
+          "productType": "邮箱/账号",
+          "spec": "Edu",
+          "summary": "教育邮箱、学校邮箱、edu 邮箱等商品。",
+          "aliases": [
+            "教育邮箱",
+            "edu 邮箱",
+            "学校邮箱",
+            "edu mail",
+            ".edu"
+          ]
+        }
+      }
+    ],
+    "total": 489,
+    "limited": false,
+    "generatedAt": "2026-07-29T12:49:02.448Z",
+    "degraded": false,
+    "message": null
+  }
+}

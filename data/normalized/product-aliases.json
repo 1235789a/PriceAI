@@ -1,0 +1,1063 @@
+{
+  "snapshotVersion": "priceai-static-20260729-ms62yjmw",
+  "generatedAt": "2026-07-29T12:49:13.355Z",
+  "count": 264,
+  "aliases": [
+    {
+      "alias": "chatgpt free",
+      "product_id": "chatgpt-free-account"
+    },
+    {
+      "alias": "gpt 普号",
+      "product_id": "chatgpt-free-account"
+    },
+    {
+      "alias": "openai 普号",
+      "product_id": "chatgpt-free-account"
+    },
+    {
+      "alias": "白号",
+      "product_id": "chatgpt-free-account"
+    },
+    {
+      "alias": "普通号",
+      "product_id": "chatgpt-free-account"
+    },
+    {
+      "alias": "普通账号",
+      "product_id": "chatgpt-free-account"
+    },
+    {
+      "alias": "chatgpt 普号",
+      "product_id": "chatgpt-free-account"
+    },
+    {
+      "alias": "codex 重置额度",
+      "product_id": "chatgpt-codex-service"
+    },
+    {
+      "alias": "重置额度",
+      "product_id": "chatgpt-codex-service"
+    },
+    {
+      "alias": "长链提取",
+      "product_id": "chatgpt-codex-service"
+    },
+    {
+      "alias": "链接提取",
+      "product_id": "chatgpt-codex-service"
+    },
+    {
+      "alias": "提链",
+      "product_id": "chatgpt-codex-service"
+    },
+    {
+      "alias": "扫码对接",
+      "product_id": "chatgpt-codex-service"
+    },
+    {
+      "alias": "自助充值",
+      "product_id": "chatgpt-codex-service"
+    },
+    {
+      "alias": "服务包",
+      "product_id": "chatgpt-codex-service"
+    },
+    {
+      "alias": "周边服务",
+      "product_id": "chatgpt-codex-service"
+    },
+    {
+      "alias": "codex / chatgpt 周边与自助服务",
+      "product_id": "chatgpt-codex-service"
+    },
+    {
+      "alias": "team",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "business",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "t5",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "t5倍",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "k12",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "k12 子号",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "bug team",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "team bug",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "母号",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "子号",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "自动拉",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "直拉",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "邀请",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "团队号",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "chatgpt team / business",
+      "product_id": "chatgpt-team-business"
+    },
+    {
+      "alias": "gpt plus",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "chatgpt plus",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 月卡",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 一个月",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 卡密",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 直充",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 成品号",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 独享账号",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 账号",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 日抛",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 日抛号",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 网页号",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 已接码",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 未接码",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "plus 试用订阅",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "puls",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "pulus",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "chatgpt plus 试用订阅",
+      "product_id": "chatgpt-plus"
+    },
+    {
+      "alias": "chatgpt go",
+      "product_id": "chatgpt-go"
+    },
+    {
+      "alias": "gpt go",
+      "product_id": "chatgpt-go"
+    },
+    {
+      "alias": "go 月卡",
+      "product_id": "chatgpt-go"
+    },
+    {
+      "alias": "go 年卡",
+      "product_id": "chatgpt-go"
+    },
+    {
+      "alias": "go 激活码",
+      "product_id": "chatgpt-go"
+    },
+    {
+      "alias": "go 直充",
+      "product_id": "chatgpt-go"
+    },
+    {
+      "alias": "plus 官方充值",
+      "product_id": "chatgpt-plus-recharge"
+    },
+    {
+      "alias": "plus 官方直充",
+      "product_id": "chatgpt-plus-recharge"
+    },
+    {
+      "alias": "plus 官方代充",
+      "product_id": "chatgpt-plus-recharge"
+    },
+    {
+      "alias": "plus 官网直充",
+      "product_id": "chatgpt-plus-recharge"
+    },
+    {
+      "alias": "plus 正价充值",
+      "product_id": "chatgpt-plus-recharge"
+    },
+    {
+      "alias": "plus 正规充值",
+      "product_id": "chatgpt-plus-recharge"
+    },
+    {
+      "alias": "plus 真实付费",
+      "product_id": "chatgpt-plus-recharge"
+    },
+    {
+      "alias": "chatgpt plus 正价代充",
+      "product_id": "chatgpt-plus-recharge"
+    },
+    {
+      "alias": "pro 5x",
+      "product_id": "chatgpt-pro-5x"
+    },
+    {
+      "alias": "pro x5",
+      "product_id": "chatgpt-pro-5x"
+    },
+    {
+      "alias": "5倍",
+      "product_id": "chatgpt-pro-5x"
+    },
+    {
+      "alias": "100刀",
+      "product_id": "chatgpt-pro-5x"
+    },
+    {
+      "alias": "100 美元",
+      "product_id": "chatgpt-pro-5x"
+    },
+    {
+      "alias": "100美元",
+      "product_id": "chatgpt-pro-5x"
+    },
+    {
+      "alias": "chatgpt pro 5x",
+      "product_id": "chatgpt-pro-5x"
+    },
+    {
+      "alias": "pro 20x",
+      "product_id": "chatgpt-pro-20x"
+    },
+    {
+      "alias": "pro x20",
+      "product_id": "chatgpt-pro-20x"
+    },
+    {
+      "alias": "20倍",
+      "product_id": "chatgpt-pro-20x"
+    },
+    {
+      "alias": "200刀",
+      "product_id": "chatgpt-pro-20x"
+    },
+    {
+      "alias": "200 美元",
+      "product_id": "chatgpt-pro-20x"
+    },
+    {
+      "alias": "200美元",
+      "product_id": "chatgpt-pro-20x"
+    },
+    {
+      "alias": "chatgpt pro 20x",
+      "product_id": "chatgpt-pro-20x"
+    },
+    {
+      "alias": "claude free",
+      "product_id": "claude-account"
+    },
+    {
+      "alias": "claude 普通账号",
+      "product_id": "claude-account"
+    },
+    {
+      "alias": "claude 普号",
+      "product_id": "claude-account"
+    },
+    {
+      "alias": "claude 普号 / 兑换号",
+      "product_id": "claude-account"
+    },
+    {
+      "alias": "claude pro",
+      "product_id": "claude-pro-month"
+    },
+    {
+      "alias": "pro 尼区",
+      "product_id": "claude-pro-month"
+    },
+    {
+      "alias": "claude 月卡",
+      "product_id": "claude-pro-month"
+    },
+    {
+      "alias": "claude team standard",
+      "product_id": "claude-team-standard"
+    },
+    {
+      "alias": "team standard",
+      "product_id": "claude-team-standard"
+    },
+    {
+      "alias": "标准席位",
+      "product_id": "claude-team-standard"
+    },
+    {
+      "alias": "1.25x",
+      "product_id": "claude-team-standard"
+    },
+    {
+      "alias": "1.25倍",
+      "product_id": "claude-team-standard"
+    },
+    {
+      "alias": "claude max x5",
+      "product_id": "claude-max-5x"
+    },
+    {
+      "alias": "max 5x",
+      "product_id": "claude-max-5x"
+    },
+    {
+      "alias": "claude max 5x",
+      "product_id": "claude-max-5x"
+    },
+    {
+      "alias": "claude max x20",
+      "product_id": "claude-max-20x"
+    },
+    {
+      "alias": "max 20x",
+      "product_id": "claude-max-20x"
+    },
+    {
+      "alias": "claude max 20x",
+      "product_id": "claude-max-20x"
+    },
+    {
+      "alias": "claude team premium",
+      "product_id": "claude-team-premium"
+    },
+    {
+      "alias": "team premium",
+      "product_id": "claude-team-premium"
+    },
+    {
+      "alias": "高级席位",
+      "product_id": "claude-team-premium"
+    },
+    {
+      "alias": "6.25x",
+      "product_id": "claude-team-premium"
+    },
+    {
+      "alias": "6.25倍",
+      "product_id": "claude-team-premium"
+    },
+    {
+      "alias": "gemini pro 充值",
+      "product_id": "gemini-pro-recharge"
+    },
+    {
+      "alias": "gemini cdk",
+      "product_id": "gemini-pro-recharge"
+    },
+    {
+      "alias": "gemini 优惠链接",
+      "product_id": "gemini-pro-recharge"
+    },
+    {
+      "alias": "google ai pro 充值",
+      "product_id": "gemini-pro-recharge"
+    },
+    {
+      "alias": "gemini 自助开通",
+      "product_id": "gemini-pro-recharge"
+    },
+    {
+      "alias": "gemini pro 充值/开通",
+      "product_id": "gemini-pro-recharge"
+    },
+    {
+      "alias": "gemini pro 成品号",
+      "product_id": "gemini-pro-year"
+    },
+    {
+      "alias": "gemini 一年成品号",
+      "product_id": "gemini-pro-year"
+    },
+    {
+      "alias": "gemini 12个月成品号",
+      "product_id": "gemini-pro-year"
+    },
+    {
+      "alias": "pixel gemini",
+      "product_id": "gemini-pro-year"
+    },
+    {
+      "alias": "google ai pro 成品号",
+      "product_id": "gemini-pro-year"
+    },
+    {
+      "alias": "ai ultra",
+      "product_id": "gemini-ultra"
+    },
+    {
+      "alias": "gemini ultra",
+      "product_id": "gemini-ultra"
+    },
+    {
+      "alias": "250美元",
+      "product_id": "gemini-ultra"
+    },
+    {
+      "alias": "反重力",
+      "product_id": "gemini-ultra"
+    },
+    {
+      "alias": "flow",
+      "product_id": "gemini-ultra"
+    },
+    {
+      "alias": "google ai ultra / gemini ultra",
+      "product_id": "gemini-ultra"
+    },
+    {
+      "alias": "grok 普号",
+      "product_id": "grok-account"
+    },
+    {
+      "alias": "grok 体验",
+      "product_id": "grok-account"
+    },
+    {
+      "alias": "直登成品",
+      "product_id": "grok-account"
+    },
+    {
+      "alias": "grok 普号 / 体验号",
+      "product_id": "grok-account"
+    },
+    {
+      "alias": "super grok",
+      "product_id": "super-grok"
+    },
+    {
+      "alias": "supergrok",
+      "product_id": "super-grok"
+    },
+    {
+      "alias": "grok super",
+      "product_id": "super-grok"
+    },
+    {
+      "alias": "grok 激活码",
+      "product_id": "super-grok"
+    },
+    {
+      "alias": "super grok heavy",
+      "product_id": "super-grok-heavy"
+    },
+    {
+      "alias": "supergrok heavy",
+      "product_id": "super-grok-heavy"
+    },
+    {
+      "alias": "grok heavy",
+      "product_id": "super-grok-heavy"
+    },
+    {
+      "alias": "heavy grok",
+      "product_id": "super-grok-heavy"
+    },
+    {
+      "alias": "grok super heavy",
+      "product_id": "super-grok-heavy"
+    },
+    {
+      "alias": "grok heavy 会员",
+      "product_id": "super-grok-heavy"
+    },
+    {
+      "alias": "supergrok heavy / grok heavy",
+      "product_id": "super-grok-heavy"
+    },
+    {
+      "alias": "outlook",
+      "product_id": "outlook-account"
+    },
+    {
+      "alias": "hotmail",
+      "product_id": "outlook-account"
+    },
+    {
+      "alias": "微软邮箱",
+      "product_id": "outlook-account"
+    },
+    {
+      "alias": "microsoft 邮箱",
+      "product_id": "outlook-account"
+    },
+    {
+      "alias": "oauth2",
+      "product_id": "outlook-account"
+    },
+    {
+      "alias": "graph 令牌",
+      "product_id": "outlook-account"
+    },
+    {
+      "alias": "outlook / hotmail 邮箱",
+      "product_id": "outlook-account"
+    },
+    {
+      "alias": "gmail",
+      "product_id": "gmail-account"
+    },
+    {
+      "alias": "google 邮箱",
+      "product_id": "gmail-account"
+    },
+    {
+      "alias": "谷歌邮箱",
+      "product_id": "gmail-account"
+    },
+    {
+      "alias": "google 账号",
+      "product_id": "gmail-account"
+    },
+    {
+      "alias": "谷歌账号",
+      "product_id": "gmail-account"
+    },
+    {
+      "alias": "gmail 邮箱",
+      "product_id": "gmail-account"
+    },
+    {
+      "alias": "gmail / google 邮箱",
+      "product_id": "gmail-account"
+    },
+    {
+      "alias": "icloud",
+      "product_id": "icloud-email"
+    },
+    {
+      "alias": "icloud 邮箱",
+      "product_id": "icloud-email"
+    },
+    {
+      "alias": "icloud邮箱",
+      "product_id": "icloud-email"
+    },
+    {
+      "alias": "icoud",
+      "product_id": "icloud-email"
+    },
+    {
+      "alias": "icoud 邮箱",
+      "product_id": "icloud-email"
+    },
+    {
+      "alias": "icoud邮箱",
+      "product_id": "icloud-email"
+    },
+    {
+      "alias": "icloud 隐私邮箱",
+      "product_id": "icloud-email"
+    },
+    {
+      "alias": "icloud 母号",
+      "product_id": "icloud-email"
+    },
+    {
+      "alias": "icloud 子号",
+      "product_id": "icloud-email"
+    },
+    {
+      "alias": "邮箱账号",
+      "product_id": "email-account"
+    },
+    {
+      "alias": "域名邮箱",
+      "product_id": "email-account"
+    },
+    {
+      "alias": "企业邮箱",
+      "product_id": "email-account"
+    },
+    {
+      "alias": "其他邮箱",
+      "product_id": "email-account"
+    },
+    {
+      "alias": "教育邮箱",
+      "product_id": "education-email"
+    },
+    {
+      "alias": "edu 邮箱",
+      "product_id": "education-email"
+    },
+    {
+      "alias": "学校邮箱",
+      "product_id": "education-email"
+    },
+    {
+      "alias": "edu mail",
+      "product_id": "education-email"
+    },
+    {
+      "alias": ".edu",
+      "product_id": "education-email"
+    },
+    {
+      "alias": "google 接码",
+      "product_id": "google-phone-verification"
+    },
+    {
+      "alias": "gmail 接码",
+      "product_id": "google-phone-verification"
+    },
+    {
+      "alias": "gemini 接码",
+      "product_id": "google-phone-verification"
+    },
+    {
+      "alias": "谷歌接码",
+      "product_id": "google-phone-verification"
+    },
+    {
+      "alias": "google / gemini 接码",
+      "product_id": "google-phone-verification"
+    },
+    {
+      "alias": "openai 接码",
+      "product_id": "openai-phone-verification"
+    },
+    {
+      "alias": "chatgpt 接码",
+      "product_id": "openai-phone-verification"
+    },
+    {
+      "alias": "gpt 接码",
+      "product_id": "openai-phone-verification"
+    },
+    {
+      "alias": "codex 接码",
+      "product_id": "openai-phone-verification"
+    },
+    {
+      "alias": "openai / chatgpt 接码",
+      "product_id": "openai-phone-verification"
+    },
+    {
+      "alias": "接码",
+      "product_id": "phone-verification"
+    },
+    {
+      "alias": "手机接码",
+      "product_id": "phone-verification"
+    },
+    {
+      "alias": "短信验证",
+      "product_id": "phone-verification"
+    },
+    {
+      "alias": "验证码",
+      "product_id": "phone-verification"
+    },
+    {
+      "alias": "一次性接码",
+      "product_id": "phone-verification"
+    },
+    {
+      "alias": "手机号验证",
+      "product_id": "phone-verification"
+    },
+    {
+      "alias": "通用接码",
+      "product_id": "phone-verification"
+    },
+    {
+      "alias": "paypal 接码",
+      "product_id": "paypal-phone-verification"
+    },
+    {
+      "alias": "paypal 验证",
+      "product_id": "paypal-phone-verification"
+    },
+    {
+      "alias": "paypal 手机验证",
+      "product_id": "paypal-phone-verification"
+    },
+    {
+      "alias": "kyc",
+      "product_id": "identity-verification"
+    },
+    {
+      "alias": "真人认证",
+      "product_id": "identity-verification"
+    },
+    {
+      "alias": "实名认证",
+      "product_id": "identity-verification"
+    },
+    {
+      "alias": "人脸验证",
+      "product_id": "identity-verification"
+    },
+    {
+      "alias": "persona",
+      "product_id": "identity-verification"
+    },
+    {
+      "alias": "真人 / kyc 验证",
+      "product_id": "identity-verification"
+    },
+    {
+      "alias": "other",
+      "product_id": "other-product"
+    },
+    {
+      "alias": "教程",
+      "product_id": "other-product"
+    },
+    {
+      "alias": "代理",
+      "product_id": "other-product"
+    },
+    {
+      "alias": "社交账号",
+      "product_id": "other-product"
+    },
+    {
+      "alias": "资料",
+      "product_id": "other-product"
+    },
+    {
+      "alias": "其他商品",
+      "product_id": "other-product"
+    },
+    {
+      "alias": "visa",
+      "product_id": "virtual-card"
+    },
+    {
+      "alias": "mastercard",
+      "product_id": "virtual-card"
+    },
+    {
+      "alias": "虚拟卡",
+      "product_id": "virtual-card"
+    },
+    {
+      "alias": "虚拟信用卡",
+      "product_id": "virtual-card"
+    },
+    {
+      "alias": "0刀卡",
+      "product_id": "virtual-card"
+    },
+    {
+      "alias": "1刀卡",
+      "product_id": "virtual-card"
+    },
+    {
+      "alias": "bin 卡",
+      "product_id": "virtual-card"
+    },
+    {
+      "alias": "485954",
+      "product_id": "virtual-card"
+    },
+    {
+      "alias": "paypal 虚拟卡",
+      "product_id": "virtual-card"
+    },
+    {
+      "alias": "cursor",
+      "product_id": "cursor-account"
+    },
+    {
+      "alias": "cursor pro",
+      "product_id": "cursor-account"
+    },
+    {
+      "alias": "cursor 账号",
+      "product_id": "cursor-account"
+    },
+    {
+      "alias": "cursor 成品号",
+      "product_id": "cursor-account"
+    },
+    {
+      "alias": "kiro",
+      "product_id": "kiro-account"
+    },
+    {
+      "alias": "kiro 普号",
+      "product_id": "kiro-account"
+    },
+    {
+      "alias": "kiro free",
+      "product_id": "kiro-account"
+    },
+    {
+      "alias": "固定50额度",
+      "product_id": "kiro-account"
+    },
+    {
+      "alias": "kirors",
+      "product_id": "kiro-account"
+    },
+    {
+      "alias": "kiro rs",
+      "product_id": "kiro-account"
+    },
+    {
+      "alias": "kiro 普号 / free",
+      "product_id": "kiro-account"
+    },
+    {
+      "alias": "twitter",
+      "product_id": "x-twitter-account"
+    },
+    {
+      "alias": "推特",
+      "product_id": "x-twitter-account"
+    },
+    {
+      "alias": "推特账号",
+      "product_id": "x-twitter-account"
+    },
+    {
+      "alias": "x 账号",
+      "product_id": "x-twitter-account"
+    },
+    {
+      "alias": "x账号",
+      "product_id": "x-twitter-account"
+    },
+    {
+      "alias": "推特老号",
+      "product_id": "x-twitter-account"
+    },
+    {
+      "alias": "x/twitter",
+      "product_id": "x-twitter-account"
+    },
+    {
+      "alias": "x-twitter",
+      "product_id": "x-twitter-account"
+    },
+    {
+      "alias": "x / 推特账号",
+      "product_id": "x-twitter-account"
+    },
+    {
+      "alias": "telegram",
+      "product_id": "telegram-account"
+    },
+    {
+      "alias": "tg",
+      "product_id": "telegram-account"
+    },
+    {
+      "alias": "电报",
+      "product_id": "telegram-account"
+    },
+    {
+      "alias": "飞机号",
+      "product_id": "telegram-account"
+    },
+    {
+      "alias": "telegram 账号",
+      "product_id": "telegram-account"
+    },
+    {
+      "alias": "tg 账号",
+      "product_id": "telegram-account"
+    },
+    {
+      "alias": "电报账号",
+      "product_id": "telegram-account"
+    },
+    {
+      "alias": "telegram 老号",
+      "product_id": "telegram-account"
+    },
+    {
+      "alias": "apple id",
+      "product_id": "apple-id-account"
+    },
+    {
+      "alias": "苹果 id",
+      "product_id": "apple-id-account"
+    },
+    {
+      "alias": "苹果账号",
+      "product_id": "apple-id-account"
+    },
+    {
+      "alias": "美区 id",
+      "product_id": "apple-id-account"
+    },
+    {
+      "alias": "土区 id",
+      "product_id": "apple-id-account"
+    },
+    {
+      "alias": "apple 账号",
+      "product_id": "apple-id-account"
+    },
+    {
+      "alias": "apple id / 苹果账号",
+      "product_id": "apple-id-account"
+    },
+    {
+      "alias": "dreamina",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "dreamina ai",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "即梦",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "即梦 ai",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "吉梦",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "jimeng",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "jimeng ai",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "海外即梦",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "海外版即梦",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "seedance",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "seedance 2.0",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "seedance2.0",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "seedance2",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "c档 2.0",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "c档2.0",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "c 档 2.0",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "c 档2.0",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "dreamina basic",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "即梦 basic",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "dreamina / 即梦",
+      "product_id": "dreamina-account"
+    },
+    {
+      "alias": "windsurf",
+      "product_id": "windsurf-account"
+    },
+    {
+      "alias": "wind surf",
+      "product_id": "windsurf-account"
+    },
+    {
+      "alias": "windsurf 账号",
+      "product_id": "windsurf-account"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "snapshotVersion": "priceai-static-20260729-ms62yjmw",
+  "generatedAt": "2026-07-29T12:49:13.356Z",
+  "total_rows": 4611,
+  "normalized_count": 4611,
+  "deduped_count": 4611,
+  "duplicates_removed_by_id": 0,
+  "duplicates_removed_by_compound": 0,
+  "products_count": 39,
+  "merchants_count": 302,
+  "review_queue_count": 2131
+}

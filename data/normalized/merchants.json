@@ -1,0 +1,2121 @@
+{
+  "snapshotVersion": "priceai-static-20260729-ms62yjmw",
+  "generatedAt": "2026-07-29T12:49:13.356Z",
+  "count": 302,
+  "merchants": [
+    {
+      "id": "ldxp-youzhi",
+      "name": "优质AI科技",
+      "source_name": "链动小铺 / youzhi",
+      "platform": "ChatGPT",
+      "offer_count": 103
+    },
+    {
+      "id": "ldxp-aicloudhub",
+      "name": "aicloudhub",
+      "source_name": "链动小铺",
+      "platform": "ChatGPT",
+      "offer_count": 10
+    },
+    {
+      "id": "ldxp-tb96jlvf",
+      "name": "商家2274",
+      "source_name": "链动小铺 / TB96JLVF",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-2vwx76a4",
+      "name": "牟利ai",
+      "source_name": "LDXP / 2VWX76A4",
+      "platform": "ChatGPT",
+      "offer_count": 135
+    },
+    {
+      "id": "ldxp-gueoi7z9",
+      "name": "鹰鹰小铺",
+      "source_name": "链动小铺 / GUEOI7Z9",
+      "platform": "ChatGPT",
+      "offer_count": 131
+    },
+    {
+      "id": "ldxp-6yhgjopn",
+      "name": "码愿AI中转",
+      "source_name": "ChatGPT 普号",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-sj1bejac",
+      "name": "商家8719",
+      "source_name": "LDXP / SJ1BEJAC",
+      "platform": "ChatGPT",
+      "offer_count": 48
+    },
+    {
+      "id": "ldxp-5h4x93e5",
+      "name": "AI练习生",
+      "source_name": "LDXP / 5H4X93E5",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "ldxp-t4jgk0gx",
+      "name": "无限AI",
+      "source_name": "Chatgpt Plus",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-wpxsce1b",
+      "name": "Ai小铺",
+      "source_name": "LDXP / WPXSCE1B",
+      "platform": "ChatGPT",
+      "offer_count": 24
+    },
+    {
+      "id": "nodebits-c3a6fe648992f685",
+      "name": "小恐龙发卡网",
+      "source_name": "小恐龙发卡网",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "ldxp-y1zqf0rs",
+      "name": "AI聚合商铺",
+      "source_name": "巴西PIX 提链10次卡",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "ldxp-mirage",
+      "name": "幻境MirageAI",
+      "source_name": "幻境MirageAI",
+      "platform": "ChatGPT",
+      "offer_count": 88
+    },
+    {
+      "id": "ldxp-grok",
+      "name": "AI万能工具箱",
+      "source_name": "LDXP / grok",
+      "platform": "ChatGPT",
+      "offer_count": 10
+    },
+    {
+      "id": "ldxp-paxovovj",
+      "name": "奥特曼严选",
+      "source_name": "链动小铺 / PAXOVOVJ",
+      "platform": "ChatGPT",
+      "offer_count": 41
+    },
+    {
+      "id": "ldxp-jl7007",
+      "name": "沈万三的Ai聚宝盆",
+      "source_name": "LDXP / JL7007",
+      "platform": "ChatGPT",
+      "offer_count": 31
+    },
+    {
+      "id": "ldxp-yimengai",
+      "name": "一梦AI",
+      "source_name": "一梦AI",
+      "platform": "ChatGPT",
+      "offer_count": 83
+    },
+    {
+      "id": "ldxp-z65qs0qg",
+      "name": "幽羊 AI",
+      "source_name": "Grok free 普号",
+      "platform": "ChatGPT",
+      "offer_count": 50
+    },
+    {
+      "id": "ldxp-6yejh8pe",
+      "name": "gpt成品",
+      "source_name": "链动小铺 / 6YEJH8PE",
+      "platform": "ChatGPT",
+      "offer_count": 33
+    },
+    {
+      "id": "nodebits-3b7951214e148324",
+      "name": "源头GPT",
+      "source_name": "源头GPT",
+      "platform": "ChatGPT",
+      "offer_count": 56
+    },
+    {
+      "id": "ldxp-dgf2ie5w",
+      "name": "哈基米站",
+      "source_name": "哈基米站",
+      "platform": "ChatGPT",
+      "offer_count": 22
+    },
+    {
+      "id": "ldxp-5ofqxim1",
+      "name": "冷热lab",
+      "source_name": "LDXP / 5OFQXIM1",
+      "platform": "ChatGPT",
+      "offer_count": 51
+    },
+    {
+      "id": "ldxp-5r8t9h0q",
+      "name": "黑白小狗AI旗舰店",
+      "source_name": "LDXP / 5R8T9H0Q",
+      "platform": "ChatGPT",
+      "offer_count": 13
+    },
+    {
+      "id": "ldxp-fufu",
+      "name": "芙芙的宝箱",
+      "source_name": "LDXP / fufu",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "ldxp-8td03o0w",
+      "name": "Reverse",
+      "source_name": "链动小铺 / 8TD03O0W",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "ldxp-zpisrc7g",
+      "name": "琪琪科技",
+      "source_name": "链动小铺",
+      "platform": "ChatGPT",
+      "offer_count": 47
+    },
+    {
+      "id": "ldxp-ouj1hpbv",
+      "name": "chiyu",
+      "source_name": "LDXP / OUJ1HPBV",
+      "platform": "ChatGPT",
+      "offer_count": 78
+    },
+    {
+      "id": "nodebits-507988bbfaed77a3",
+      "name": "91网|一手货源",
+      "source_name": "91网|一手货源",
+      "platform": "ChatGPT",
+      "offer_count": 23
+    },
+    {
+      "id": "ldxp-n90htb7k",
+      "name": "JieAiTop",
+      "source_name": "JieAiTop",
+      "platform": "ChatGPT",
+      "offer_count": 23
+    },
+    {
+      "id": "ldxp-ming",
+      "name": "ming的AI商店",
+      "source_name": "LDXP / ming",
+      "platform": "ChatGPT",
+      "offer_count": 90
+    },
+    {
+      "id": "ldxp-jinyao",
+      "name": "金幺の小店",
+      "source_name": "LDXP 金钥",
+      "platform": "ChatGPT",
+      "offer_count": 65
+    },
+    {
+      "id": "ldxp-gt7kx1tn",
+      "name": "光之国AI",
+      "source_name": "LDXP / GT7KX1TN",
+      "platform": "ChatGPT",
+      "offer_count": 58
+    },
+    {
+      "id": "nodebits-e3673510416c607d",
+      "name": "亚米的整合服务供应商",
+      "source_name": "亚米的整合服务供应商",
+      "platform": "ChatGPT",
+      "offer_count": 36
+    },
+    {
+      "id": "nodebits-35418d6bbee29a75",
+      "name": "靠谱 AI",
+      "source_name": "靠谱AI",
+      "platform": "ChatGPT",
+      "offer_count": 18
+    },
+    {
+      "id": "nodebits-fb9ca27f9a621fc1",
+      "name": "AI主理人",
+      "source_name": "AI主理人",
+      "platform": "ChatGPT",
+      "offer_count": 30
+    },
+    {
+      "id": "ldxp-gu3xqh61",
+      "name": "NiuGe AI 加钟站",
+      "source_name": "LDXP / GU3XQH61",
+      "platform": "ChatGPT",
+      "offer_count": 34
+    },
+    {
+      "id": "ldxp-echo-dream",
+      "name": "AI小铺",
+      "source_name": "LDXP / echo_dream",
+      "platform": "ChatGPT",
+      "offer_count": 41
+    },
+    {
+      "id": "nodebits-651fd501cf3bbe67",
+      "name": "蜗的AI(招代理)",
+      "source_name": "蜗的AI",
+      "platform": "ChatGPT",
+      "offer_count": 28
+    },
+    {
+      "id": "ldxp-2e2kpqd1",
+      "name": "AI杂货",
+      "source_name": "LDXP / 2E2KPQD1",
+      "platform": "ChatGPT",
+      "offer_count": 12
+    },
+    {
+      "id": "ldxp-m18v0xvf",
+      "name": "陆柒科技",
+      "source_name": "链动小铺 / M18V0XVF",
+      "platform": "ChatGPT",
+      "offer_count": 44
+    },
+    {
+      "id": "ldxp-aiplus666",
+      "name": "AI源头旗舰批发店",
+      "source_name": "LDXP / aiplus666",
+      "platform": "ChatGPT",
+      "offer_count": 25
+    },
+    {
+      "id": "ldxp-aica",
+      "name": "【AI源头直供】AICA",
+      "source_name": "LDXP / aica",
+      "platform": "ChatGPT",
+      "offer_count": 64
+    },
+    {
+      "id": "ldxp-2povtutk",
+      "name": "词生量",
+      "source_name": "LDXP / 2POVTUTK",
+      "platform": "ChatGPT",
+      "offer_count": 22
+    },
+    {
+      "id": "ldxp-th52wuw7",
+      "name": "boji1334yd",
+      "source_name": "boji1334yd小店",
+      "platform": "ChatGPT",
+      "offer_count": 55
+    },
+    {
+      "id": "ldxp-2iwyc9qq",
+      "name": "IMAGE-2",
+      "source_name": "LDXP / 2IWYC9QQ",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "ldxp-yanlidemuqin",
+      "name": "Ai最严厉的妈妈",
+      "source_name": "Ai最严厉的妈妈",
+      "platform": "ChatGPT",
+      "offer_count": 11
+    },
+    {
+      "id": "ldxp-z6i0vz0q",
+      "name": "AI 云智聪聪",
+      "source_name": "LDXP / Z6I0VZ0Q",
+      "platform": "ChatGPT",
+      "offer_count": 52
+    },
+    {
+      "id": "ldxp-nfcg5cvm",
+      "name": "陈平安",
+      "source_name": "链动小铺 / NFCG5CVM",
+      "platform": "ChatGPT",
+      "offer_count": 9
+    },
+    {
+      "id": "ldxp-jbjjwna5",
+      "name": "doghubx",
+      "source_name": "链动小铺 / JBJJWNA5",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "ldxp-ya3nlpx6",
+      "name": "AI小店",
+      "source_name": "chatgpt",
+      "platform": "ChatGPT",
+      "offer_count": 47
+    },
+    {
+      "id": "ldxp-pdxai",
+      "name": "派大星Ai",
+      "source_name": "LDXP / pdxai",
+      "platform": "ChatGPT",
+      "offer_count": 16
+    },
+    {
+      "id": "nodebits-3f7fd5efa24bb31c",
+      "name": "云边小铺（招代理）",
+      "source_name": "云边小铺",
+      "platform": "ChatGPT",
+      "offer_count": 39
+    },
+    {
+      "id": "ldxp-iy16oxb7",
+      "name": "GPT-源头供货-招代理",
+      "source_name": "LDXP / IY16OXB7",
+      "platform": "ChatGPT",
+      "offer_count": 46
+    },
+    {
+      "id": "nodebits-490ed62893c9cbd3",
+      "name": "52AI店铺",
+      "source_name": "52AI店铺",
+      "platform": "ChatGPT",
+      "offer_count": 36
+    },
+    {
+      "id": "柠檬西瓜",
+      "name": "柠檬西瓜",
+      "source_name": "柠檬西瓜",
+      "platform": "ChatGPT",
+      "offer_count": 11
+    },
+    {
+      "id": "ldxp-mengyu",
+      "name": "智屿AI",
+      "source_name": "链动小铺 / mengyu",
+      "platform": "ChatGPT",
+      "offer_count": 18
+    },
+    {
+      "id": "ldxp-8u6h8vi3",
+      "name": "我有米奇妙妙屋",
+      "source_name": "链动小铺 / 8U6H8VI3",
+      "platform": "ChatGPT",
+      "offer_count": 20
+    },
+    {
+      "id": "ldxp-ai1998",
+      "name": "ai1998",
+      "source_name": "链动小铺 / ai1998",
+      "platform": "ChatGPT",
+      "offer_count": 10
+    },
+    {
+      "id": "ldxp-gpt-plus",
+      "name": "aihome",
+      "source_name": "LDXP / gpt_plus",
+      "platform": "ChatGPT",
+      "offer_count": 17
+    },
+    {
+      "id": "ldxp-hcjw0tdl",
+      "name": "小票的ai小铺",
+      "source_name": "LDXP / HCJW0TDL",
+      "platform": "ChatGPT",
+      "offer_count": 15
+    },
+    {
+      "id": "ldxp-468e0s05",
+      "name": "轻点小铺",
+      "source_name": "LDXP / 468E0S05",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "ldxp-luoerl",
+      "name": "与世隔绝的AI小店",
+      "source_name": "链动小铺 / luoerl",
+      "platform": "ChatGPT",
+      "offer_count": 46
+    },
+    {
+      "id": "nodebits-71d9d5bbbb5d184b",
+      "name": "AI源头批发旗舰店",
+      "source_name": "AI源头批发旗舰店",
+      "platform": "ChatGPT",
+      "offer_count": 54
+    },
+    {
+      "id": "burstpro-ai-1kplv5",
+      "name": "Auto Subscribe / BurstPro AI",
+      "source_name": "Auto Subscribe / BurstPro AI",
+      "platform": "ChatGPT",
+      "offer_count": 25
+    },
+    {
+      "id": "ldxp-p98t49h8",
+      "name": "稳中求胜",
+      "source_name": "LDXP / P98T49H8",
+      "platform": "ChatGPT",
+      "offer_count": 53
+    },
+    {
+      "id": "ldxp-qingwaaa",
+      "name": "青蛙AI·低价源头",
+      "source_name": "LDXP / qingwaAA",
+      "platform": "ChatGPT",
+      "offer_count": 32
+    },
+    {
+      "id": "ldxp-8998tm6i",
+      "name": "AI-小站",
+      "source_name": "LDXP / 8998TM6I",
+      "platform": "ChatGPT",
+      "offer_count": 29
+    },
+    {
+      "id": "ldxp-6h72nfwo",
+      "name": "ALL IN AI",
+      "source_name": "Goleden AI",
+      "platform": "ChatGPT",
+      "offer_count": 26
+    },
+    {
+      "id": "xiaoheiwan-128wu5",
+      "name": "xiaoheiwan",
+      "source_name": "xiaoheiwan",
+      "platform": "ChatGPT",
+      "offer_count": 21
+    },
+    {
+      "id": "ldxp-gq6obicy",
+      "name": "抢抢的AI小铺",
+      "source_name": "链动小铺 / GQ6OBICY",
+      "platform": "ChatGPT",
+      "offer_count": 11
+    },
+    {
+      "id": "nodebits-00db1147eaa58508",
+      "name": "ali.shop",
+      "source_name": "aili的gpt",
+      "platform": "ChatGPT",
+      "offer_count": 9
+    },
+    {
+      "id": "ldxp-b8jkqfdk",
+      "name": "听白AI",
+      "source_name": "链动小铺 / B8JKQFDK",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-i7g8tg30",
+      "name": "奥特曼大表哥",
+      "source_name": "奥特曼大表哥",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "ldxp-6tkpit5e",
+      "name": "7878",
+      "source_name": "LDXP / 6TKPIT5E",
+      "platform": "ChatGPT",
+      "offer_count": 34
+    },
+    {
+      "id": "bbai",
+      "name": "BBAI",
+      "source_name": "BBAI",
+      "platform": "ChatGPT",
+      "offer_count": 8
+    },
+    {
+      "id": "ldxp-8q9rhh0w",
+      "name": "沐沐的店",
+      "source_name": "gpt plus",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-ld52llpd",
+      "name": "YYYYD",
+      "source_name": "LDXP / LD52LLPD",
+      "platform": "ChatGPT",
+      "offer_count": 14
+    },
+    {
+      "id": "ldxp-jnpc971g",
+      "name": "RoAi",
+      "source_name": "LDXP / JNPC971G",
+      "platform": "ChatGPT",
+      "offer_count": 10
+    },
+    {
+      "id": "ldxp-x23to6qe",
+      "name": "卷子ai ( Lucky )",
+      "source_name": "LDXP / X23TO6QE",
+      "platform": "ChatGPT",
+      "offer_count": 28
+    },
+    {
+      "id": "ton",
+      "name": "ton的小店",
+      "source_name": "catfk.com",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-ton",
+      "name": "ton",
+      "source_name": "LDXP / ton",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "ldxp-wuku",
+      "name": "老马AI（源头直供，招代理）",
+      "source_name": "吴都AI会员新店",
+      "platform": "ChatGPT",
+      "offer_count": 44
+    },
+    {
+      "id": "ldxp-4uoatqtu",
+      "name": "Hug AI",
+      "source_name": "LDXP / 4UOATQTU",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "ldxp-czsyp67x",
+      "name": "ai源头高品质供应商",
+      "source_name": "LDXP / CZSYP67X",
+      "platform": "ChatGPT",
+      "offer_count": 13
+    },
+    {
+      "id": "antipro",
+      "name": "Antipro（请看店铺公告）",
+      "source_name": "Antipro",
+      "platform": "ChatGPT",
+      "offer_count": 31
+    },
+    {
+      "id": "nodebits-b1f32eb10e5bffec",
+      "name": "cc-cat",
+      "source_name": "cc-cat",
+      "platform": "ChatGPT",
+      "offer_count": 8
+    },
+    {
+      "id": "ldxp-1h2u5jti",
+      "name": "ai链动",
+      "source_name": "Jeason",
+      "platform": "ChatGPT",
+      "offer_count": 10
+    },
+    {
+      "id": "ldxp-gptpluspro",
+      "name": "gpt plus专卖",
+      "source_name": "链动小铺 / gptpluspro",
+      "platform": "ChatGPT",
+      "offer_count": 12
+    },
+    {
+      "id": "nodebits-271e81bfbcc1cd8c",
+      "name": "LynnZee",
+      "source_name": "LynnZee",
+      "platform": "ChatGPT",
+      "offer_count": 20
+    },
+    {
+      "id": "ldxp-gpt88",
+      "name": "迷途小铺",
+      "source_name": "迷途小铺",
+      "platform": "ChatGPT",
+      "offer_count": 17
+    },
+    {
+      "id": "nodebits-451234a4cdc793e0",
+      "name": "AI小屋",
+      "source_name": "AI小屋",
+      "platform": "ChatGPT",
+      "offer_count": 12
+    },
+    {
+      "id": "ldxp-lanyy",
+      "name": "懒羊羊AI",
+      "source_name": "LDXP / lanyy",
+      "platform": "ChatGPT",
+      "offer_count": 36
+    },
+    {
+      "id": "ldxp-61kf391i",
+      "name": "源头",
+      "source_name": "LDXP / 61KF391I",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-agqpn4ll",
+      "name": "AI小铺",
+      "source_name": "AI小铺",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "ldxp-magic-paw",
+      "name": "AI魔法铺",
+      "source_name": "LDXP / magic_paw",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "ldxp-n3bq0goi",
+      "name": "huihuiaoao",
+      "source_name": "LDXP / N3BQ0GOI",
+      "platform": "ChatGPT",
+      "offer_count": 11
+    },
+    {
+      "id": "ldxp-o1pf7ykc",
+      "name": "小高老板娘的接码店",
+      "source_name": "LDXP / O1PF7YKC",
+      "platform": "ChatGPT",
+      "offer_count": 15
+    },
+    {
+      "id": "ldxp-wurk0xwx",
+      "name": "个性个性AI源头批发",
+      "source_name": "LDXP / WURK0XWX",
+      "platform": "ChatGPT",
+      "offer_count": 14
+    },
+    {
+      "id": "ldxp-21t4v68z",
+      "name": "yes_code",
+      "source_name": "链动小铺 yes_code",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "ldxp-xiaofeng",
+      "name": "晓风ai",
+      "source_name": "LDXP / xiaofeng",
+      "platform": "ChatGPT",
+      "offer_count": 24
+    },
+    {
+      "id": "ldxp-rz97tcnv",
+      "name": "AI零度",
+      "source_name": "codex一手接码",
+      "platform": "ChatGPT",
+      "offer_count": 28
+    },
+    {
+      "id": "ldxp-aiteam",
+      "name": "Ai家族（不推荐·不售卖工具）",
+      "source_name": "LDXP / AiTeam",
+      "platform": "ChatGPT",
+      "offer_count": 12
+    },
+    {
+      "id": "ldxp-rccfto9m",
+      "name": "雪豹AI",
+      "source_name": "LDXP / RCCFTO9M",
+      "platform": "ChatGPT",
+      "offer_count": 44
+    },
+    {
+      "id": "ldxp-tora",
+      "name": "Tora-雪诺AI源头分销小铺",
+      "source_name": "LDXP / Tora",
+      "platform": "ChatGPT",
+      "offer_count": 47
+    },
+    {
+      "id": "ldxp-tudou",
+      "name": "土豆",
+      "source_name": "土豆GPT带质保-售后好",
+      "platform": "ChatGPT",
+      "offer_count": 10
+    },
+    {
+      "id": "ldxp-42kwtjge",
+      "name": "797",
+      "source_name": "链动小铺 / 42KWTJGE",
+      "platform": "ChatGPT",
+      "offer_count": 20
+    },
+    {
+      "id": "blackcat-ai-全球-ai-会员专营",
+      "name": "BlackCat AI · 全球 AI 会员专营",
+      "source_name": "BlackCat AI · 全球 AI 会员专营",
+      "platform": "ChatGPT",
+      "offer_count": 23
+    },
+    {
+      "id": "ldxp-7hvuec3y",
+      "name": "新卡网：https://pay.ldxp.cn/shop/464xiaopu",
+      "source_name": "LDXP / 7HVUEC3Y",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-pay-ldxp-cn",
+      "name": "张啊三",
+      "source_name": "pay.ldxp.cn",
+      "platform": "ChatGPT",
+      "offer_count": 17
+    },
+    {
+      "id": "ldxp-yuji",
+      "name": "YUJI",
+      "source_name": "YUJI",
+      "platform": "ChatGPT",
+      "offer_count": 22
+    },
+    {
+      "id": "ldxp-aishop1",
+      "name": "稳问AI --AI 大玩家（AI真源头，招代理）",
+      "source_name": "LDXP / aishop1",
+      "platform": "ChatGPT",
+      "offer_count": 30
+    },
+    {
+      "id": "星星小店-ai-工具账号与充值",
+      "name": "星宝小店",
+      "source_name": "星宝小店",
+      "platform": "ChatGPT",
+      "offer_count": 14
+    },
+    {
+      "id": "nodebits-c4d689938fe159ba",
+      "name": "惠民ai",
+      "source_name": "惠民ai",
+      "platform": "ChatGPT",
+      "offer_count": 39
+    },
+    {
+      "id": "nodebits-d6d45d6b550957c2",
+      "name": "全网最低批发ai账号店铺",
+      "source_name": "全网最低批发ai账号店铺",
+      "platform": "ChatGPT",
+      "offer_count": 12
+    },
+    {
+      "id": "小久卡网",
+      "name": "小久卡网",
+      "source_name": "小久卡网",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "aisou-pro",
+      "name": "Aisou智充",
+      "source_name": "Aisou智充",
+      "platform": "ChatGPT",
+      "offer_count": 16
+    },
+    {
+      "id": "ldxp-vuojqohy",
+      "name": "小久",
+      "source_name": "小久",
+      "platform": "ChatGPT",
+      "offer_count": 10
+    },
+    {
+      "id": "nodebits-8d1da6eb838aa124",
+      "name": "喵喵AI小铺2061",
+      "source_name": "喵喵AI小铺",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "nodebits-3b62f09a6ada1059",
+      "name": "麦门商店",
+      "source_name": "麦门商店",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "ldxp-rrim3vsf",
+      "name": "AI低价源头店",
+      "source_name": "LDXP / RRIM3VSF",
+      "platform": "ChatGPT",
+      "offer_count": 8
+    },
+    {
+      "id": "catfk-xpsyyds6666",
+      "name": "L 龙崎",
+      "source_name": "L 龙崎",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "ldxp-subaicc",
+      "name": "Fkai-Plus Pro源头直供【招代理】",
+      "source_name": "SubAI AI 订阅源头",
+      "platform": "ChatGPT",
+      "offer_count": 15
+    },
+    {
+      "id": "ldxp-ai-plus",
+      "name": "AI批发",
+      "source_name": "AI批发",
+      "platform": "ChatGPT",
+      "offer_count": 11
+    },
+    {
+      "id": "nodebits-a5b6328dfe1e3186",
+      "name": "AI华强北",
+      "source_name": "AI华强北",
+      "platform": "ChatGPT",
+      "offer_count": 18
+    },
+    {
+      "id": "ldxp-harvey",
+      "name": "harvey",
+      "source_name": "LDXP / harvey",
+      "platform": "ChatGPT",
+      "offer_count": 44
+    },
+    {
+      "id": "nodebits-58d2f1c37d2e3e56",
+      "name": "我爱买号",
+      "source_name": "我爱买号",
+      "platform": "ChatGPT",
+      "offer_count": 16
+    },
+    {
+      "id": "ldxp-tim-ai",
+      "name": "Tim的AI便利店",
+      "source_name": "LDXP / Tim_AI",
+      "platform": "ChatGPT",
+      "offer_count": 13
+    },
+    {
+      "id": "nodebits-b22e6d696740aef7",
+      "name": "【伊莉雅】",
+      "source_name": "伊莉雅ai会员店",
+      "platform": "ChatGPT",
+      "offer_count": 24
+    },
+    {
+      "id": "xtacc-top",
+      "name": "xtacc.top",
+      "source_name": "xtacc.top",
+      "platform": "ChatGPT",
+      "offer_count": 18
+    },
+    {
+      "id": "nodebits-60b0ef265b2e777a",
+      "name": "Ai小熊[源头]",
+      "source_name": "Ai小熊",
+      "platform": "ChatGPT",
+      "offer_count": 15
+    },
+    {
+      "id": "ldxp-s5ul3uhi",
+      "name": "ai能量小铺",
+      "source_name": "LDXP / S5UL3UHI",
+      "platform": "ChatGPT",
+      "offer_count": 17
+    },
+    {
+      "id": "nodebits-05b3a4700ccf9e8a",
+      "name": "WEB3Al",
+      "source_name": "WEB3Al",
+      "platform": "ChatGPT",
+      "offer_count": 42
+    },
+    {
+      "id": "auto-subscribe-hvmj88",
+      "name": "Auto Subscribe / ultra.makelove.cloud",
+      "source_name": "Auto Subscribe / ultra.makelove.cloud",
+      "platform": "ChatGPT",
+      "offer_count": 16
+    },
+    {
+      "id": "ldxp-0000",
+      "name": "AI海外账号",
+      "source_name": "LDXP / 0000",
+      "platform": "ChatGPT",
+      "offer_count": 17
+    },
+    {
+      "id": "ldxp-laoyang",
+      "name": "元筑AI 分销码 h8wthq46",
+      "source_name": "LDXP / laoyang",
+      "platform": "ChatGPT",
+      "offer_count": 20
+    },
+    {
+      "id": "ldxp-153180461",
+      "name": "Ai小伙计",
+      "source_name": "LDXP / 153180461",
+      "platform": "ChatGPT",
+      "offer_count": 11
+    },
+    {
+      "id": "ldxp-602",
+      "name": "602",
+      "source_name": "链动小铺 / 602",
+      "platform": "ChatGPT",
+      "offer_count": 9
+    },
+    {
+      "id": "ldxp-kfnrcfgc",
+      "name": "海神- GPT-大玩家（招代理）",
+      "source_name": "海神- GPT-大玩家（招代理）",
+      "platform": "ChatGPT",
+      "offer_count": 33
+    },
+    {
+      "id": "ldxp-eiq423gt",
+      "name": "ai源头店铺",
+      "source_name": "LDXP / EIQ423GT",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "nodebits-3e2a2707f9017f45",
+      "name": "哈哈的ai杂货铺",
+      "source_name": "哈哈的ai杂货铺",
+      "platform": "ChatGPT",
+      "offer_count": 30
+    },
+    {
+      "id": "nodebits-f29bd25cc843c467",
+      "name": "shihuiai",
+      "source_name": "shihuiai",
+      "platform": "ChatGPT",
+      "offer_count": 8
+    },
+    {
+      "id": "王哈哈ai",
+      "name": "王哈哈Ai",
+      "source_name": "王哈哈Ai",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "shop-mfttai-com",
+      "name": "沐风源头",
+      "source_name": "沐风源头",
+      "platform": "ChatGPT",
+      "offer_count": 9
+    },
+    {
+      "id": "desolate-卡网",
+      "name": "Desolate 卡网",
+      "source_name": "Desolate 卡网",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "nodebits-9a77aebfe9c8a501",
+      "name": "大白发卡",
+      "source_name": "大白发卡",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "以太-ai服务订阅充值",
+      "name": "以太 AI服务订阅充值",
+      "source_name": "以太 AI服务订阅充值",
+      "platform": "ChatGPT",
+      "offer_count": 15
+    },
+    {
+      "id": "ldxp-tbcah4g1",
+      "name": "GPT源头商家",
+      "source_name": "LDXP / TBCAH4G1",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "nodebits-5d9b3c22e0416d58",
+      "name": "gpt源头卡密 对接码hexindiali",
+      "source_name": "aikami",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "ldxp-chaoji",
+      "name": "炒鸡变黑的AI店（CDK 代充 PRO，Plus龟头卷价版）",
+      "source_name": "LDXP / chaoji",
+      "platform": "ChatGPT",
+      "offer_count": 8
+    },
+    {
+      "id": "fk-10886-xyz",
+      "name": "fk.10886.xyz",
+      "source_name": "fk.10886.xyz",
+      "platform": "ChatGPT",
+      "offer_count": 13
+    },
+    {
+      "id": "ldxp-93fvu5nk",
+      "name": "极客ai Hub",
+      "source_name": "geekaihub",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "ldxp-wanghaha",
+      "name": "王哈哈Ai-Plus Pro源头直供【招代理】",
+      "source_name": "985渠道",
+      "platform": "ChatGPT",
+      "offer_count": 9
+    },
+    {
+      "id": "猫咔-24小时自动发货",
+      "name": "猫咔 - Gemini源头批发",
+      "source_name": "猫咔 - Gemini源头批发",
+      "platform": "ChatGPT",
+      "offer_count": 18
+    },
+    {
+      "id": "晴天小店",
+      "name": "晴天小店",
+      "source_name": "晴天小店",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "gpt-pro20x",
+      "name": "GPT pro20x",
+      "source_name": "GPT pro20x",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "aixou",
+      "name": "AIXOU",
+      "source_name": "AIXOU",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-gui01",
+      "name": "饵季的小店",
+      "source_name": "LDXP / gui01",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "nodebits-b5c9c2b2d8244554",
+      "name": "Ai小店1150",
+      "source_name": "Ai小店",
+      "platform": "ChatGPT",
+      "offer_count": 12
+    },
+    {
+      "id": "ldxp-1490ai批发小铺",
+      "name": "7QAI批发市场",
+      "source_name": "LDXP / 1490AI批发小铺",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "shopgpt-plus",
+      "name": "shopgpt.plus",
+      "source_name": "shopgpt.plus",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "nodebits-88167e7d2c40a062",
+      "name": "AI开发商",
+      "source_name": "AI开发商",
+      "platform": "ChatGPT",
+      "offer_count": 15
+    },
+    {
+      "id": "ldxp-cwyhlt",
+      "name": "AI小店",
+      "source_name": "链动小铺 / cwyhlt",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "购物-dn发卡网",
+      "name": "购物 - DN发卡网",
+      "source_name": "购物 - DN发卡网",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "redeemgpt-17i7nj",
+      "name": "RedeemGPT / faka.redeemgpt.com",
+      "source_name": "RedeemGPT / faka.redeemgpt.com",
+      "platform": "ChatGPT",
+      "offer_count": 8
+    },
+    {
+      "id": "购物-kbs-hub-卡比兽ai资源站",
+      "name": "购物 - KBS Hub 卡比兽Ai资源站",
+      "source_name": "购物 - KBS Hub 卡比兽Ai资源站",
+      "platform": "ChatGPT",
+      "offer_count": 9
+    },
+    {
+      "id": "艾琳",
+      "name": "艾琳",
+      "source_name": "艾琳",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "ldxp-ujlfbvr9",
+      "name": "Kstar",
+      "source_name": "链动小铺 / UJLFBVR9",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "ldxp-antmall",
+      "name": "蚂蚁AI",
+      "source_name": "链动小铺 / antmall",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "nodebits-6a7e5beeb38c7e24",
+      "name": "海飞丝 GPT卡充唯一源头 PLUS/PRO【招代理】一件代发",
+      "source_name": "海飞丝 土区PLUS源头供应",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "ldxp-8888",
+      "name": "Gemini AI折扣站",
+      "source_name": "gemini",
+      "platform": "ChatGPT",
+      "offer_count": 8
+    },
+    {
+      "id": "ldxp-s8ek3hl5",
+      "name": "鱼ai",
+      "source_name": "链动小铺 / S8EK3HL5",
+      "platform": "ChatGPT",
+      "offer_count": 12
+    },
+    {
+      "id": "nodebits-6a1a5973522db3e9",
+      "name": "Gemini账号批发, douyiner",
+      "source_name": "Gemini账号批发, douyiner",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "ldxp-df6ckf46",
+      "name": "SHEN",
+      "source_name": "LDXP / DF6CKF46",
+      "platform": "ChatGPT",
+      "offer_count": 17
+    },
+    {
+      "id": "ldxp-nwiplk8x",
+      "name": "李页的小店",
+      "source_name": "LDXP / NWIPLK8X",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "ldxp-gptxp",
+      "name": "gpt小铺",
+      "source_name": "LDXP / gptxp",
+      "platform": "ChatGPT",
+      "offer_count": 10
+    },
+    {
+      "id": "nodebits-a6a53cf378891a7e",
+      "name": "苏哲AI订阅中心",
+      "source_name": "苏哲AI订阅中心",
+      "platform": "ChatGPT",
+      "offer_count": 14
+    },
+    {
+      "id": "ldxp-fengai",
+      "name": "风起Ai小卖铺",
+      "source_name": "风起Ai小卖铺",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "ldxp-kabila",
+      "name": "卡比拉",
+      "source_name": "LDXP / kabila",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "nodebits-b08233e11cc65615",
+      "name": "tehuio",
+      "source_name": "tehuio",
+      "platform": "ChatGPT",
+      "offer_count": 13
+    },
+    {
+      "id": "ldxp-2wmccnsq",
+      "name": "AI搬运工",
+      "source_name": "AI搬运工",
+      "platform": "ChatGPT",
+      "offer_count": 8
+    },
+    {
+      "id": "ldxp-yy4kve2t",
+      "name": "商家5291",
+      "source_name": "LDXP / YY4KVE2T",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "ldxp-manai",
+      "name": "小猴源头（一手渠道-招代理）GPT成品-5x-20x",
+      "source_name": "LDXP / Manai",
+      "platform": "ChatGPT",
+      "offer_count": 14
+    },
+    {
+      "id": "nodebits-562652c2309e6f77",
+      "name": "会员权益在线",
+      "source_name": "会员权益在线",
+      "platform": "ChatGPT",
+      "offer_count": 22
+    },
+    {
+      "id": "ldxp-onx6zowb",
+      "name": "彩虹AI",
+      "source_name": "LDXP / ONX6ZOWB",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "ldxp-kaka",
+      "name": "卡卡丨货源",
+      "source_name": "LDXP / kaka",
+      "platform": "ChatGPT",
+      "offer_count": 20
+    },
+    {
+      "id": "ldxp-v2m14u73",
+      "name": "初草的AI学习商品小铺",
+      "source_name": "浅草",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "ldxp-zz88vr4w",
+      "name": "My的Ai小铺",
+      "source_name": "LDXP / ZZ88VR4W",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "nodebits-f5fc04fb7653d6ba",
+      "name": "青卿",
+      "source_name": "青卿",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "ldxp-xiaoyie",
+      "name": "小野的AI会员店",
+      "source_name": "LDXP / XiaoYie",
+      "platform": "ChatGPT",
+      "offer_count": 16
+    },
+    {
+      "id": "ldxp-wr09nyjn",
+      "name": "奇怪",
+      "source_name": "链动小铺",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "购物-goutou小铺",
+      "name": "AI批发",
+      "source_name": "AI批发",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "nodebits-f78d85bc3f470ec3",
+      "name": "xxxyan",
+      "source_name": "xxxyan",
+      "platform": "ChatGPT",
+      "offer_count": 11
+    },
+    {
+      "id": "nodebits-4bf5f67bbbf22676",
+      "name": "灵AI",
+      "source_name": "灵AI",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "鲸鲨源头",
+      "name": "鲸鲨源头",
+      "source_name": "鲸鲨源头",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "grok-super-芳华小铺",
+      "name": "Grok Super - 芳华小铺",
+      "source_name": "Grok Super - 芳华小铺",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "catfk-com",
+      "name": "aihome",
+      "source_name": "Antipro（源头低价AI会员）",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "小熊ai充值",
+      "name": "小熊AI充值",
+      "source_name": "小熊AI充值",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "ldxp-chatgpt-ai",
+      "name": "AI小铺（源头直供，招代理）",
+      "source_name": "LDXP / chatgpt_ai",
+      "platform": "ChatGPT",
+      "offer_count": 12
+    },
+    {
+      "id": "菲区卡冲",
+      "name": "菲区卡冲",
+      "source_name": "菲区卡冲",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "ldxp-gptpromax",
+      "name": "GPT小站",
+      "source_name": "GPT小站",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-7tcl10mr",
+      "name": "卖点AI",
+      "source_name": "LDXP / 7TCL10MR",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "nodebits-7bae689840efe19d",
+      "name": "恶小梦",
+      "source_name": "恶小梦API",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "ldxp-ikun666",
+      "name": "iKun AI源头小铺",
+      "source_name": "LDXP / ikun666",
+      "platform": "ChatGPT",
+      "offer_count": 12
+    },
+    {
+      "id": "opensora-aifk",
+      "name": "AUTO FK",
+      "source_name": "AUTO FK",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "购物-nodeexs",
+      "name": "购物 - NoDeexs",
+      "source_name": "购物 - NoDeexs",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "nodebits-f78f58498dbd6e80",
+      "name": "bmoplus",
+      "source_name": "bmoplus",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "gpt-free已接码账号-outlook邮箱",
+      "name": "gpt free已接码账号、outlook邮箱",
+      "source_name": "gpt free已接码账号、outlook邮箱",
+      "platform": "ChatGPT",
+      "offer_count": 9
+    },
+    {
+      "id": "makerich-club",
+      "name": "AI创富俱乐部",
+      "source_name": "AI创富俱乐部",
+      "platform": "ChatGPT",
+      "offer_count": 12
+    },
+    {
+      "id": "ldxp-fnaoigbk",
+      "name": "PLUS直营店",
+      "source_name": "LDXP / PLUS直营店",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "ldxp-zkvlk6kl",
+      "name": "全网低价GPT Team账号",
+      "source_name": "全网低价GPT Team账号",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "catfk-hththt",
+      "name": "HT",
+      "source_name": "HT",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "auto-subscribe-1t88nq",
+      "name": "Auto Subscribe / shop.aitonse.com",
+      "source_name": "Auto Subscribe / shop.aitonse.com",
+      "platform": "ChatGPT",
+      "offer_count": 16
+    },
+    {
+      "id": "ldxp-beijixing",
+      "name": "北极星",
+      "source_name": "北极星",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "team",
+      "name": "team",
+      "source_name": "team",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-66666sms",
+      "name": "SMS-AIShop",
+      "source_name": "LDXP / 66666SMS",
+      "platform": "ChatGPT",
+      "offer_count": 9
+    },
+    {
+      "id": "ldxp-td6gilqr",
+      "name": "ChatGptPlus 陌路专营店 分销码molu",
+      "source_name": "LDXP / TD6GILQR",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "阿祖",
+      "name": "阿祖",
+      "source_name": "Team",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "GPT专卖-cw",
+      "name": "GPT专卖-cw",
+      "source_name": "GPT专卖-cw",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "ldxp-aying",
+      "name": "Ai俱乐部",
+      "source_name": "LDXP / Aying",
+      "platform": "ChatGPT",
+      "offer_count": 30
+    },
+    {
+      "id": "nodebits-974eb11db27cd8ca",
+      "name": "YCYAPI",
+      "source_name": "YCYAI",
+      "platform": "ChatGPT",
+      "offer_count": 13
+    },
+    {
+      "id": "freejson",
+      "name": "freejson",
+      "source_name": "LDXP / 3KBNYI29",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "ldxp-ryrcn59o",
+      "name": "YOYO小卖部",
+      "source_name": "LDXP / RYRCN59O",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "nodebits-3a43007f3911a999",
+      "name": "LynnZee 店铺",
+      "source_name": "LynnZee 店铺",
+      "platform": "ChatGPT",
+      "offer_count": 13
+    },
+    {
+      "id": "nodebits-660a17523e9cd96b",
+      "name": "南乔ai",
+      "source_name": "南乔ai",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "catfk-xl6kqgqz",
+      "name": "Xx-gpt-gemini",
+      "source_name": "Xx-gpt-gemini",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "nodebits-d63573dddfdb8ff7",
+      "name": "mortyAI小铺",
+      "source_name": "MortyAi小铺",
+      "platform": "ChatGPT",
+      "offer_count": 9
+    },
+    {
+      "id": "ldxp-doroai",
+      "name": "Doro AI",
+      "source_name": "链动小铺 / doroai",
+      "platform": "ChatGPT",
+      "offer_count": 14
+    },
+    {
+      "id": "ldxp-hflbzw2x",
+      "name": "商家9786",
+      "source_name": "商家9786",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-彩虹马的ai店",
+      "name": "彩虹马的AI店",
+      "source_name": "LDXP / 彩虹马的AI店",
+      "platform": "ChatGPT",
+      "offer_count": 8
+    },
+    {
+      "id": "ldxp-rn3dijiy",
+      "name": "NPC小铺",
+      "source_name": "NPC小铺",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-fajmdfwv",
+      "name": "AI深研社",
+      "source_name": "LDXP / FAJMDFWV",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-tvhuvt0a",
+      "name": "OpcAi_Family",
+      "source_name": "【7.24下午4点生产🚀源头产出】GPTPLUS独享源头渠道账号|质保首登|未接码|微软邮箱（新手勿扰）",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-8allucg3",
+      "name": "祥祥AI",
+      "source_name": "LDXP / 8ALLUCG3",
+      "platform": "ChatGPT",
+      "offer_count": 4
+    },
+    {
+      "id": "shop-olimap-top",
+      "name": "shop.olimap.top",
+      "source_name": "shop.olimap.top",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-atm",
+      "name": "模型契约",
+      "source_name": "模型契约",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-kijss7tj",
+      "name": "还没想好",
+      "source_name": "链动小铺 / KIJSS7TJ",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-zaqq880p",
+      "name": "爆炸车AI",
+      "source_name": "爆炸车AI",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-dreamaii",
+      "name": "Dream AI",
+      "source_name": "chatgpt plus 成品号（未接码）icloud邮箱",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "weiloo",
+      "name": "weiloo",
+      "source_name": "weiloo",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "ldxp-m4xs1e3q",
+      "name": "小L专卖",
+      "source_name": "链动小铺 / M4XS1E3Q",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "nodebits-5288db5eefc7a53f",
+      "name": "账号小卖铺",
+      "source_name": "账号小卖铺",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "nodebits-87de16c80dd1e61f",
+      "name": "咔咔",
+      "source_name": "咔咔",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "txyxt小店",
+      "name": "TxyxT小店",
+      "source_name": "TxyxT小店",
+      "platform": "ChatGPT",
+      "offer_count": 14
+    },
+    {
+      "id": "ldxp-36xn8elm",
+      "name": "Asuka的小店",
+      "source_name": "LDXP / 36XN8ELM",
+      "platform": "ChatGPT",
+      "offer_count": 7
+    },
+    {
+      "id": "ldxp-p5034cnr",
+      "name": "四米名字",
+      "source_name": "链动小铺 / P5034CNR",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "nodebits-a3c9b7de820d18f2",
+      "name": "Ai能量小店",
+      "source_name": "Ai能量小店",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "ldxp-xsmww894",
+      "name": "小JIANG的商店",
+      "source_name": "ldxp.cn",
+      "platform": "ChatGPT",
+      "offer_count": 8
+    },
+    {
+      "id": "ldxp-1101",
+      "name": "CodeCtrclc-对接码1101",
+      "source_name": "LDXP / 1101",
+      "platform": "ChatGPT",
+      "offer_count": 12
+    },
+    {
+      "id": "zhang520-store",
+      "name": "zhang520.store",
+      "source_name": "zhang520.store",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "cc卡网",
+      "name": "CC卡网",
+      "source_name": "CC卡网",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "nodebits-0bc2872d91171dd9",
+      "name": "ai主理人",
+      "source_name": "ai主理人",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "ai-批发",
+      "name": "AI 批发",
+      "source_name": "AI 批发",
+      "platform": "ChatGPT",
+      "offer_count": 2
+    },
+    {
+      "id": "nodebits-b2192d84d49269c1",
+      "name": "Gemini批发",
+      "source_name": "Gemini批发",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-7co79n1w",
+      "name": "claude源头价招代理对接码-5hrcmi7e",
+      "source_name": "LDXP / 7CO79N1W",
+      "platform": "ChatGPT",
+      "offer_count": 10
+    },
+    {
+      "id": "ldxp-nux4knc4",
+      "name": "gpt-gemini会员稳定低价",
+      "source_name": "LDXP / NUX4KNC4",
+      "platform": "ChatGPT",
+      "offer_count": 3
+    },
+    {
+      "id": "jzai168-com",
+      "name": "jzai1688.com",
+      "source_name": "jzai1688.com",
+      "platform": "ChatGPT",
+      "offer_count": 6
+    },
+    {
+      "id": "JZ",
+      "name": "JZ",
+      "source_name": "JZ",
+      "platform": "ChatGPT",
+      "offer_count": 11
+    },
+    {
+      "id": "n1-ccnmgpt-com",
+      "name": "n1.ccnmgpt.com",
+      "source_name": "n1.ccnmgpt.com",
+      "platform": "ChatGPT",
+      "offer_count": 5
+    },
+    {
+      "id": "flyai-qzz-io",
+      "name": "flyai.qzz.io",
+      "source_name": "flyai.qzz.io",
+      "platform": "ChatGPT",
+      "offer_count": 16
+    },
+    {
+      "id": "beibei-1d63pj",
+      "name": "beibei",
+      "source_name": "beibei",
+      "platform": "ChatGPT",
+      "offer_count": 10
+    },
+    {
+      "id": "ldxp-aicenter",
+      "name": "海绵宝宝",
+      "source_name": "AI批发商",
+      "platform": "ChatGPT",
+      "offer_count": 17
+    },
+    {
+      "id": "auto-subscribe-1uh3sv",
+      "name": "Auto Subscribe / kapay.shop",
+      "source_name": "Auto Subscribe / kapay.shop",
+      "platform": "ChatGPT",
+      "offer_count": 11
+    },
+    {
+      "id": "ldxp-bmcca",
+      "name": "BMCCA小铺",
+      "source_name": "BMCCA",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-elsxoanj",
+      "name": "LMark",
+      "source_name": "黑哥Claude批发源头（独家一年claude代充）",
+      "platform": "ChatGPT",
+      "offer_count": 8
+    },
+    {
+      "id": "chat ai",
+      "name": "chat ai",
+      "source_name": "高质稳定号",
+      "platform": "ChatGPT",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-claudeai",
+      "name": "AI铺子",
+      "source_name": "Claude手搓普号",
+      "platform": "Claude",
+      "offer_count": 1
+    },
+    {
+      "id": "nodebits-22c712401c88b6e4",
+      "name": "ChihayaAI",
+      "source_name": "千早爱音的AI小铺",
+      "platform": "Claude",
+      "offer_count": 2
+    },
+    {
+      "id": "nodebits-b8dd3f862443157a",
+      "name": "谷歌邮箱 AI源头批发",
+      "source_name": "谷歌邮箱 AI源头批发",
+      "platform": "Claude",
+      "offer_count": 12
+    },
+    {
+      "id": "ldxp-a3h9bd10",
+      "name": "老中医X",
+      "source_name": "claude",
+      "platform": "Claude",
+      "offer_count": 11
+    },
+    {
+      "id": "ldxp-w89itldc",
+      "name": "AI大卖家",
+      "source_name": "AI大卖家",
+      "platform": "Claude",
+      "offer_count": 4
+    },
+    {
+      "id": "ldxp-4xvzqsfp",
+      "name": "AI源头批发",
+      "source_name": "AI源头批发",
+      "platform": "Gemini",
+      "offer_count": 4
+    },
+    {
+      "id": "ldxp-hajimi3303",
+      "name": "双子星AI",
+      "source_name": "LDXP / hajimi3303",
+      "platform": "Gemini",
+      "offer_count": 5
+    },
+    {
+      "id": "ldxp-w50i8dvy",
+      "name": "gemini源头直供",
+      "source_name": "链动小铺 / W50I8DVY",
+      "platform": "Gemini",
+      "offer_count": 1
+    },
+    {
+      "id": "geekaihub-com",
+      "name": "geekaihub.com",
+      "source_name": "geekaihub.com",
+      "platform": "Gemini",
+      "offer_count": 3
+    },
+    {
+      "id": "ldxp-猫猫豆",
+      "name": "猫猫豆",
+      "source_name": "LDXP / 猫猫豆",
+      "platform": "Gemini",
+      "offer_count": 18
+    },
+    {
+      "id": "ldxp-ihwx6mx8",
+      "name": "太一的店铺",
+      "source_name": "LDXP / IHWX6MX8",
+      "platform": "Gemini",
+      "offer_count": 3
+    },
+    {
+      "id": "nodebits-7d2bcd0f5873582d",
+      "name": "邻家数字铺",
+      "source_name": "邻家数字铺",
+      "platform": "Gemini",
+      "offer_count": 1
+    },
+    {
+      "id": "nodebits-63b8510890073d2c",
+      "name": "NikoCard",
+      "source_name": "NikoCard",
+      "platform": "Gemini",
+      "offer_count": 4
+    },
+    {
+      "id": "美国圣母大学nd-edu邮箱-大龄校友-可用gemini-pro-购买-office-365-小店-office-edu邮箱-ai-教育优惠",
+      "name": "美国圣母大学nd.edu邮箱【大龄校友 可用Gemini Pro】 购买 | office 365 小店 - office | edu邮箱 | ai | 教育优惠",
+      "source_name": "美国圣母大学nd.edu邮箱【大龄校友 可用Gemini Pro】 购买 | office 365 小店 - office | edu邮箱 | ai | 教育优惠",
+      "platform": "Gemini",
+      "offer_count": 12
+    },
+    {
+      "id": "ldxp-pixelshop",
+      "name": "Gemini源头供货商",
+      "source_name": "LDXP Pixelshop",
+      "platform": "Gemini",
+      "offer_count": 10
+    },
+    {
+      "id": "ldxp-yxctjah4",
+      "name": "蒲美丽のAI副食店",
+      "source_name": "LDXP / YXCTJAH4",
+      "platform": "Gemini",
+      "offer_count": 6
+    },
+    {
+      "id": "ldxp-q5aiw19x",
+      "name": "德玛西亚ai",
+      "source_name": "德玛西亚ai",
+      "platform": "Gemini",
+      "offer_count": 6
+    },
+    {
+      "id": "购物 - T佬的gmail批发渠道",
+      "name": "购物 - T佬的gmail批发渠道",
+      "source_name": "购物 - T佬的gmail批发渠道",
+      "platform": "Gemini",
+      "offer_count": 14
+    },
+    {
+      "id": "发卡网-在线购买虚拟商品",
+      "name": "发卡网 - 在线购买虚拟商品",
+      "source_name": "发卡网 - 在线购买虚拟商品",
+      "platform": "Gemini",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-iuwaynyr",
+      "name": "diyun小铺",
+      "source_name": "diyun小铺",
+      "platform": "Grok",
+      "offer_count": 3
+    },
+    {
+      "id": "nodebits-c645505b4682a178",
+      "name": "AI For Everyone",
+      "source_name": "Grok年卡专卖",
+      "platform": "Grok",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-aifxo",
+      "name": "AIFXO",
+      "source_name": "Super Grok",
+      "platform": "Grok",
+      "offer_count": 2
+    },
+    {
+      "id": "ldxp-ik1xf5ca",
+      "name": "Royce",
+      "source_name": "X会员super grok",
+      "platform": "Grok",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-coqna6px",
+      "name": "TOPSTAR",
+      "source_name": "LDXP / COQNA6PX",
+      "platform": "邮箱",
+      "offer_count": 12
+    },
+    {
+      "id": "ldxp-jdmunqek",
+      "name": "雨辉小店",
+      "source_name": "链动小铺 / JDMUNQEK",
+      "platform": "邮箱",
+      "offer_count": 3
+    },
+    {
+      "id": "ldxp-rimon",
+      "name": "飞龙 AI 小铺",
+      "source_name": "飞龙 AI",
+      "platform": "邮箱",
+      "offer_count": 12
+    },
+    {
+      "id": "sol批发谷歌",
+      "name": "sol批发谷歌",
+      "source_name": "sol批发谷歌",
+      "platform": "邮箱",
+      "offer_count": 6
+    },
+    {
+      "id": "ldxp-hv676a0a",
+      "name": "AI小店",
+      "source_name": "LDXP / HV676A0A",
+      "platform": "邮箱",
+      "offer_count": 3
+    },
+    {
+      "id": "nodebits-9ba97f63fac75ab0",
+      "name": "Meowka喵卡",
+      "source_name": "Meowka喵卡",
+      "platform": "邮箱",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-2xz9m71j",
+      "name": "云智仓AI",
+      "source_name": "LDXP / 2XZ9M71J",
+      "platform": "接码",
+      "offer_count": 6
+    },
+    {
+      "id": "catfk-hldragon",
+      "name": "HLDragon",
+      "source_name": "HLDragon",
+      "platform": "接码",
+      "offer_count": 2
+    },
+    {
+      "id": "nodebits-5adcbfd5f80f6274",
+      "name": "映核资源站",
+      "source_name": "映核素材馆",
+      "platform": "接码",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-009527",
+      "name": "AI杂货铺",
+      "source_name": "AI杂货铺",
+      "platform": "接码",
+      "offer_count": 1
+    },
+    {
+      "id": "购物-棱镜店铺",
+      "name": "购物 - 棱镜店铺",
+      "source_name": "购物 - 棱镜店铺",
+      "platform": "接码",
+      "offer_count": 1
+    },
+    {
+      "id": "nodebits-f84aae23419a5f81",
+      "name": "KeikoAI小店",
+      "source_name": "GPT源头店铺",
+      "platform": "接码",
+      "offer_count": 1
+    },
+    {
+      "id": "ldxp-lotte-library",
+      "name": "乐天图书馆",
+      "source_name": "链动小铺 / lotte-library",
+      "platform": "其他",
+      "offer_count": 3
+    },
+    {
+      "id": "ldxp-tjfxrqd5",
+      "name": "BrothersAI",
+      "source_name": "LDXP / TJFXRQD5",
+      "platform": "其他",
+      "offer_count": 1
+    }
+  ]
+}

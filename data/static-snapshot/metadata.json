@@ -1,0 +1,71 @@
+{
+  "snapshotVersion": "priceai-static-20260729-ms62yjmw",
+  "sourceUrl": "https://priceai.cc/api/offers",
+  "fetchedAt": "2026-07-29T12:48:03.560Z",
+  "generatedAt": "2026-07-29T12:49:13.612Z",
+  "total": 3337,
+  "products": 39,
+  "merchants": 302,
+  "declaredTotal": 4611,
+  "excludedRows": 1274,
+  "platforms": [
+    {
+      "platform": "ChatGPT",
+      "snapshot_file": "chatgpt.json",
+      "declared_total": 2207,
+      "fetched_count": 2207,
+      "success": true
+    },
+    {
+      "platform": "Claude",
+      "snapshot_file": "claude.json",
+      "declared_total": 322,
+      "fetched_count": 322,
+      "success": true
+    },
+    {
+      "platform": "Gemini",
+      "snapshot_file": "gemini.json",
+      "declared_total": 649,
+      "fetched_count": 649,
+      "success": true
+    },
+    {
+      "platform": "Grok",
+      "snapshot_file": "grok.json",
+      "declared_total": 288,
+      "fetched_count": 288,
+      "success": true
+    },
+    {
+      "platform": "邮箱",
+      "snapshot_file": "other.json",
+      "declared_total": 489,
+      "fetched_count": 489,
+      "success": true
+    },
+    {
+      "platform": "接码",
+      "snapshot_file": "other.json",
+      "declared_total": 517,
+      "fetched_count": 517,
+      "success": true
+    },
+    {
+      "platform": "API/CDK",
+      "snapshot_file": "other.json",
+      "declared_total": 0,
+      "fetched_count": 0,
+      "success": true
+    },
+    {
+      "platform": "其他",
+      "snapshot_file": "other.json",
+      "declared_total": 139,
+      "fetched_count": 139,
+      "success": true
+    }
+  ],
+  "source": "priceai.cc public API (build-time snapshot)",
+  "exclusionNote": "高风险接码/KYC 类目不进入公开快照；账号/共享/拼车等保留展示但显著标记风险等级。"
+}

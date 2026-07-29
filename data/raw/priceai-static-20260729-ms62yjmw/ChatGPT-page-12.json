@@ -1,0 +1,378 @@
+{
+  "platform": "ChatGPT",
+  "page": 12,
+  "offset": 2200,
+  "limit": 200,
+  "url": "https://priceai.cc/api/offers?platform=ChatGPT&limit=200&offset=2200",
+  "fetchedAt": "2026-07-29T12:48:37.038Z",
+  "raw_hash": "fe843189571305dce648c39c239d6110cbcceb51ab42601f2b8d7bd51d4e30cd",
+  "declared_total": 2207,
+  "returned_count": 7,
+  "response": {
+    "rows": [
+      {
+        "offer": {
+          "id": "id-1f4xxul",
+          "sourceId": "xiaoheiwan-128wu5",
+          "sourceName": "xiaoheiwan",
+          "sourceStoreName": "xiaoheiwan",
+          "sourceIncludedAt": "2026-05-08T10:30:01.712597+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "xiaoheiwan",
+          "sourceTitle": "ChatGPT Pro 200 美金 成品号/账号代充",
+          "price": 1380,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://upgrade.xiaoheiwan.com/purchase",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "delivery_account",
+            "pro_max_official_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:04.079+00:00",
+          "sourceUpdatedAt": "2026-07-06T10:36:34.376+00:00",
+          "lastSeenAt": "2026-07-29T12:37:04.079+00:00",
+          "verifiedAt": "2026-07-29T12:37:04.079+00:00",
+          "expiresAt": "2026-07-30T12:37:04.079+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "chatgpt-pro-20x",
+          "slug": "chatgpt-pro-20x",
+          "displayName": "ChatGPT Pro 20x",
+          "platform": "ChatGPT",
+          "productType": "订阅/会员",
+          "spec": "Pro / 20x",
+          "summary": "ChatGPT Pro 20x 充值、代开或卡密。",
+          "aliases": [
+            "pro 20x",
+            "pro x20",
+            "20倍",
+            "200刀",
+            "200 美元",
+            "200美元"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-out1cg",
+          "sourceId": "ldxp-czsyp67x",
+          "sourceName": "LDXP / CZSYP67X",
+          "sourceStoreName": "ai源头高品质供应商",
+          "sourceIncludedAt": "2026-07-01T05:05:27.150178+00:00",
+          "sourceShopCreatedAt": "2026-05-19T13:17:33+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【菲区官方代充】GPT Pro 20x 1个月【质保30天】【手动代充】",
+          "price": 1380,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/6qqesl",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_plus_recharge_ph_card",
+            "pro_max_official_recharge",
+            "duration_month",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:58:19.469+00:00",
+          "sourceUpdatedAt": "2026-07-25T06:52:01.159+00:00",
+          "lastSeenAt": "2026-07-29T11:58:19.469+00:00",
+          "verifiedAt": "2026-07-29T11:58:19.469+00:00",
+          "expiresAt": "2026-07-30T11:58:19.469+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "chatgpt-pro-20x",
+          "slug": "chatgpt-pro-20x",
+          "displayName": "ChatGPT Pro 20x",
+          "platform": "ChatGPT",
+          "productType": "订阅/会员",
+          "spec": "Pro / 20x",
+          "summary": "ChatGPT Pro 20x 充值、代开或卡密。",
+          "aliases": [
+            "pro 20x",
+            "pro x20",
+            "20倍",
+            "200刀",
+            "200 美元",
+            "200美元"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-150ndrg",
+          "sourceId": null,
+          "sourceName": "GPT专卖-cw",
+          "sourceStoreName": "GPT专卖-cw",
+          "collectorKind": null,
+          "sourceTitle": "【仔细阅读商品介绍后再进行下单】GPT Pro20x 官方卡充1个月-支持续费",
+          "price": 1399,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://caowo.store/item/71",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "pro_max_official_recharge",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-06-13T09:14:55.105+00:00",
+          "sourceUpdatedAt": "2026-06-13T09:14:55.105+00:00",
+          "lastSeenAt": "2026-06-13T09:14:55.105+00:00",
+          "verifiedAt": "2026-06-13T09:14:55.105+00:00",
+          "expiresAt": "2026-06-14T09:14:55.105+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "expired"
+        },
+        "product": {
+          "id": "chatgpt-pro-20x",
+          "slug": "chatgpt-pro-20x",
+          "displayName": "ChatGPT Pro 20x",
+          "platform": "ChatGPT",
+          "productType": "订阅/会员",
+          "spec": "Pro / 20x",
+          "summary": "ChatGPT Pro 20x 充值、代开或卡密。",
+          "aliases": [
+            "pro 20x",
+            "pro x20",
+            "20倍",
+            "200刀",
+            "200 美元",
+            "200美元"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-18lposa",
+          "sourceId": "auto-subscribe-1uh3sv",
+          "sourceName": "Auto Subscribe / kapay.shop",
+          "sourceStoreName": "Auto Subscribe / kapay.shop",
+          "sourceIncludedAt": "2026-05-08T15:56:57.869826+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "GPT PRO 200美金💲纯手工代充 人工交付",
+          "price": 1450,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://kapay.shop/products/chatGPT%20PRO%2020x",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "pro_max_official_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:10.015+00:00",
+          "sourceUpdatedAt": "2026-07-03T06:05:21.711+00:00",
+          "lastSeenAt": "2026-07-29T12:20:10.015+00:00",
+          "verifiedAt": "2026-07-29T12:20:10.015+00:00",
+          "expiresAt": "2026-07-30T12:20:10.015+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "chatgpt-pro-20x",
+          "slug": "chatgpt-pro-20x",
+          "displayName": "ChatGPT Pro 20x",
+          "platform": "ChatGPT",
+          "productType": "订阅/会员",
+          "spec": "Pro / 20x",
+          "summary": "ChatGPT Pro 20x 充值、代开或卡密。",
+          "aliases": [
+            "pro 20x",
+            "pro x20",
+            "20倍",
+            "200刀",
+            "200 美元",
+            "200美元"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-17b8p64",
+          "sourceId": "auto-subscribe-1uh3sv",
+          "sourceName": "Auto Subscribe / kapay.shop",
+          "sourceStoreName": "Auto Subscribe / kapay.shop",
+          "sourceIncludedAt": "2026-05-08T15:56:57.869826+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "GPT PRO 200美金💲纯手工代充 人工交付",
+          "price": 1500,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://kapay.shop/products/zhuanpailianjie",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "pro_max_official_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:10.015+00:00",
+          "sourceUpdatedAt": "2026-07-22T07:20:09.146+00:00",
+          "lastSeenAt": "2026-07-29T12:20:10.015+00:00",
+          "verifiedAt": "2026-07-29T12:20:10.015+00:00",
+          "expiresAt": "2026-07-30T12:20:10.015+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "chatgpt-pro-20x",
+          "slug": "chatgpt-pro-20x",
+          "displayName": "ChatGPT Pro 20x",
+          "platform": "ChatGPT",
+          "productType": "订阅/会员",
+          "spec": "Pro / 20x",
+          "summary": "ChatGPT Pro 20x 充值、代开或卡密。",
+          "aliases": [
+            "pro 20x",
+            "pro x20",
+            "20倍",
+            "200刀",
+            "200 美元",
+            "200美元"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-yxweh8",
+          "sourceId": "xiaoheiwan-128wu5",
+          "sourceName": "xiaoheiwan",
+          "sourceStoreName": "xiaoheiwan",
+          "sourceIncludedAt": "2026-05-08T10:30:01.712597+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "xiaoheiwan",
+          "sourceTitle": "12个月 Chatgpt plus 续费",
+          "price": 1888,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://upgrade.xiaoheiwan.com/purchase",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "pro_max_official_recharge",
+            "duration_year"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:04.079+00:00",
+          "sourceUpdatedAt": "2026-07-03T06:05:53.928+00:00",
+          "lastSeenAt": "2026-07-29T12:37:04.079+00:00",
+          "verifiedAt": "2026-07-29T12:37:04.079+00:00",
+          "expiresAt": "2026-07-30T12:37:04.079+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "chatgpt-plus",
+          "slug": "chatgpt-plus",
+          "displayName": "ChatGPT Plus 试用订阅",
+          "platform": "ChatGPT",
+          "productType": "订阅/会员",
+          "spec": "日抛 · 成品号 · 网页号 · 已/未接码",
+          "summary": "ChatGPT Plus 试用订阅主要指短期体验或首登质保的成品号；这里归集日抛、短期成品号、网页号、已接码/未接码成品号，以及 Pix/iDEAL/UPI/欧洲渠道报价。购买前重点核对接码状态、可用端和售后限制。",
+          "aliases": [
+            "gpt plus",
+            "chatgpt plus",
+            "plus 月卡",
+            "plus 一个月",
+            "plus 卡密",
+            "plus 直充",
+            "plus 成品号",
+            "plus 独享账号",
+            "plus 账号",
+            "plus 日抛",
+            "plus 日抛号",
+            "plus 网页号",
+            "plus 已接码",
+            "plus 未接码",
+            "plus 试用订阅",
+            "puls",
+            "pulus"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1624lzz",
+          "sourceId": "burstpro-ai-1kplv5",
+          "sourceName": "Auto Subscribe / BurstPro AI",
+          "sourceStoreName": "Auto Subscribe / BurstPro AI",
+          "sourceIncludedAt": "2026-05-08T10:30:01.712597+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Business🚀Team K12🔥支持CpaMC、Sub2api-Json / 规格3",
+          "price": 9999,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://burstpro-ai.online/products/gptteam",
+          "tags": [],
+          "filterTags": [
+            "team_k12"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:07.373+00:00",
+          "sourceUpdatedAt": "2026-07-16T00:50:03.569+00:00",
+          "lastSeenAt": "2026-07-29T12:20:07.373+00:00",
+          "verifiedAt": "2026-07-29T12:20:07.373+00:00",
+          "expiresAt": "2026-07-30T12:20:07.373+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "chatgpt-team-business",
+          "slug": "chatgpt-team-business",
+          "displayName": "ChatGPT Team / Business",
+          "platform": "ChatGPT",
+          "productType": "订阅/会员",
+          "spec": "K12 · Bug Team · 母号/子号 · 邀请/自动拉",
+          "summary": "ChatGPT Team、Business、K12、Bug Team、团队号、母号、邀请、自动拉或 Team 成品号。",
+          "aliases": [
+            "team",
+            "business",
+            "t5",
+            "t5倍",
+            "k12",
+            "k12 子号",
+            "bug team",
+            "team bug",
+            "母号",
+            "子号",
+            "自动拉",
+            "直拉",
+            "邀请",
+            "团队号"
+          ]
+        }
+      }
+    ],
+    "total": 2207,
+    "limited": false,
+    "generatedAt": "2026-07-29T12:48:36.860Z",
+    "degraded": false,
+    "message": null
+  }
+}

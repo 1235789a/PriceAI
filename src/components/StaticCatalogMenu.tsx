@@ -265,11 +265,6 @@ export function StaticCatalogMenu({ initialPlatform = "全部" }: { initialPlatf
               </article>
             ))}
           </div>
-          {filteredRows.length > 80 ? (
-            <button type="button" onClick={() => setShowAll((value) => !value)} className="mx-auto mt-6 flex h-11 items-center justify-center rounded-full bg-[#213f35] px-5 text-sm font-semibold text-white shadow-[0_12px_30px_rgba(33,63,53,0.16)]">
-              {showAll ? "收起入口" : `继续查看其余 ${filteredRows.length - 80} 条`}
-            </button>
-          ) : null}
         </section>
 
         <footer className="mt-12 rounded-2xl bg-[#eef5f0] px-5 py-4 text-xs leading-6 text-[#60706a]">

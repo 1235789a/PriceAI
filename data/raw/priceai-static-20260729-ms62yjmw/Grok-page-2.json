@@ -1,0 +1,4120 @@
+{
+  "platform": "Grok",
+  "page": 2,
+  "offset": 200,
+  "limit": 200,
+  "url": "https://priceai.cc/api/offers?platform=Grok&limit=200&offset=200",
+  "fetchedAt": "2026-07-29T12:48:55.348Z",
+  "raw_hash": "ed01b1e69395b6aa61b7addf0221f112286d6cdfbb3b3daf27cd43e9785f455f",
+  "declared_total": 288,
+  "returned_count": 88,
+  "response": {
+    "rows": [
+      {
+        "offer": {
+          "id": "id-534jja",
+          "sourceId": "ldxp-sj1bejac",
+          "sourceName": "LDXP / SJ1BEJAC",
+          "sourceStoreName": "商家8719",
+          "sourceIncludedAt": "2026-06-28T06:19:06.638537+00:00",
+          "sourceShopCreatedAt": "2026-05-28T07:03:05+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/d44r95",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:42:11.335+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:24:20.108+00:00",
+          "lastSeenAt": "2026-07-29T12:42:11.335+00:00",
+          "verifiedAt": "2026-07-29T12:42:11.335+00:00",
+          "expiresAt": "2026-07-30T12:42:11.335+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1wmmiqj",
+          "sourceId": "ldxp-8998tm6i",
+          "sourceName": "LDXP / 8998TM6I",
+          "sourceStoreName": "AI-小站",
+          "sourceIncludedAt": "2026-06-11T13:24:52.981269+00:00",
+          "sourceShopCreatedAt": "2026-05-26T08:55:36+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/vzk0eu",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:26:00.426+00:00",
+          "sourceUpdatedAt": "2026-07-21T03:36:46.981+00:00",
+          "lastSeenAt": "2026-07-29T12:26:00.426+00:00",
+          "verifiedAt": "2026-07-29T12:26:00.426+00:00",
+          "expiresAt": "2026-07-30T12:26:00.426+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1sp27bd",
+          "sourceId": "ldxp-mengyu",
+          "sourceName": "链动小铺 / mengyu",
+          "sourceStoreName": "智屿AI",
+          "sourceIncludedAt": "2026-07-14T07:41:09.478533+00:00",
+          "sourceShopCreatedAt": "2026-05-03T12:21:26+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/tlfex6",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:27.951+00:00",
+          "sourceUpdatedAt": "2026-07-27T03:20:22.918+00:00",
+          "lastSeenAt": "2026-07-29T12:20:27.951+00:00",
+          "verifiedAt": "2026-07-29T12:20:27.951+00:00",
+          "expiresAt": "2026-07-30T12:20:27.951+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1q8yfnq",
+          "sourceId": "ldxp-z65qs0qg",
+          "sourceName": "Grok free 普号",
+          "sourceStoreName": "幽羊 AI",
+          "sourceIncludedAt": "2026-07-13T14:33:23.724663+00:00",
+          "sourceShopCreatedAt": "2026-06-17T15:06:06+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/xmcvqk",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:19:43.904+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:22:20.003+00:00",
+          "lastSeenAt": "2026-07-29T12:19:43.904+00:00",
+          "verifiedAt": "2026-07-29T12:19:43.904+00:00",
+          "expiresAt": "2026-07-30T12:19:43.904+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-uktyw2",
+          "sourceId": "ldxp-4uoatqtu",
+          "sourceName": "LDXP / 4UOATQTU",
+          "sourceStoreName": "Hug AI",
+          "sourceIncludedAt": "2026-06-17T17:21:48.403164+00:00",
+          "sourceShopCreatedAt": "2026-05-09T10:57:54+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/348v2e",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:16:59.258+00:00",
+          "sourceUpdatedAt": "2026-07-21T02:42:29.133+00:00",
+          "lastSeenAt": "2026-07-29T12:16:59.258+00:00",
+          "verifiedAt": "2026-07-29T12:16:59.258+00:00",
+          "expiresAt": "2026-07-30T12:16:59.258+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-s0ilho",
+          "sourceId": "ldxp-6yejh8pe",
+          "sourceName": "链动小铺 / 6YEJH8PE",
+          "sourceStoreName": "gpt成品",
+          "sourceIncludedAt": "2026-07-13T14:33:06.636093+00:00",
+          "sourceShopCreatedAt": "2026-07-05T10:12:41+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/73sl2y",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:15:44.394+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:42:24.636+00:00",
+          "lastSeenAt": "2026-07-29T12:15:44.394+00:00",
+          "verifiedAt": "2026-07-29T12:15:44.394+00:00",
+          "expiresAt": "2026-07-30T12:15:44.394+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1t4ehy3",
+          "sourceId": "ldxp-ming",
+          "sourceName": "LDXP / ming",
+          "sourceStoreName": "ming的AI商店",
+          "sourceIncludedAt": "2026-06-27T09:07:49.281059+00:00",
+          "sourceShopCreatedAt": "2026-06-26T16:52:37+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/z8q5sr",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:15:33.744+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:06:16.877+00:00",
+          "lastSeenAt": "2026-07-29T12:15:33.744+00:00",
+          "verifiedAt": "2026-07-29T12:15:33.744+00:00",
+          "expiresAt": "2026-07-30T12:15:33.744+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-222o3g",
+          "sourceId": "ldxp-echo-dream",
+          "sourceName": "LDXP / echo_dream",
+          "sourceStoreName": "AI小铺",
+          "sourceIncludedAt": "2026-06-02T17:37:35.581197+00:00",
+          "sourceShopCreatedAt": "2026-04-14T10:46:00+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/oeyko7",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:15:20.3+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:41:56.86+00:00",
+          "lastSeenAt": "2026-07-29T12:15:20.3+00:00",
+          "verifiedAt": "2026-07-29T12:15:20.3+00:00",
+          "expiresAt": "2026-07-30T12:15:20.3+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-3syn7h",
+          "sourceId": "nodebits-3b7951214e148324",
+          "sourceName": "源头GPT",
+          "sourceStoreName": "源头GPT",
+          "sourceIncludedAt": "2026-06-03T10:19:58.317492+00:00",
+          "sourceShopCreatedAt": "2026-04-29T17:13:49+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/j9kopf",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:14:35.211+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:22:38.124+00:00",
+          "lastSeenAt": "2026-07-29T12:14:35.211+00:00",
+          "verifiedAt": "2026-07-29T12:14:35.211+00:00",
+          "expiresAt": "2026-07-30T12:14:35.211+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1swinot",
+          "sourceId": "ldxp-ouj1hpbv",
+          "sourceName": "LDXP / OUJ1HPBV",
+          "sourceStoreName": "chiyu",
+          "sourceIncludedAt": "2026-07-01T09:19:39.349679+00:00",
+          "sourceShopCreatedAt": "2026-05-03T05:56:40+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/z53sfx",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:14:18.728+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:06:41.698+00:00",
+          "lastSeenAt": "2026-07-29T12:14:18.728+00:00",
+          "verifiedAt": "2026-07-29T12:14:18.728+00:00",
+          "expiresAt": "2026-07-30T12:14:18.728+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-4o002c",
+          "sourceId": "ldxp-dgf2ie5w",
+          "sourceName": "哈基米站",
+          "sourceStoreName": "哈基米站",
+          "sourceIncludedAt": "2026-07-09T16:22:15.73964+00:00",
+          "sourceShopCreatedAt": "2026-07-09T14:22:17+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/knve3m",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:12:12.819+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:41:32.253+00:00",
+          "lastSeenAt": "2026-07-29T12:12:12.819+00:00",
+          "verifiedAt": "2026-07-29T12:12:12.819+00:00",
+          "expiresAt": "2026-07-30T12:12:12.819+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1xat4pq",
+          "sourceId": "ldxp-mirage",
+          "sourceName": "幻境MirageAI",
+          "sourceStoreName": "幻境MirageAI",
+          "sourceIncludedAt": "2026-07-13T02:57:01.076432+00:00",
+          "sourceShopCreatedAt": "2026-04-13T04:30:16+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/ux2a5i",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:11:59.952+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:21:35.102+00:00",
+          "lastSeenAt": "2026-07-29T12:11:59.952+00:00",
+          "verifiedAt": "2026-07-29T12:11:59.952+00:00",
+          "expiresAt": "2026-07-30T12:11:59.952+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-acrwzc",
+          "sourceId": "ldxp-manai",
+          "sourceName": "LDXP / Manai",
+          "sourceStoreName": "小猴源头（一手渠道-招代理）GPT成品-5x-20x",
+          "sourceIncludedAt": "2026-06-11T13:24:43.919787+00:00",
+          "sourceShopCreatedAt": "2026-05-09T10:24:41+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/bci1n3",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:03:34.655+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:19:20.663+00:00",
+          "lastSeenAt": "2026-07-29T12:03:34.655+00:00",
+          "verifiedAt": "2026-07-29T12:03:34.655+00:00",
+          "expiresAt": "2026-07-30T12:03:34.655+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-8h0git",
+          "sourceId": "nodebits-71d9d5bbbb5d184b",
+          "sourceName": "AI源头批发旗舰店",
+          "sourceStoreName": "AI源头批发旗舰店",
+          "sourceIncludedAt": "2026-06-03T10:21:01.505652+00:00",
+          "sourceShopCreatedAt": "2026-04-24T06:05:28+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/ebhpt2",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:59:23.952+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:19:38.258+00:00",
+          "lastSeenAt": "2026-07-29T11:59:23.952+00:00",
+          "verifiedAt": "2026-07-29T11:59:23.952+00:00",
+          "expiresAt": "2026-07-30T11:59:23.952+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-9sti88",
+          "sourceId": "ldxp-gt7kx1tn",
+          "sourceName": "LDXP / GT7KX1TN",
+          "sourceStoreName": "光之国AI",
+          "sourceIncludedAt": "2026-06-12T14:17:35.062716+00:00",
+          "sourceShopCreatedAt": "2026-05-20T01:12:17+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/cb0g31",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:57:21.088+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:07:10.31+00:00",
+          "lastSeenAt": "2026-07-29T11:57:21.088+00:00",
+          "verifiedAt": "2026-07-29T11:57:21.088+00:00",
+          "expiresAt": "2026-07-30T11:57:21.088+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1thaqiy",
+          "sourceId": "ldxp-yuji",
+          "sourceName": "YUJI",
+          "sourceStoreName": "YUJI",
+          "sourceIncludedAt": "2026-07-02T04:56:15.462009+00:00",
+          "sourceShopCreatedAt": "2026-05-13T05:19:48+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/y58mcl",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:49:49.07+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:07:34.282+00:00",
+          "lastSeenAt": "2026-07-29T11:49:49.07+00:00",
+          "verifiedAt": "2026-07-29T11:49:49.07+00:00",
+          "expiresAt": "2026-07-30T11:49:49.07+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-73s9pa",
+          "sourceId": "ldxp-602",
+          "sourceName": "链动小铺 / 602",
+          "sourceStoreName": "602",
+          "sourceIncludedAt": "2026-07-12T11:39:21.010329+00:00",
+          "sourceShopCreatedAt": "2026-05-13T09:41:44+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 9.27,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/gnmrl8",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:21:11.548+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:08:49.769+00:00",
+          "lastSeenAt": "2026-07-29T11:21:11.548+00:00",
+          "verifiedAt": "2026-07-29T11:21:11.548+00:00",
+          "expiresAt": "2026-07-30T11:21:11.548+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1y53mv9",
+          "sourceId": "ldxp-pay-ldxp-cn",
+          "sourceName": "pay.ldxp.cn",
+          "sourceStoreName": "张啊三",
+          "sourceIncludedAt": "2026-05-29T15:42:30.508637+00:00",
+          "sourceShopCreatedAt": "2026-04-23T08:36:04+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 11.33,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/r27hec",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:46:40.945+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:37:48.734+00:00",
+          "lastSeenAt": "2026-07-29T12:46:40.945+00:00",
+          "verifiedAt": "2026-07-29T12:46:40.945+00:00",
+          "expiresAt": "2026-07-30T12:46:40.945+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-rd1ajg",
+          "sourceId": "ldxp-aifxo",
+          "sourceName": "Super Grok",
+          "sourceStoreName": "AIFXO",
+          "sourceIncludedAt": "2026-07-14T11:36:52.460143+00:00",
+          "sourceShopCreatedAt": "2026-04-28T02:11:34+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "超额super grok 650刀",
+          "price": 11.85,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/2uzo8j",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:22:27.969+00:00",
+          "sourceUpdatedAt": "2026-07-19T21:47:05.362+00:00",
+          "lastSeenAt": "2026-07-29T12:22:27.969+00:00",
+          "verifiedAt": "2026-07-29T12:22:27.969+00:00",
+          "expiresAt": "2026-07-30T12:22:27.969+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-vch4ry",
+          "sourceId": "ldxp-aiplus666",
+          "sourceName": "LDXP / aiplus666",
+          "sourceStoreName": "AI源头旗舰批发店",
+          "sourceIncludedAt": "2026-07-08T18:27:05.170181+00:00",
+          "sourceShopCreatedAt": "2026-06-06T13:25:43+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 13.39,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/3lutie",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:01:18.889+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:12:51.875+00:00",
+          "lastSeenAt": "2026-07-29T12:01:18.889+00:00",
+          "verifiedAt": "2026-07-29T12:01:18.889+00:00",
+          "expiresAt": "2026-07-30T12:01:18.889+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-9l0kb0",
+          "sourceId": "ldxp-tora",
+          "sourceName": "LDXP / Tora",
+          "sourceStoreName": "Tora-雪诺AI源头分销小铺",
+          "sourceIncludedAt": "2026-06-03T05:06:39.154331+00:00",
+          "sourceShopCreatedAt": "2026-04-23T08:36:31+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Super Grok 7天会员号---带SSO--质保订阅，最长可用15天，稳定供货",
+          "price": 16.48,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/ck4hmi",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:56:34.943+00:00",
+          "sourceUpdatedAt": "2026-07-21T01:19:52.243+00:00",
+          "lastSeenAt": "2026-07-29T11:56:34.943+00:00",
+          "verifiedAt": "2026-07-29T11:56:34.943+00:00",
+          "expiresAt": "2026-07-30T11:56:34.943+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-176f1dg",
+          "sourceId": "nodebits-f29bd25cc843c467",
+          "sourceName": "shihuiai",
+          "sourceStoreName": "shihuiai",
+          "sourceIncludedAt": "2026-06-03T15:03:55.898623+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "号池站 1件也是代理价SuperGrok国内直连-月会员兑换码【质保30天】",
+          "price": 19,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://shihuiai.cn/item/24",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "duration_month",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:28.047+00:00",
+          "sourceUpdatedAt": "2026-07-20T09:25:54.018+00:00",
+          "lastSeenAt": "2026-07-29T12:25:28.047+00:00",
+          "verifiedAt": "2026-07-29T12:25:28.047+00:00",
+          "expiresAt": "2026-07-30T12:25:28.047+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1vn7u2e",
+          "sourceId": "ldxp-z6i0vz0q",
+          "sourceName": "LDXP / Z6I0VZ0Q",
+          "sourceStoreName": "AI 云智聪聪",
+          "sourceIncludedAt": "2026-06-28T05:35:58.21154+00:00",
+          "sourceShopCreatedAt": "2026-05-20T16:31:40+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok AI 长效微软邮箱 Super Grok 10~15天 7.18开号，cli周限40刀，可用4.5",
+          "price": 22.65,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/pqx9sy",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T10:45:16.016+00:00",
+          "sourceUpdatedAt": "2026-07-19T20:13:42.638+00:00",
+          "lastSeenAt": "2026-07-29T10:45:16.016+00:00",
+          "verifiedAt": "2026-07-29T10:45:16.016+00:00",
+          "expiresAt": "2026-07-30T10:45:16.016+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-3t8676",
+          "sourceId": "nodebits-3b7951214e148324",
+          "sourceName": "源头GPT",
+          "sourceStoreName": "源头GPT",
+          "sourceIncludedAt": "2026-06-03T10:19:58.317492+00:00",
+          "sourceShopCreatedAt": "2026-04-29T17:13:49+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok AI 长效微软邮箱 Super Grok 10~15天 7.18开号，cli周限40刀，可用4.5",
+          "price": 27.18,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/j9z69x",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:14:35.211+00:00",
+          "sourceUpdatedAt": "2026-07-19T20:45:47.447+00:00",
+          "lastSeenAt": "2026-07-29T12:14:35.211+00:00",
+          "verifiedAt": "2026-07-29T12:14:35.211+00:00",
+          "expiresAt": "2026-07-30T12:14:35.211+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1yykhvb",
+          "sourceId": "nodebits-974eb11db27cd8ca",
+          "sourceName": "YCYAI",
+          "sourceStoreName": "YCYAPI",
+          "sourceIncludedAt": "2026-06-03T10:20:04.63992+00:00",
+          "sourceShopCreatedAt": "2026-04-04T09:58:14+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "SuperGrok 1个月 独享账号 | 30美金订阅成品号",
+          "price": 36.05,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/l9eg2n",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:46.209+00:00",
+          "sourceUpdatedAt": "2026-07-19T21:21:49.951+00:00",
+          "lastSeenAt": "2026-07-29T12:20:46.209+00:00",
+          "verifiedAt": "2026-07-29T12:20:46.209+00:00",
+          "expiresAt": "2026-07-30T12:20:46.209+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-5u8732",
+          "sourceId": "ldxp-doroai",
+          "sourceName": "链动小铺 / doroai",
+          "sourceStoreName": "Doro AI",
+          "sourceIncludedAt": "2026-07-12T03:53:38.141229+00:00",
+          "sourceShopCreatedAt": "2026-07-05T01:46:54+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok Super 成品号-质保首登",
+          "price": 40.17,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/if5rlf",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:30:43.279+00:00",
+          "sourceUpdatedAt": "2026-07-24T16:50:28.969+00:00",
+          "lastSeenAt": "2026-07-29T12:30:43.279+00:00",
+          "verifiedAt": "2026-07-29T12:30:43.279+00:00",
+          "expiresAt": "2026-07-30T12:30:43.279+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-z8qktp",
+          "sourceId": "xtacc-top",
+          "sourceName": "xtacc.top",
+          "sourceStoreName": "xtacc.top",
+          "sourceIncludedAt": "2026-07-03T14:02:45.410564+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "【无质保】Grok Super 3个月 成品号",
+          "price": 48.9,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://xtacc.top/products/grok-super-3month-x",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_quarter"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:06.662+00:00",
+          "sourceUpdatedAt": "2026-07-20T14:50:03.062+00:00",
+          "lastSeenAt": "2026-07-29T12:20:06.662+00:00",
+          "verifiedAt": "2026-07-29T12:20:06.662+00:00",
+          "expiresAt": "2026-07-30T12:20:06.662+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-18w12rv",
+          "sourceId": "flyai-qzz-io",
+          "sourceName": "flyai.qzz.io",
+          "sourceStoreName": "flyai.qzz.io",
+          "sourceIncludedAt": "2026-07-15T10:22:54.26594+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "super grok 1个月成品号 质保25天",
+          "price": 49,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://flyai.qzz.io/products/orig-super-grok-1m-account-25d-warranty",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "duration_month",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:05.498+00:00",
+          "sourceUpdatedAt": "2026-07-15T10:22:54.37+00:00",
+          "lastSeenAt": "2026-07-29T12:20:05.498+00:00",
+          "verifiedAt": "2026-07-29T12:20:05.498+00:00",
+          "expiresAt": "2026-07-30T12:20:05.498+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-7rec9a",
+          "sourceId": "nodebits-05b3a4700ccf9e8a",
+          "sourceName": "WEB3Al",
+          "sourceStoreName": "WEB3Al",
+          "sourceIncludedAt": "2026-06-03T15:05:01.554845+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "Super Grok 成品号-1个月（质保3天）",
+          "price": 50,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://web3chirou.com/item/245",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_trial",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:37.71+00:00",
+          "sourceUpdatedAt": "2026-07-26T06:25:37.747+00:00",
+          "lastSeenAt": "2026-07-29T12:25:37.71+00:00",
+          "verifiedAt": "2026-07-29T12:25:37.71+00:00",
+          "expiresAt": "2026-07-30T12:25:37.71+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1g97p50",
+          "sourceId": "makerich-club",
+          "sourceName": "AI创富俱乐部",
+          "sourceStoreName": "AI创富俱乐部",
+          "sourceIncludedAt": "2026-05-07T03:35:12.780198+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "makerichHtml",
+          "sourceTitle": "SuperGrok 独享账号 | 30美金订阅成品号",
+          "price": 50,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://makerich.club/item?id=129",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_official_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-06-29T02:35:18.358+00:00",
+          "sourceUpdatedAt": "2026-06-29T02:35:18.358+00:00",
+          "lastSeenAt": "2026-06-29T02:35:18.358+00:00",
+          "verifiedAt": "2026-06-29T02:35:18.358+00:00",
+          "expiresAt": "2026-06-30T02:35:18.358+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1x7ym81",
+          "sourceId": "auto-subscribe-hvmj88",
+          "sourceName": "Auto Subscribe / ultra.makelove.cloud",
+          "sourceStoreName": "Auto Subscribe / ultra.makelove.cloud",
+          "sourceIncludedAt": "2026-05-08T15:56:57.869826+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Grok成品（带质保） / 规格4",
+          "price": 59,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ultra.makelove.cloud/products/super-grok",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:02.803+00:00",
+          "sourceUpdatedAt": "2026-07-19T15:20:05.575+00:00",
+          "lastSeenAt": "2026-07-29T12:20:02.803+00:00",
+          "verifiedAt": "2026-07-29T12:20:02.803+00:00",
+          "expiresAt": "2026-07-30T12:20:02.803+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "grok-account",
+          "slug": "grok-account",
+          "displayName": "Grok 普号 / 体验号",
+          "platform": "Grok",
+          "productType": "成品账号",
+          "spec": "普通账号 / 体验",
+          "summary": "Grok 普号、体验卡、短期成品号。",
+          "aliases": [
+            "grok 普号",
+            "grok 体验",
+            "直登成品"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-r28cij",
+          "sourceId": "nodebits-88167e7d2c40a062",
+          "sourceName": "AI开发商",
+          "sourceStoreName": "AI开发商",
+          "sourceIncludedAt": "2026-06-03T10:19:10.175602+00:00",
+          "sourceShopCreatedAt": "2026-03-30T12:49:07+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "grok 会员谷歌成品一个月",
+          "price": 60,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/2ec1s1",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T10:18:19.641+00:00",
+          "sourceUpdatedAt": "2026-07-28T03:44:07.122+00:00",
+          "lastSeenAt": "2026-07-29T10:18:19.641+00:00",
+          "verifiedAt": "2026-07-29T10:18:19.641+00:00",
+          "expiresAt": "2026-07-30T10:18:19.641+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "grok-account",
+          "slug": "grok-account",
+          "displayName": "Grok 普号 / 体验号",
+          "platform": "Grok",
+          "productType": "成品账号",
+          "spec": "普通账号 / 体验",
+          "summary": "Grok 普号、体验卡、短期成品号。",
+          "aliases": [
+            "grok 普号",
+            "grok 体验",
+            "直登成品"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-52ygcp",
+          "sourceId": "ldxp-6h72nfwo",
+          "sourceName": "Goleden AI",
+          "sourceStoreName": "ALL IN AI",
+          "sourceIncludedAt": "2026-06-13T17:40:34.858428+00:00",
+          "sourceShopCreatedAt": "2026-05-18T15:01:22+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok 一个月成品号",
+          "price": 61.7,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/d2zw4z",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:52:03.883+00:00",
+          "sourceUpdatedAt": "2026-07-19T18:47:59.262+00:00",
+          "lastSeenAt": "2026-07-29T11:52:03.883+00:00",
+          "verifiedAt": "2026-07-29T11:52:03.883+00:00",
+          "expiresAt": "2026-07-30T11:52:03.883+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "grok-account",
+          "slug": "grok-account",
+          "displayName": "Grok 普号 / 体验号",
+          "platform": "Grok",
+          "productType": "成品账号",
+          "spec": "普通账号 / 体验",
+          "summary": "Grok 普号、体验卡、短期成品号。",
+          "aliases": [
+            "grok 普号",
+            "grok 体验",
+            "直登成品"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-nj2osy",
+          "sourceId": "ldxp-youzhi",
+          "sourceName": "链动小铺 / youzhi",
+          "sourceStoreName": "优质AI科技",
+          "sourceIncludedAt": "2026-07-19T17:10:21.928444+00:00",
+          "sourceShopCreatedAt": "2026-07-09T04:55:17+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok-Super Grok 2个月卡 【质保】自助秒冲不排队",
+          "price": 62.7,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/8wa0c3",
+          "tags": [],
+          "filterTags": [
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:38:22.066+00:00",
+          "sourceUpdatedAt": "2026-07-23T13:55:41.46+00:00",
+          "lastSeenAt": "2026-07-29T12:38:22.066+00:00",
+          "verifiedAt": "2026-07-29T12:38:22.066+00:00",
+          "expiresAt": "2026-07-30T12:38:22.066+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh",
+          "riskFeedback": {
+            "count": 1,
+            "offerCount": 0,
+            "sourceCount": 1,
+            "scope": "source",
+            "latestAt": "2026-07-29T12:48:21.61115+00:00",
+            "reasons": [
+              "bad_source"
+            ],
+            "summaries": [
+              "有用户反馈，在该商家购买「ChatGPT Plus 试用订阅」时遇到交付数量不足、兑换码大量失效的问题。建议购买前先确认该商家其他商品的交付信誉与售后模式。"
+            ],
+            "offerSummaries": [],
+            "sourceSummaries": [
+              "有用户反馈，在该商家购买「ChatGPT Plus 试用订阅」时遇到交付数量不足、兑换码大量失效的问题。建议购买前先确认该商家其他商品的交付信誉与售后模式。"
+            ],
+            "status": "user_report_pending_verification"
+          }
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-blm5jy",
+          "sourceId": "grok-super-芳华小铺",
+          "sourceName": "Grok Super - 芳华小铺",
+          "sourceStoreName": "Grok Super - 芳华小铺",
+          "sourceIncludedAt": "2026-06-12T04:36:36.969013+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "Grok Super直冲卡密（一个月）",
+          "price": 64,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://wiki123.top/item/8",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T01:05:33.78+00:00",
+          "sourceUpdatedAt": "2026-07-03T06:05:12.688+00:00",
+          "lastSeenAt": "2026-07-29T01:05:33.78+00:00",
+          "verifiedAt": "2026-07-29T01:05:33.78+00:00",
+          "expiresAt": "2026-07-30T01:05:33.78+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1wcojh1",
+          "sourceId": "fk-10886-xyz",
+          "sourceName": "fk.10886.xyz",
+          "sourceStoreName": "fk.10886.xyz",
+          "sourceIncludedAt": "2026-06-27T04:26:08.37316+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "【安卓IOS通用】印度区IOS Grok Super 一个月充值",
+          "price": 65.52,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://fk.10886.xyz/item/25",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "pro_max_official_recharge",
+            "duration_month",
+            "telegram_region_india"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:14.866+00:00",
+          "sourceUpdatedAt": "2026-07-24T21:36:01.591+00:00",
+          "lastSeenAt": "2026-07-29T12:37:14.866+00:00",
+          "verifiedAt": "2026-07-29T12:37:14.866+00:00",
+          "expiresAt": "2026-07-30T12:37:14.866+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-19llj7z",
+          "sourceId": "nodebits-b1f32eb10e5bffec",
+          "sourceName": "cc-cat",
+          "sourceStoreName": "cc-cat",
+          "sourceIncludedAt": "2026-06-03T15:04:01.829896+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "grok cdk官方ios充值 带质保",
+          "price": 66.8,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ccdawang.win/products/grok%E6%88%90%E5%93%81",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "pro_max_official_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:11.165+00:00",
+          "sourceUpdatedAt": "2026-07-13T16:20:02.679+00:00",
+          "lastSeenAt": "2026-07-29T12:20:11.165+00:00",
+          "verifiedAt": "2026-07-29T12:20:11.165+00:00",
+          "expiresAt": "2026-07-30T12:20:11.165+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-9eruiw",
+          "sourceId": "ldxp-wanghaha",
+          "sourceName": "985渠道",
+          "sourceStoreName": "王哈哈Ai-Plus Pro源头直供【招代理】",
+          "sourceIncludedAt": "2026-06-07T12:40:41.137826+00:00",
+          "sourceShopCreatedAt": "2026-04-09T17:20:29+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok Super 月卡 CDK",
+          "price": 66.95,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/a5ww2r",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:42:57.602+00:00",
+          "sourceUpdatedAt": "2026-07-19T20:19:43.76+00:00",
+          "lastSeenAt": "2026-07-29T12:42:57.602+00:00",
+          "verifiedAt": "2026-07-29T12:42:57.602+00:00",
+          "expiresAt": "2026-07-30T12:42:57.602+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-g7uxgm",
+          "sourceId": "auto-subscribe-hvmj88",
+          "sourceName": "Auto Subscribe / ultra.makelove.cloud",
+          "sourceStoreName": "Auto Subscribe / ultra.makelove.cloud",
+          "sourceIncludedAt": "2026-05-08T15:56:57.869826+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Grok成品（带质保） / 规格3",
+          "price": 69,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ultra.makelove.cloud/products/super-grok",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:02.803+00:00",
+          "sourceUpdatedAt": "2026-07-20T18:20:03.385+00:00",
+          "lastSeenAt": "2026-07-29T12:20:02.803+00:00",
+          "verifiedAt": "2026-07-29T12:20:02.803+00:00",
+          "expiresAt": "2026-07-30T12:20:02.803+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "grok-account",
+          "slug": "grok-account",
+          "displayName": "Grok 普号 / 体验号",
+          "platform": "Grok",
+          "productType": "成品账号",
+          "spec": "普通账号 / 体验",
+          "summary": "Grok 普号、体验卡、短期成品号。",
+          "aliases": [
+            "grok 普号",
+            "grok 体验",
+            "直登成品"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-49xbsu",
+          "sourceId": "xtacc-top",
+          "sourceName": "xtacc.top",
+          "sourceStoreName": "xtacc.top",
+          "sourceIncludedAt": "2026-07-03T14:02:45.410564+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "【质保】Grok Super 3个月",
+          "price": 69.99,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://xtacc.top/products/grok-super-3month",
+          "tags": [],
+          "filterTags": [
+            "duration_quarter"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:06.662+00:00",
+          "sourceUpdatedAt": "2026-07-13T09:07:49.854+00:00",
+          "lastSeenAt": "2026-07-29T12:20:06.662+00:00",
+          "verifiedAt": "2026-07-29T12:20:06.662+00:00",
+          "expiresAt": "2026-07-30T12:20:06.662+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-t4xyds",
+          "sourceId": "flyai-qzz-io",
+          "sourceName": "flyai.qzz.io",
+          "sourceStoreName": "flyai.qzz.io",
+          "sourceIncludedAt": "2026-07-15T10:22:54.26594+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Grok Super自助卡密一个月",
+          "price": 70,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://flyai.qzz.io/products/orig-grok-super-self-card-1m",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_service_self_recharge",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:05.498+00:00",
+          "sourceUpdatedAt": "2026-07-15T10:22:54.37+00:00",
+          "lastSeenAt": "2026-07-29T12:20:05.498+00:00",
+          "verifiedAt": "2026-07-29T12:20:05.498+00:00",
+          "expiresAt": "2026-07-30T12:20:05.498+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-15v7g91",
+          "sourceId": "beibei-1d63pj",
+          "sourceName": "beibei",
+          "sourceStoreName": "beibei",
+          "sourceIncludedAt": "2026-05-08T10:26:56.531627+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "beibeiHtml",
+          "sourceTitle": "Grok Super 月卡｜印度区官方正规充值【安卓IOS通用】【质保30天】【渠道贝贝】【自动发货】",
+          "price": 70,
+          "currency": "CNY",
+          "status": "in_stock",
+          "url": "https://bei-bei.shop/checkout/grok",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_plus_recharge_official_direct",
+            "pro_max_official_recharge",
+            "duration_month",
+            "telegram_region_india",
+            "warranty_long"
+          ],
+          "stockCount": null,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-17T12:06:57.884+00:00",
+          "sourceUpdatedAt": "2026-07-17T04:36:54.908+00:00",
+          "lastSeenAt": "2026-07-17T12:06:57.884+00:00",
+          "verifiedAt": "2026-07-17T12:06:57.884+00:00",
+          "expiresAt": "2026-07-18T12:06:57.884+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-4uefp1",
+          "sourceId": null,
+          "sourceName": "JZ",
+          "sourceStoreName": "JZ",
+          "collectorKind": null,
+          "sourceTitle": "Super Grok iOS一个月充值卡",
+          "price": 70,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ai-w.jzvip6688.org/item/44",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "pro_max_official_recharge",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-04T20:05:26.505+00:00",
+          "sourceUpdatedAt": "2026-07-03T06:05:33.749+00:00",
+          "lastSeenAt": "2026-07-04T20:05:26.505+00:00",
+          "verifiedAt": "2026-07-04T20:05:26.505+00:00",
+          "expiresAt": "2026-07-05T20:05:26.505+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-l10uo",
+          "sourceId": "ldxp-6yejh8pe",
+          "sourceName": "链动小铺 / 6YEJH8PE",
+          "sourceStoreName": "gpt成品",
+          "sourceIncludedAt": "2026-07-13T14:33:06.636093+00:00",
+          "sourceShopCreatedAt": "2026-07-05T10:12:41+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok-Super Grok 2个月卡 【质保】自助秒冲不排队",
+          "price": 70.45,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/qkz33l",
+          "tags": [],
+          "filterTags": [
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:15:44.394+00:00",
+          "sourceUpdatedAt": "2026-07-23T14:15:15.567+00:00",
+          "lastSeenAt": "2026-07-29T12:15:44.394+00:00",
+          "verifiedAt": "2026-07-29T12:15:44.394+00:00",
+          "expiresAt": "2026-07-30T12:15:44.394+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-3ncict",
+          "sourceId": "ldxp-gt7kx1tn",
+          "sourceName": "LDXP / GT7KX1TN",
+          "sourceStoreName": "光之国AI",
+          "sourceIncludedAt": "2026-06-12T14:17:35.062716+00:00",
+          "sourceShopCreatedAt": "2026-05-20T01:12:17+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok Super 月卡 CDK",
+          "price": 72.1,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/j1du3h",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:57:21.088+00:00",
+          "sourceUpdatedAt": "2026-07-19T17:07:10.778+00:00",
+          "lastSeenAt": "2026-07-29T11:57:21.088+00:00",
+          "verifiedAt": "2026-07-29T11:57:21.088+00:00",
+          "expiresAt": "2026-07-30T11:57:21.088+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-7ui601",
+          "sourceId": "ldxp-th52wuw7",
+          "sourceName": "boji1334yd小店",
+          "sourceStoreName": "boji1334yd",
+          "sourceIncludedAt": "2026-07-27T10:18:42.090633+00:00",
+          "sourceShopCreatedAt": "2026-04-24T08:38:47+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "SuperGrok",
+          "price": 74.2,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/fgdqy0",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:18:27.962+00:00",
+          "sourceUpdatedAt": "2026-07-28T03:41:06.512+00:00",
+          "lastSeenAt": "2026-07-29T12:18:27.962+00:00",
+          "verifiedAt": "2026-07-29T12:18:27.962+00:00",
+          "expiresAt": "2026-07-30T12:18:27.962+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-pvvkxz",
+          "sourceId": "ldxp-mirage",
+          "sourceName": "幻境MirageAI",
+          "sourceStoreName": "幻境MirageAI",
+          "sourceIncludedAt": "2026-07-13T02:57:01.076432+00:00",
+          "sourceShopCreatedAt": "2026-04-13T04:30:16+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【SuperGrok 成品三个月】",
+          "price": 75.49,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/4czxbl",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "duration_quarter"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:11:59.952+00:00",
+          "sourceUpdatedAt": "2026-07-20T15:18:32.726+00:00",
+          "lastSeenAt": "2026-07-29T12:11:59.952+00:00",
+          "verifiedAt": "2026-07-29T12:11:59.952+00:00",
+          "expiresAt": "2026-07-30T12:11:59.952+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-4ojqah",
+          "sourceId": "ldxp-mirage",
+          "sourceName": "幻境MirageAI",
+          "sourceStoreName": "幻境MirageAI",
+          "sourceIncludedAt": "2026-07-13T02:57:01.076432+00:00",
+          "sourceShopCreatedAt": "2026-04-13T04:30:16+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok Super（官网代充-质保一个月订阅）",
+          "price": 75.71,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/km6t5t",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_plus_recharge_official_direct",
+            "pro_max_official_recharge",
+            "duration_month",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:11:59.952+00:00",
+          "sourceUpdatedAt": "2026-07-25T05:19:37.489+00:00",
+          "lastSeenAt": "2026-07-29T12:11:59.952+00:00",
+          "verifiedAt": "2026-07-29T12:11:59.952+00:00",
+          "expiresAt": "2026-07-30T12:11:59.952+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-p4zzw3",
+          "sourceId": "ldxp-paxovovj",
+          "sourceName": "链动小铺 / PAXOVOVJ",
+          "sourceStoreName": "奥特曼严选",
+          "sourceIncludedAt": "2026-07-09T11:33:25.469547+00:00",
+          "sourceShopCreatedAt": "2026-05-30T13:25:22+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "SuperGrok",
+          "price": 76,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/5je9kg",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:44:45.744+00:00",
+          "sourceUpdatedAt": "2026-07-28T03:43:41.924+00:00",
+          "lastSeenAt": "2026-07-29T12:44:45.744+00:00",
+          "verifiedAt": "2026-07-29T12:44:45.744+00:00",
+          "expiresAt": "2026-07-30T12:44:45.744+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-940bu3",
+          "sourceId": "nodebits-a6a53cf378891a7e",
+          "sourceName": "苏哲AI订阅中心",
+          "sourceStoreName": "苏哲AI订阅中心",
+          "sourceIncludedAt": "2026-06-08T16:14:05.987171+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "publicProductsApi",
+          "sourceTitle": "SuperGrok CDK",
+          "price": 77,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://academicgate.org/#grok_account_50",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:36:54.898+00:00",
+          "sourceUpdatedAt": "2026-07-25T13:05:34.474+00:00",
+          "lastSeenAt": "2026-07-29T12:36:54.898+00:00",
+          "verifiedAt": "2026-07-29T12:36:54.898+00:00",
+          "expiresAt": "2026-07-30T12:36:54.898+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-rt3x9j",
+          "sourceId": "ldxp-luoerl",
+          "sourceName": "链动小铺 / luoerl",
+          "sourceStoreName": "与世隔绝的AI小店",
+          "sourceIncludedAt": "2026-07-13T02:56:25.011066+00:00",
+          "sourceShopCreatedAt": "2026-05-12T19:04:28+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok Super 1月自助卡密",
+          "price": 77.25,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/1fz5ps",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_service_self_recharge",
+            "gemini_phone_required"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:44:00.375+00:00",
+          "sourceUpdatedAt": "2026-07-28T06:28:20.307+00:00",
+          "lastSeenAt": "2026-07-29T12:44:00.375+00:00",
+          "verifiedAt": "2026-07-29T12:44:00.375+00:00",
+          "expiresAt": "2026-07-30T12:44:00.375+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-5eigv8",
+          "sourceId": "ldxp-rn3dijiy",
+          "sourceName": "NPC小铺",
+          "sourceStoreName": "NPC小铺",
+          "sourceIncludedAt": "2026-07-22T14:23:49.223522+00:00",
+          "sourceShopCreatedAt": "2026-07-16T03:45:47+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "30刀 super grok 成品号",
+          "price": 77.25,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/ji5nx8",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:06:18.519+00:00",
+          "sourceUpdatedAt": "2026-07-28T06:38:18.215+00:00",
+          "lastSeenAt": "2026-07-29T12:06:18.519+00:00",
+          "verifiedAt": "2026-07-29T12:06:18.519+00:00",
+          "expiresAt": "2026-07-30T12:06:18.519+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1w1jqsz",
+          "sourceId": "ldxp-vuojqohy",
+          "sourceName": "小久",
+          "sourceStoreName": "小久",
+          "sourceIncludedAt": "2026-06-03T07:49:46.724387+00:00",
+          "sourceShopCreatedAt": "2026-05-10T20:23:53+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "SuperGrok",
+          "price": 77.25,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/wz2r8z",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:46:47.885+00:00",
+          "sourceUpdatedAt": "2026-07-28T06:22:32.009+00:00",
+          "lastSeenAt": "2026-07-29T11:46:47.885+00:00",
+          "verifiedAt": "2026-07-29T11:46:47.885+00:00",
+          "expiresAt": "2026-07-30T11:46:47.885+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-vikipr",
+          "sourceId": "ldxp-tbcah4g1",
+          "sourceName": "LDXP / TBCAH4G1",
+          "sourceStoreName": "GPT源头商家",
+          "sourceIncludedAt": "2026-06-09T06:06:06.312608+00:00",
+          "sourceShopCreatedAt": "2026-04-19T03:14:58+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "grok 一个月代充 30刀",
+          "price": 77.25,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/3ed6ts",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:21:56.911+00:00",
+          "sourceUpdatedAt": "2026-07-25T04:46:20.205+00:00",
+          "lastSeenAt": "2026-07-29T11:21:56.911+00:00",
+          "verifiedAt": "2026-07-29T11:21:56.911+00:00",
+          "expiresAt": "2026-07-30T11:21:56.911+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "grok-account",
+          "slug": "grok-account",
+          "displayName": "Grok 普号 / 体验号",
+          "platform": "Grok",
+          "productType": "成品账号",
+          "spec": "普通账号 / 体验",
+          "summary": "Grok 普号、体验卡、短期成品号。",
+          "aliases": [
+            "grok 普号",
+            "grok 体验",
+            "直登成品"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1t4yvxz",
+          "sourceId": "ldxp-iy16oxb7",
+          "sourceName": "LDXP / IY16OXB7",
+          "sourceStoreName": "GPT-源头供货-招代理",
+          "sourceIncludedAt": "2026-07-06T11:58:10.870137+00:00",
+          "sourceShopCreatedAt": "2026-04-06T01:31:44+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok Super 1月自助卡密",
+          "price": 77.25,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/tuqmdr",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_service_self_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:01:32.081+00:00",
+          "sourceUpdatedAt": "2026-07-26T10:38:21.874+00:00",
+          "lastSeenAt": "2026-07-29T11:01:32.081+00:00",
+          "verifiedAt": "2026-07-29T11:01:32.081+00:00",
+          "expiresAt": "2026-07-30T11:01:32.081+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1mp9qqf",
+          "sourceId": "xtacc-top",
+          "sourceName": "xtacc.top",
+          "sourceStoreName": "xtacc.top",
+          "sourceIncludedAt": "2026-07-03T14:02:45.410564+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Super Grok 1个月兑换链接CDK ｜自备官网账号",
+          "price": 78,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://xtacc.top/products/Super",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "delivery_account",
+            "pro_max_official_recharge",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:06.662+00:00",
+          "sourceUpdatedAt": "2026-07-24T17:20:03.391+00:00",
+          "lastSeenAt": "2026-07-29T12:20:06.662+00:00",
+          "verifiedAt": "2026-07-29T12:20:06.662+00:00",
+          "expiresAt": "2026-07-30T12:20:06.662+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-4tg37l",
+          "sourceId": "ldxp-jl7007",
+          "sourceName": "LDXP / JL7007",
+          "sourceStoreName": "沈万三的Ai聚宝盆",
+          "sourceIncludedAt": "2026-06-08T08:15:03.667667+00:00",
+          "sourceShopCreatedAt": "2026-05-12T20:58:43+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok Super（官网代充-质保一个月订阅）",
+          "price": 79.31,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/kh01wh",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_plus_recharge_official_direct",
+            "pro_max_official_recharge",
+            "duration_month",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:01:55.453+00:00",
+          "sourceUpdatedAt": "2026-07-25T05:06:41.359+00:00",
+          "lastSeenAt": "2026-07-29T12:01:55.453+00:00",
+          "verifiedAt": "2026-07-29T12:01:55.453+00:00",
+          "expiresAt": "2026-07-30T12:01:55.453+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-9bemxj",
+          "sourceId": "ldxp-5ofqxim1",
+          "sourceName": "LDXP / 5OFQXIM1",
+          "sourceStoreName": "冷热lab",
+          "sourceIncludedAt": "2026-07-06T08:32:26.79378+00:00",
+          "sourceShopCreatedAt": "2026-06-30T17:44:36+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok Super（官网代充-质保一个月订阅）",
+          "price": 82.4,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/a9ad2d",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_plus_recharge_official_direct",
+            "pro_max_official_recharge",
+            "duration_month",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:59:48.94+00:00",
+          "sourceUpdatedAt": "2026-07-25T04:36:15.573+00:00",
+          "lastSeenAt": "2026-07-29T11:59:48.94+00:00",
+          "verifiedAt": "2026-07-29T11:59:48.94+00:00",
+          "expiresAt": "2026-07-30T11:59:48.94+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-xwrk8",
+          "sourceId": "ldxp-7co79n1w",
+          "sourceName": "LDXP / 7CO79N1W",
+          "sourceStoreName": "claude源头价招代理对接码-5hrcmi7e",
+          "sourceIncludedAt": "2026-07-08T09:39:23.516513+00:00",
+          "sourceShopCreatedAt": "2026-05-08T09:57:55+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok Super官方正规充值1个月卡密（质保不掉订阅）",
+          "price": 82.4,
+          "currency": "CNY",
+          "status": "in_stock",
+          "url": "https://pay.ldxp.cn/item/qvc7v1",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_plus_recharge_official_direct",
+            "pro_max_official_recharge",
+            "duration_month"
+          ],
+          "stockCount": 4,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-23T14:38:05.454+00:00",
+          "sourceUpdatedAt": "2026-07-23T12:09:46.292+00:00",
+          "lastSeenAt": "2026-07-23T14:38:05.454+00:00",
+          "verifiedAt": "2026-07-23T14:38:05.454+00:00",
+          "expiresAt": "2026-07-24T14:38:05.454+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-19lct6i",
+          "sourceId": "菲区卡冲",
+          "sourceName": "菲区卡冲",
+          "sourceStoreName": "菲区卡冲",
+          "sourceIncludedAt": "2026-07-02T03:45:35.877302+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "30刀 super grok 成品号",
+          "price": 85,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://yufenggpt.com/item/8",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:35:19.279+00:00",
+          "sourceUpdatedAt": "2026-07-27T17:35:18.944+00:00",
+          "lastSeenAt": "2026-07-29T12:35:19.279+00:00",
+          "verifiedAt": "2026-07-29T12:35:19.279+00:00",
+          "expiresAt": "2026-07-30T12:35:19.279+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-asl3as",
+          "sourceId": "ldxp-sj1bejac",
+          "sourceName": "LDXP / SJ1BEJAC",
+          "sourceStoreName": "商家8719",
+          "sourceIncludedAt": "2026-06-28T06:19:06.638537+00:00",
+          "sourceShopCreatedAt": "2026-05-28T07:03:05+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "SuperGrok",
+          "price": 87.55,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/ar816d",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:42:11.335+00:00",
+          "sourceUpdatedAt": "2026-07-28T06:24:33.363+00:00",
+          "lastSeenAt": "2026-07-29T12:42:11.335+00:00",
+          "verifiedAt": "2026-07-29T12:42:11.335+00:00",
+          "expiresAt": "2026-07-30T12:42:11.335+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1p41yuv",
+          "sourceId": "txyxt小店",
+          "sourceName": "TxyxT小店",
+          "sourceStoreName": "TxyxT小店",
+          "sourceIncludedAt": "2026-07-05T15:36:05.073023+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Grok Super直充卡密",
+          "price": 90,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://shop.txyxt.dpdns.org/products/grok-cz",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:06.243+00:00",
+          "sourceUpdatedAt": "2026-07-25T10:20:04.639+00:00",
+          "lastSeenAt": "2026-07-29T12:20:06.243+00:00",
+          "verifiedAt": "2026-07-29T12:20:06.243+00:00",
+          "expiresAt": "2026-07-30T12:20:06.243+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1u8swg8",
+          "sourceId": "ldxp-aishop1",
+          "sourceName": "LDXP / aishop1",
+          "sourceStoreName": "稳问AI --AI 大玩家（AI真源头，招代理）",
+          "sourceIncludedAt": "2026-06-02T17:35:36.605862+00:00",
+          "sourceShopCreatedAt": "2026-04-15T14:21:34+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "SuperGrok 独享账号 | 30美金订阅成品号",
+          "price": 93.73,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/t1jnrg",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:44:56.289+00:00",
+          "sourceUpdatedAt": "2026-07-19T17:40:08.858+00:00",
+          "lastSeenAt": "2026-07-29T12:44:56.289+00:00",
+          "verifiedAt": "2026-07-29T12:44:56.289+00:00",
+          "expiresAt": "2026-07-30T12:44:56.289+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-djju1u",
+          "sourceId": "blackcat-ai-全球-ai-会员专营",
+          "sourceName": "BlackCat AI · 全球 AI 会员专营",
+          "sourceStoreName": "BlackCat AI · 全球 AI 会员专营",
+          "sourceIncludedAt": "2026-06-17T17:44:56.757237+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "blackcatWholesale",
+          "sourceTitle": "Grok Super 30天月卡 官方直充（全程质保订阅）",
+          "price": 97,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://autopixel.qzz.io/blackcat?tab=Grok#product-152",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_plus_recharge_official_direct",
+            "pro_max_official_recharge",
+            "team_official",
+            "duration_month",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:35:14.189+00:00",
+          "sourceUpdatedAt": "2026-07-27T01:35:30.925+00:00",
+          "lastSeenAt": "2026-07-29T12:35:14.189+00:00",
+          "verifiedAt": "2026-07-29T12:35:14.189+00:00",
+          "expiresAt": "2026-07-30T12:35:14.189+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-rp7c5d",
+          "sourceId": "nodebits-60b0ef265b2e777a",
+          "sourceName": "Ai小熊",
+          "sourceStoreName": "Ai小熊[源头]",
+          "sourceIncludedAt": "2026-06-03T10:20:53.162693+00:00",
+          "sourceShopCreatedAt": "2026-04-24T11:35:48+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "super grok 3个月成品号 两个月质保（不保推特）",
+          "price": 98.88,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/1j9bzg",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_quarter"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:17:29.256+00:00",
+          "sourceUpdatedAt": "2026-07-27T02:46:22.128+00:00",
+          "lastSeenAt": "2026-07-29T12:17:29.256+00:00",
+          "verifiedAt": "2026-07-29T12:17:29.256+00:00",
+          "expiresAt": "2026-07-30T12:17:29.256+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1yys95h",
+          "sourceId": "ldxp-ik1xf5ca",
+          "sourceName": "X会员super grok",
+          "sourceStoreName": "Royce",
+          "sourceIncludedAt": "2026-07-05T10:12:09.656434+00:00",
+          "sourceShopCreatedAt": "2026-06-06T02:22:48+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "grok直充一个月",
+          "price": 103,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/l9sbkf",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T07:46:07.584+00:00",
+          "sourceUpdatedAt": "2026-07-19T18:11:40.783+00:00",
+          "lastSeenAt": "2026-07-29T07:46:07.584+00:00",
+          "verifiedAt": "2026-07-29T07:46:07.584+00:00",
+          "expiresAt": "2026-07-30T07:46:07.584+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-pkttvz",
+          "sourceId": "nodebits-b08233e11cc65615",
+          "sourceName": "tehuio",
+          "sourceStoreName": "tehuio",
+          "sourceIncludedAt": "2026-06-03T15:06:23.138206+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "Super Grok 自助开通卡密/支持续费 1个月iOS内购",
+          "price": 105,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://tehuio.com/item/31",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_service_self_recharge",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:18.906+00:00",
+          "sourceUpdatedAt": "2026-07-29T12:37:18.906+00:00",
+          "lastSeenAt": "2026-07-29T12:37:18.906+00:00",
+          "verifiedAt": "2026-07-29T12:37:18.906+00:00",
+          "expiresAt": "2026-07-30T12:37:18.906+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-j8ms2f",
+          "sourceId": "flyai-qzz-io",
+          "sourceName": "flyai.qzz.io",
+          "sourceStoreName": "flyai.qzz.io",
+          "sourceIncludedAt": "2026-07-15T10:22:54.26594+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Grok Super自助卡密两个月",
+          "price": 110,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://flyai.qzz.io/products/orig-grok-super-self-card-2m",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_service_self_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:05.498+00:00",
+          "sourceUpdatedAt": "2026-07-15T10:22:54.37+00:00",
+          "lastSeenAt": "2026-07-29T12:20:05.498+00:00",
+          "verifiedAt": "2026-07-29T12:20:05.498+00:00",
+          "expiresAt": "2026-07-30T12:20:05.498+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1ydlwon",
+          "sourceId": "flyai-qzz-io",
+          "sourceName": "flyai.qzz.io",
+          "sourceStoreName": "flyai.qzz.io",
+          "sourceIncludedAt": "2026-07-15T10:22:54.26594+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "super grok 3个月成品号（含X Premium+ 会员） 两个月质保",
+          "price": 110,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://flyai.qzz.io/products/orig-super-grok-3m-account-x-premium",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "duration_quarter",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:05.498+00:00",
+          "sourceUpdatedAt": "2026-07-15T10:22:54.37+00:00",
+          "lastSeenAt": "2026-07-29T12:20:05.498+00:00",
+          "verifiedAt": "2026-07-29T12:20:05.498+00:00",
+          "expiresAt": "2026-07-30T12:20:05.498+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-ktusfs",
+          "sourceId": "auto-subscribe-hvmj88",
+          "sourceName": "Auto Subscribe / ultra.makelove.cloud",
+          "sourceStoreName": "Auto Subscribe / ultra.makelove.cloud",
+          "sourceIncludedAt": "2026-05-08T15:56:57.869826+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Super Grok/heavy代订阅（保订阅） / 规格1",
+          "price": 115,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ultra.makelove.cloud/products/supergrok",
+          "tags": [],
+          "filterTags": [
+            "pro_max_official_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:02.803+00:00",
+          "sourceUpdatedAt": "2026-07-24T05:50:07.263+00:00",
+          "lastSeenAt": "2026-07-29T12:20:02.803+00:00",
+          "verifiedAt": "2026-07-29T12:20:02.803+00:00",
+          "expiresAt": "2026-07-30T12:20:02.803+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok-heavy",
+          "slug": "super-grok-heavy",
+          "displayName": "SuperGrok Heavy / Grok Heavy",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Heavy",
+          "summary": "SuperGrok Heavy、Grok Heavy 高阶订阅、代充、成品号、月卡或年卡。",
+          "aliases": [
+            "super grok heavy",
+            "supergrok heavy",
+            "grok heavy",
+            "heavy grok",
+            "grok super heavy",
+            "grok heavy 会员"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-364kcc",
+          "sourceId": "nodebits-05b3a4700ccf9e8a",
+          "sourceName": "WEB3Al",
+          "sourceStoreName": "WEB3Al",
+          "sourceIncludedAt": "2026-06-03T15:05:01.554845+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "kami",
+          "sourceTitle": "Super Grok 自助开通卡密/支持续费 2个月iOS内购",
+          "price": 120,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://web3chirou.com/item/212",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_service_self_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:25:37.71+00:00",
+          "sourceUpdatedAt": "2026-07-19T04:08:56.221+00:00",
+          "lastSeenAt": "2026-07-29T12:25:37.71+00:00",
+          "verifiedAt": "2026-07-29T12:25:37.71+00:00",
+          "expiresAt": "2026-07-30T12:25:37.71+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-mitv42",
+          "sourceId": "ldxp-6h72nfwo",
+          "sourceName": "Goleden AI",
+          "sourceStoreName": "ALL IN AI",
+          "sourceIncludedAt": "2026-06-13T17:40:34.858428+00:00",
+          "sourceShopCreatedAt": "2026-05-18T15:01:22+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok 一个月直充",
+          "price": 122.57,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/9duu03",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:52:03.883+00:00",
+          "sourceUpdatedAt": "2026-07-19T18:47:59.262+00:00",
+          "lastSeenAt": "2026-07-29T11:52:03.883+00:00",
+          "verifiedAt": "2026-07-29T11:52:03.883+00:00",
+          "expiresAt": "2026-07-30T11:52:03.883+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1wn7mmu",
+          "sourceId": "ldxp-harvey",
+          "sourceName": "LDXP / harvey",
+          "sourceStoreName": "harvey",
+          "sourceIncludedAt": "2026-06-09T14:19:40.042397+00:00",
+          "sourceShopCreatedAt": "2026-04-09T09:42:22+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【质保三个月】Super Grok网页镜像",
+          "price": 123.6,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/vewby5",
+          "tags": [],
+          "filterTags": [
+            "domestic_mirror_site",
+            "duration_quarter",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:13:01.616+00:00",
+          "sourceUpdatedAt": "2026-07-19T17:06:11.122+00:00",
+          "lastSeenAt": "2026-07-29T12:13:01.616+00:00",
+          "verifiedAt": "2026-07-29T12:13:01.616+00:00",
+          "expiresAt": "2026-07-30T12:13:01.616+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-fquxil",
+          "sourceId": "blackcat-ai-全球-ai-会员专营",
+          "sourceName": "BlackCat AI · 全球 AI 会员专营",
+          "sourceStoreName": "BlackCat AI · 全球 AI 会员专营",
+          "sourceIncludedAt": "2026-06-17T17:44:56.757237+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "blackcatWholesale",
+          "sourceTitle": "Grok Super 60天月卡 官方直充（全程质保订阅）",
+          "price": 130,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://autopixel.qzz.io/blackcat?tab=Grok#product-158",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_plus_recharge_official_direct",
+            "pro_max_official_recharge",
+            "team_official",
+            "duration_month",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:35:14.189+00:00",
+          "sourceUpdatedAt": "2026-07-27T01:35:30.925+00:00",
+          "lastSeenAt": "2026-07-29T12:35:14.189+00:00",
+          "verifiedAt": "2026-07-29T12:35:14.189+00:00",
+          "expiresAt": "2026-07-30T12:35:14.189+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1dk7xb",
+          "sourceId": "ldxp-7co79n1w",
+          "sourceName": "LDXP / 7CO79N1W",
+          "sourceStoreName": "claude源头价招代理对接码-5hrcmi7e",
+          "sourceIncludedAt": "2026-07-08T09:39:23.516513+00:00",
+          "sourceShopCreatedAt": "2026-05-08T09:57:55+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Grok Super官方正规充值2个月卡密（质保不掉订阅）",
+          "price": 133.69,
+          "currency": "CNY",
+          "status": "low_stock",
+          "url": "https://pay.ldxp.cn/item/hgbgp9",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "chatgpt_plus_recharge_official_direct",
+            "pro_max_official_recharge",
+            "duration_month"
+          ],
+          "stockCount": 1,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-23T14:38:05.454+00:00",
+          "sourceUpdatedAt": "2026-07-23T14:38:05.454+00:00",
+          "lastSeenAt": "2026-07-23T14:38:05.454+00:00",
+          "verifiedAt": "2026-07-23T14:38:05.454+00:00",
+          "expiresAt": "2026-07-24T14:38:05.454+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1wojbjr",
+          "sourceId": "ldxp-1490ai批发小铺",
+          "sourceName": "LDXP / 1490AI批发小铺",
+          "sourceStoreName": "7QAI批发市场",
+          "sourceIncludedAt": "2026-05-08T10:30:01.712597+00:00",
+          "sourceShopCreatedAt": "2026-04-09T09:13:16+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "grok一个月",
+          "price": 149.35,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/p9cyj2",
+          "tags": [],
+          "filterTags": [
+            "duration_month"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:51:04.09+00:00",
+          "sourceUpdatedAt": "2026-07-19T18:52:44.563+00:00",
+          "lastSeenAt": "2026-07-29T11:51:04.09+00:00",
+          "verifiedAt": "2026-07-29T11:51:04.09+00:00",
+          "expiresAt": "2026-07-30T11:51:04.09+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "grok-account",
+          "slug": "grok-account",
+          "displayName": "Grok 普号 / 体验号",
+          "platform": "Grok",
+          "productType": "成品账号",
+          "spec": "普通账号 / 体验",
+          "summary": "Grok 普号、体验卡、短期成品号。",
+          "aliases": [
+            "grok 普号",
+            "grok 体验",
+            "直登成品"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-slsvl9",
+          "sourceId": "ldxp-harvey",
+          "sourceName": "LDXP / harvey",
+          "sourceStoreName": "harvey",
+          "sourceIncludedAt": "2026-06-09T14:19:40.042397+00:00",
+          "sourceShopCreatedAt": "2026-04-09T09:42:22+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "SuperGrok",
+          "price": 154.5,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/26h7oe",
+          "tags": [],
+          "filterTags": [],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:13:01.616+00:00",
+          "sourceUpdatedAt": "2026-07-28T06:32:34.493+00:00",
+          "lastSeenAt": "2026-07-29T12:13:01.616+00:00",
+          "verifiedAt": "2026-07-29T12:13:01.616+00:00",
+          "expiresAt": "2026-07-30T12:13:01.616+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-piakwn",
+          "sourceId": "flyai-qzz-io",
+          "sourceName": "flyai.qzz.io",
+          "sourceStoreName": "flyai.qzz.io",
+          "sourceIncludedAt": "2026-07-15T10:22:54.26594+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "super grok 6个月成品号（含X Premium+ 会员） 两个月质保",
+          "price": 165,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://flyai.qzz.io/products/orig-super-grok-6m-account-x-premium",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "duration_half_year",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:05.498+00:00",
+          "sourceUpdatedAt": "2026-07-15T10:22:54.37+00:00",
+          "lastSeenAt": "2026-07-29T12:20:05.498+00:00",
+          "verifiedAt": "2026-07-29T12:20:05.498+00:00",
+          "expiresAt": "2026-07-30T12:20:05.498+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-2z6am2",
+          "sourceId": "nodebits-71d9d5bbbb5d184b",
+          "sourceName": "AI源头批发旗舰店",
+          "sourceStoreName": "AI源头批发旗舰店",
+          "sourceIncludedAt": "2026-06-03T10:21:01.505652+00:00",
+          "sourceShopCreatedAt": "2026-04-24T06:05:28+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "grok月会员已经扣款续费的号稳定3个月",
+          "price": 173.04,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/o7pebi",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "duration_month",
+            "duration_quarter"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:59:23.952+00:00",
+          "sourceUpdatedAt": "2026-07-27T04:49:17.125+00:00",
+          "lastSeenAt": "2026-07-29T11:59:23.952+00:00",
+          "verifiedAt": "2026-07-29T11:59:23.952+00:00",
+          "expiresAt": "2026-07-30T11:59:23.952+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "grok-account",
+          "slug": "grok-account",
+          "displayName": "Grok 普号 / 体验号",
+          "platform": "Grok",
+          "productType": "成品账号",
+          "spec": "普通账号 / 体验",
+          "summary": "Grok 普号、体验卡、短期成品号。",
+          "aliases": [
+            "grok 普号",
+            "grok 体验",
+            "直登成品"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1mlywcn",
+          "sourceId": "auto-subscribe-hvmj88",
+          "sourceName": "Auto Subscribe / ultra.makelove.cloud",
+          "sourceStoreName": "Auto Subscribe / ultra.makelove.cloud",
+          "sourceIncludedAt": "2026-05-08T15:56:57.869826+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Grok成品（带质保） / 规格2",
+          "price": 179,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ultra.makelove.cloud/products/super-grok",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:02.803+00:00",
+          "sourceUpdatedAt": "2026-07-19T15:50:06.127+00:00",
+          "lastSeenAt": "2026-07-29T12:20:02.803+00:00",
+          "verifiedAt": "2026-07-29T12:20:02.803+00:00",
+          "expiresAt": "2026-07-30T12:20:02.803+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "grok-account",
+          "slug": "grok-account",
+          "displayName": "Grok 普号 / 体验号",
+          "platform": "Grok",
+          "productType": "成品账号",
+          "spec": "普通账号 / 体验",
+          "summary": "Grok 普号、体验卡、短期成品号。",
+          "aliases": [
+            "grok 普号",
+            "grok 体验",
+            "直登成品"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1wj9hiu",
+          "sourceId": "ldxp-猫猫豆",
+          "sourceName": "LDXP / 猫猫豆",
+          "sourceStoreName": "猫猫豆",
+          "sourceIncludedAt": "2026-05-08T10:30:01.712597+00:00",
+          "sourceShopCreatedAt": "2026-04-04T11:16:25+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【Super grok 一年会员】X帐号绑定超稳定版 【质保30天】---发grok成品号｜不带x会员｜官方渠道",
+          "price": 185.4,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/vgqw6k",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_official_recharge",
+            "duration_month",
+            "duration_year",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T11:59:07.364+00:00",
+          "sourceUpdatedAt": "2026-07-19T18:11:30.644+00:00",
+          "lastSeenAt": "2026-07-29T11:59:07.364+00:00",
+          "verifiedAt": "2026-07-29T11:59:07.364+00:00",
+          "expiresAt": "2026-07-30T11:59:07.364+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-1tdkukl",
+          "sourceId": "xiaoheiwan-128wu5",
+          "sourceName": "xiaoheiwan",
+          "sourceStoreName": "xiaoheiwan",
+          "sourceIncludedAt": "2026-05-08T10:30:01.712597+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "xiaoheiwan",
+          "sourceTitle": "Super Grok 激活码「2个月」",
+          "price": 218,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://upgrade.xiaoheiwan.com/purchase",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "pro_max_official_recharge"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:37:04.079+00:00",
+          "sourceUpdatedAt": "2026-07-24T03:35:44.569+00:00",
+          "lastSeenAt": "2026-07-29T12:37:04.079+00:00",
+          "verifiedAt": "2026-07-29T12:37:04.079+00:00",
+          "expiresAt": "2026-07-30T12:37:04.079+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-13dgk5",
+          "sourceId": "nodebits-87de16c80dd1e61f",
+          "sourceName": "咔咔",
+          "sourceStoreName": "咔咔",
+          "sourceIncludedAt": "2026-06-03T10:20:44.714237+00:00",
+          "sourceShopCreatedAt": "2026-04-17T10:44:10+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "12个月会员无质保 SuperGrok",
+          "price": 234.84,
+          "currency": "CNY",
+          "status": "low_stock",
+          "url": "https://pay.ldxp.cn/item/n0qd57",
+          "tags": [],
+          "filterTags": [
+            "pro_max_short_term",
+            "duration_month",
+            "duration_year"
+          ],
+          "stockCount": 2,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-27T09:39:00.085+00:00",
+          "sourceUpdatedAt": "2026-07-27T06:42:07.142+00:00",
+          "lastSeenAt": "2026-07-27T09:39:00.085+00:00",
+          "verifiedAt": "2026-07-27T09:39:00.085+00:00",
+          "expiresAt": "2026-07-28T09:39:00.085+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-sts0jc",
+          "sourceId": "ldxp-sj1bejac",
+          "sourceName": "LDXP / SJ1BEJAC",
+          "sourceStoreName": "商家8719",
+          "sourceIncludedAt": "2026-06-28T06:19:06.638537+00:00",
+          "sourceShopCreatedAt": "2026-05-28T07:03:05+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【Super grok 一年会员】X帐号绑定超稳定版 【质保30天】---发grok成品号｜不带x会员｜官方渠道",
+          "price": 257.5,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/7hewel",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_official_recharge",
+            "duration_month",
+            "duration_year",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:42:11.335+00:00",
+          "sourceUpdatedAt": "2026-07-19T21:45:51.361+00:00",
+          "lastSeenAt": "2026-07-29T12:42:11.335+00:00",
+          "verifiedAt": "2026-07-29T12:42:11.335+00:00",
+          "expiresAt": "2026-07-30T12:42:11.335+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-9g69uu",
+          "sourceId": "ldxp-mengyu",
+          "sourceName": "链动小铺 / mengyu",
+          "sourceStoreName": "智屿AI",
+          "sourceIncludedAt": "2026-07-14T07:41:09.478533+00:00",
+          "sourceShopCreatedAt": "2026-05-03T12:21:26+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【Super grok 一年会员】X帐号绑定超稳定版 【质保30天】---发grok成品号｜不带x会员｜官方渠道",
+          "price": 257.5,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/a0lvbs",
+          "tags": [],
+          "filterTags": [
+            "delivery_recharge",
+            "delivery_account",
+            "pro_max_official_recharge",
+            "duration_month",
+            "duration_year",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:27.951+00:00",
+          "sourceUpdatedAt": "2026-07-27T03:20:22.918+00:00",
+          "lastSeenAt": "2026-07-29T12:20:27.951+00:00",
+          "verifiedAt": "2026-07-29T12:20:27.951+00:00",
+          "expiresAt": "2026-07-30T12:20:27.951+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-rz4hez",
+          "sourceId": "ldxp-aiplus666",
+          "sourceName": "LDXP / aiplus666",
+          "sourceStoreName": "AI源头旗舰批发店",
+          "sourceIncludedAt": "2026-07-08T18:27:05.170181+00:00",
+          "sourceShopCreatedAt": "2026-06-06T13:25:43+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "【Super grok 一年会员】X帐号绑定超稳定版 【质保30天】---发grok成品号｜不带x会员｜官方渠道",
+          "price": 257.5,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://pay.ldxp.cn/item/1u0jp9",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_official_recharge",
+            "duration_month",
+            "duration_year",
+            "warranty_long"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:01:18.889+00:00",
+          "sourceUpdatedAt": "2026-07-21T06:42:09.565+00:00",
+          "lastSeenAt": "2026-07-29T12:01:18.889+00:00",
+          "verifiedAt": "2026-07-29T12:01:18.889+00:00",
+          "expiresAt": "2026-07-30T12:01:18.889+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok",
+          "slug": "super-grok",
+          "displayName": "Super Grok",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Super",
+          "summary": "Super Grok 成品号、卡密、直充、激活码、月卡或年卡。",
+          "aliases": [
+            "super grok",
+            "supergrok",
+            "grok super",
+            "grok 激活码"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-8prcog",
+          "sourceId": "ldxp-aicenter",
+          "sourceName": "AI批发商",
+          "sourceStoreName": "海绵宝宝",
+          "sourceIncludedAt": "2026-07-15T10:16:06.627839+00:00",
+          "sourceShopCreatedAt": "2026-06-20T11:26:29+00:00",
+          "collectorKind": "shopApi",
+          "sourceTitle": "Supergrokheavy(成品，质保订阅一个月，封号、反代不保）",
+          "price": 430.54,
+          "currency": "CNY",
+          "status": "in_stock",
+          "url": "https://pay.ldxp.cn/item/b96f1v",
+          "tags": [],
+          "filterTags": [
+            "delivery_account",
+            "pro_max_short_term",
+            "duration_month"
+          ],
+          "stockCount": 19,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-25T03:48:55.157+00:00",
+          "sourceUpdatedAt": "2026-07-24T21:14:53.4+00:00",
+          "lastSeenAt": "2026-07-25T03:48:55.157+00:00",
+          "verifiedAt": "2026-07-25T03:48:55.157+00:00",
+          "expiresAt": "2026-07-26T03:48:55.157+00:00",
+          "effectiveStatus": "available",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "super-grok-heavy",
+          "slug": "super-grok-heavy",
+          "displayName": "SuperGrok Heavy / Grok Heavy",
+          "platform": "Grok",
+          "productType": "订阅/会员",
+          "spec": "Heavy",
+          "summary": "SuperGrok Heavy、Grok Heavy 高阶订阅、代充、成品号、月卡或年卡。",
+          "aliases": [
+            "super grok heavy",
+            "supergrok heavy",
+            "grok heavy",
+            "heavy grok",
+            "grok super heavy",
+            "grok heavy 会员"
+          ]
+        }
+      },
+      {
+        "offer": {
+          "id": "id-qtunc0",
+          "sourceId": "auto-subscribe-hvmj88",
+          "sourceName": "Auto Subscribe / ultra.makelove.cloud",
+          "sourceStoreName": "Auto Subscribe / ultra.makelove.cloud",
+          "sourceIncludedAt": "2026-05-08T15:56:57.869826+00:00",
+          "sourceShopCreatedAt": null,
+          "collectorKind": "dujiao",
+          "sourceTitle": "Grok成品（带质保） / 规格5",
+          "price": 999999,
+          "currency": "CNY",
+          "status": "out_of_stock",
+          "url": "https://ultra.makelove.cloud/products/super-grok",
+          "tags": [],
+          "filterTags": [
+            "delivery_account"
+          ],
+          "stockCount": 0,
+          "minOrderQuantity": null,
+          "bulkPricingTiers": [],
+          "capturedAt": "2026-07-29T12:20:02.803+00:00",
+          "sourceUpdatedAt": "2026-07-28T17:20:05.016+00:00",
+          "lastSeenAt": "2026-07-29T12:20:02.803+00:00",
+          "verifiedAt": "2026-07-29T12:20:02.803+00:00",
+          "expiresAt": "2026-07-30T12:20:02.803+00:00",
+          "effectiveStatus": "unavailable",
+          "freshnessStatus": "fresh"
+        },
+        "product": {
+          "id": "grok-account",
+          "slug": "grok-account",
+          "displayName": "Grok 普号 / 体验号",
+          "platform": "Grok",
+          "productType": "成品账号",
+          "spec": "普通账号 / 体验",
+          "summary": "Grok 普号、体验卡、短期成品号。",
+          "aliases": [
+            "grok 普号",
+            "grok 体验",
+            "直登成品"
+          ]
+        }
+      }
+    ],
+    "total": 288,
+    "limited": false,
+    "generatedAt": "2026-07-29T12:48:55.028Z",
+    "degraded": false,
+    "message": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "platform": "API/CDK",
+  "page": 1,
+  "offset": 0,
+  "limit": 200,
+  "url": "https://priceai.cc/api/offers?platform=API%2FCDK&limit=200&offset=0",
+  "fetchedAt": "2026-07-29T12:49:10.964Z",
+  "raw_hash": "3470e0ce1db8aaa9a9956da1d0a32a5528418307997455a3e5138db13ced5ebf",
+  "declared_total": 0,
+  "returned_count": 0,
+  "response": {
+    "rows": [],
+    "total": 0,
+    "limited": false,
+    "generatedAt": "2026-07-29T12:49:10.818Z",
+    "degraded": false,
+    "message": null
+  }
+}
