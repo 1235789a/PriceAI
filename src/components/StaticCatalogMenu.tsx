@@ -69,7 +69,6 @@ export function StaticCatalogMenu({ initialPlatform = "全部" }: { initialPlatf
   );
   const [query, setQuery] = useState("");
   const [selectedProduct, setSelectedProduct] = useState("");
-  const [showAll, setShowAll] = useState(false);
 
   const filteredRows = useMemo(() => {
     const normalized = query.trim().toLowerCase();
@@ -99,7 +98,7 @@ export function StaticCatalogMenu({ initialPlatform = "全部" }: { initialPlatf
       .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label, "zh-CN"));
   }, [platform]);
 
-  const visibleRows = showAll ? filteredRows : filteredRows.slice(0, 80);
+  const visibleRows = filteredRows;
   const activePlatformLabel = platformMenu.find(([id]) => id === platform)?.[1] || "全部入口";
 
   function changePlatform(next: string) {
@@ -184,7 +183,7 @@ export function StaticCatalogMenu({ initialPlatform = "全部" }: { initialPlatf
             </button>
           </div>
           <div className="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-            {productMenu.slice(0, 24).map((item) => (
+            {productMenu.map((item) => (
               <button
                 type="button"
                 key={item.label}
@@ -214,7 +213,7 @@ export function StaticCatalogMenu({ initialPlatform = "全部" }: { initialPlatf
               <p className="text-xs font-semibold uppercase tracking-[0.16em] text-[#6f8078]">Source links</p>
               <h2 className="mt-1 text-xl font-semibold text-[#18342b]">来源入口</h2>
             </div>
-            <p className="text-xs text-[#75847d]">显示 {visibleRows.length} / {filteredRows.length} 条</p>
+            <p className="text-xs text-[#75847d]">共 {visibleRows.length} 条</p>
           </div>
           <div className="hidden overflow-hidden rounded-3xl bg-white shadow-[0_18px_60px_rgba(35,58,48,0.05)] ring-1 ring-[#dfe7e4] md:block">
             <table className="w-full text-left text-sm">
