@@ -29,8 +29,8 @@ export function SiteHeader({
 }) {
   const pathname = usePathname();
   const aboutActive = pathname.startsWith("/about");
-  const desktopCenterNavClassName = "hidden items-center rounded-full bg-[#e4e9ea] p-1 text-sm font-semibold text-[#5a6061] min-[720px]:flex";
-  const secondaryNavWrapperClassName = "border-t border-[#dfe4e5] px-5 pb-3 sm:px-8 min-[720px]:hidden";
+  const desktopCenterNavClassName = "hidden items-center rounded-full bg-[#f0e2d2] p-1 text-sm font-semibold text-[#6a5a4c] min-[720px]:flex";
+  const secondaryNavWrapperClassName = "border-t border-[#ecd9c2] px-5 pb-3 sm:px-8 min-[720px]:hidden";
   const aboutButtonSizeClassName =
     compactActionLabelFrom === "2xl"
       ? "h-9 w-9 gap-0 px-0 2xl:h-10 2xl:w-auto 2xl:gap-2 2xl:px-3.5"
@@ -54,8 +54,8 @@ export function SiteHeader({
                 href={item.href}
                 className={`inline-flex h-9 items-center whitespace-nowrap rounded-full px-4 transition ${
                   active
-                    ? "bg-[#2d3435] text-[#f8f8f8] shadow-[0_10px_30px_rgba(45,52,53,0.10)]"
-                    : "hover:bg-[#edf0f1] hover:text-[#202829]"
+                    ? "bg-[#3a2418] text-[#fffaf3] shadow-[0_10px_30px_rgba(58,36,24,0.10)]"
+                    : "hover:bg-[#f4e4d2] hover:text-[#2a1f17]"
                 }`}
                 aria-current={active ? "page" : undefined}
               >
@@ -68,10 +68,10 @@ export function SiteHeader({
         <div className={`relative z-10 flex min-w-0 items-center justify-end ${actionGroupGapClassName}`}>
           <Link
             href="/about"
-            className={`inline-flex shrink-0 items-center justify-center rounded-full text-sm font-semibold shadow-[0_10px_30px_rgba(45,52,53,0.06)] ring-1 ring-[#adb3b4]/25 transition hover:-translate-y-0.5 ${aboutButtonSizeClassName} ${
+            className={`inline-flex shrink-0 items-center justify-center rounded-full text-sm font-semibold shadow-[0_10px_30px_rgba(58,36,24,0.06)] ring-1 ring-[#d9c4a8]/25 transition hover:-translate-y-0.5 ${aboutButtonSizeClassName} ${
               aboutActive
-                ? "bg-[#2d3435] text-[#f8f8f8]"
-                : "bg-white text-[#2d3435] hover:bg-[#f5f7f7] hover:text-[#202829]"
+                ? "bg-[#3a2418] text-[#fffaf3]"
+                : "bg-white text-[#3a2418] hover:bg-[#fbeede] hover:text-[#2a1f17]"
             }`}
             aria-current={aboutActive ? "page" : undefined}
           >
@@ -85,7 +85,7 @@ export function SiteHeader({
       </div>
 
       <div className={secondaryNavWrapperClassName}>
-        <nav className={`mx-auto flex ${maxWidthClassName} gap-2 overflow-x-auto pt-3 text-sm font-semibold text-[#5a6061]`}>
+        <nav className={`mx-auto flex ${maxWidthClassName} gap-2 overflow-x-auto pt-3 text-sm font-semibold text-[#6a5a4c]`}>
           {navItems.map((item) => {
             const active = activeSection ? item.key === activeSection : item.match(pathname);
 
@@ -95,8 +95,8 @@ export function SiteHeader({
                 href={item.href}
                 className={`inline-flex h-10 shrink-0 items-center rounded-full px-4 transition ${
                   active
-                    ? "bg-[#2d3435] text-[#f8f8f8]"
-                    : "bg-[#e4e9ea] hover:bg-[#dde4e5] hover:text-[#202829]"
+                    ? "bg-[#3a2418] text-[#fffaf3]"
+                    : "bg-[#f0e2d2] hover:bg-[#e8d4ba] hover:text-[#2a1f17]"
                 }`}
                 aria-current={active ? "page" : undefined}
               >

@@ -92,10 +92,10 @@ function statusLabel(status: string): string {
 }
 
 function statusTone(status: string): string {
-  if (status === "in_stock") return "bg-[#e8f6ed] text-[#28764b]";
+  if (status === "in_stock") return "bg-[#e6f0e9] text-[#2d7a5f]";
   if (status === "low_stock") return "bg-[#fff4de] text-[#9a681d]";
   if (status === "out_of_stock") return "bg-[#fdebec] text-[#b34646]";
-  return "bg-[#eef1f0] text-[#6b7773]";
+  return "bg-[#f0e2d2] text-[#7a6a5c]";
 }
 
 function riskLabel(level: string): string {
@@ -106,10 +106,10 @@ function riskLabel(level: string): string {
 }
 
 function riskTone(level: string): string {
-  if (level === "low") return "bg-[#e8f6ed] text-[#28764b]";
+  if (level === "low") return "bg-[#e6f0e9] text-[#2d7a5f]";
   if (level === "medium") return "bg-[#fff4de] text-[#9a681d]";
   if (level === "high") return "bg-[#fdebec] text-[#b34646]";
-  return "bg-[#eef1f0] text-[#6b7773]";
+  return "bg-[#f0e2d2] text-[#7a6a5c]";
 }
 
 function RiskIcon({ level, className = "h-3.5 w-3.5" }: { level: string; className?: string }) {
@@ -294,8 +294,8 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
   const activeFilters = [stock !== "all", risk !== "all", ownership !== "all", delivery !== "all", billing !== "all"].filter(Boolean).length;
 
   return (
-    <div className="min-h-screen bg-[#f8faf9] text-[#202829]">
-      <div className="sticky top-0 z-40 border-b border-[#dfe7e4] bg-[#f8faf9]/95 shadow-[0_10px_28px_rgba(35,58,48,0.05)] backdrop-blur-xl">
+    <div className="min-h-screen bg-[#fdf6ee] text-[#2a1f17]">
+      <div className="sticky top-0 z-40 border-b border-[#ecd9c2] bg-[#fdf6ee]/95 shadow-[0_10px_28px_rgba(122,47,18,0.05)] backdrop-blur-xl">
         <SiteHeader />
         <div className="mx-auto max-w-[1500px] px-5 pb-3 sm:px-8">
           <div className="flex flex-wrap items-center gap-2 py-1">
@@ -306,8 +306,8 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
                 onClick={() => changePlatform(item)}
                 className={`shrink-0 rounded-full px-5 py-2 text-sm transition ${
                   platform === item
-                    ? "bg-[#dfe8ea] font-semibold text-[#34464a]"
-                    : "bg-white text-[#687779] ring-1 ring-[#dfe7e4] hover:bg-[#edf5f0]"
+                    ? "bg-[#ecd9c2] font-semibold text-[#5a3a26]"
+                    : "bg-white text-[#7a6a5c] ring-1 ring-[#ecd9c2] hover:bg-[#f9ecdc]"
                 }`}
               >
                 {item}
@@ -319,44 +319,44 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
 
       <main className="mx-auto max-w-[1500px] px-5 py-7 sm:px-8 md:py-11">
         {/* 静态数据快照 banner */}
-        <section className="mb-6 rounded-2xl border border-[#cfe0d6] bg-[#eef7f1] px-5 py-4">
+        <section className="mb-6 rounded-2xl border border-[#e3c9a8] bg-[#fbeede] px-5 py-4">
           <div className="flex flex-wrap items-center gap-2">
-            <span className="inline-flex items-center gap-1.5 rounded-full bg-[#28764b] px-3 py-1 text-xs font-bold text-white">
+            <span className="inline-flex items-center gap-1.5 rounded-full bg-[#b5471f] px-3 py-1 text-xs font-bold text-white">
               <ShieldCheck size={13} aria-hidden="true" /> 静态数据快照
             </span>
-            <span className="text-xs text-[#4a5c52]">非实时数据 · 构建前一次性提取 · 前端运行时不请求原站</span>
+            <span className="text-xs text-[#8a6a52]">非实时数据 · 构建前一次性提取 · 前端运行时不请求原站</span>
           </div>
           <dl className="mt-3 grid grid-cols-2 gap-x-6 gap-y-2 text-xs sm:grid-cols-3 lg:grid-cols-6">
-            <div><dt className="text-[#7a8a7e]">快照版本</dt><dd className="mt-0.5 font-mono font-semibold text-[#1f3a2d]">{metadata.snapshotVersion}</dd></div>
-            <div><dt className="text-[#7a8a7e]">抓取时间</dt><dd className="mt-0.5 font-semibold text-[#1f3a2d]">{formatDateTime(metadata.fetchedAt)}</dd></div>
-            <div><dt className="text-[#7a8a7e]">公开数据总量</dt><dd className="mt-0.5 font-semibold text-[#1f3a2d]">{metadata.total.toLocaleString()} 条</dd></div>
-            <div><dt className="text-[#7a8a7e]">标准商品</dt><dd className="mt-0.5 font-semibold text-[#1f3a2d]">{metadata.products} 个</dd></div>
-            <div><dt className="text-[#7a8a7e]">商家</dt><dd className="mt-0.5 font-semibold text-[#1f3a2d]">{metadata.merchants} 个</dd></div>
-            <div><dt className="text-[#7a8a7e]">数据来源</dt><dd className="mt-0.5 font-semibold text-[#1f3a2d]">原项目公开 API</dd></div>
+            <div><dt className="text-[#9a8a72]">快照版本</dt><dd className="mt-0.5 font-mono font-semibold text-[#8f3614]">{metadata.snapshotVersion}</dd></div>
+            <div><dt className="text-[#9a8a72]">抓取时间</dt><dd className="mt-0.5 font-semibold text-[#8f3614]">{formatDateTime(metadata.fetchedAt)}</dd></div>
+            <div><dt className="text-[#9a8a72]">公开数据总量</dt><dd className="mt-0.5 font-semibold text-[#8f3614]">{metadata.total.toLocaleString()} 条</dd></div>
+            <div><dt className="text-[#9a8a72]">标准商品</dt><dd className="mt-0.5 font-semibold text-[#8f3614]">{metadata.products} 个</dd></div>
+            <div><dt className="text-[#9a8a72]">商家</dt><dd className="mt-0.5 font-semibold text-[#8f3614]">{metadata.merchants} 个</dd></div>
+            <div><dt className="text-[#9a8a72]">数据来源</dt><dd className="mt-0.5 font-semibold text-[#8f3614]">原项目公开 API</dd></div>
           </dl>
-          <p className="mt-2 text-[11px] leading-5 text-[#6b7a6f]">
+          <p className="mt-2 text-[11px] leading-5 text-[#9a8a72]">
             声明总量 {metadata.declaredTotal.toLocaleString()} 条；已排除高风险 {metadata.excludedRows.toLocaleString()} 条（{metadata.exclusionNote}）
           </p>
         </section>
 
         <section className="flex flex-wrap items-end justify-between gap-5">
           <div>
-            <p className="mb-3 text-xs font-semibold uppercase tracking-[0.18em] text-[#70827c]">Static snapshot · 原项目公开数据</p>
-            <h1 className="font-serif text-3xl font-semibold tracking-tight text-[#18342b] md:text-5xl">
+            <p className="mb-3 text-xs font-semibold uppercase tracking-[0.18em] text-[#8a7a6a]">Static snapshot · 原项目公开数据</p>
+            <h1 className="font-serif text-3xl font-semibold tracking-tight text-[#7a2f12] md:text-5xl">
               {platform === "全部" ? "AI 订阅与渠道" : platform}
             </h1>
-            <p className="mt-3 max-w-3xl text-sm leading-7 text-[#60706a]">
+            <p className="mt-3 max-w-3xl text-sm leading-7 text-[#7a6a5c]">
               当前快照展示 {allRows.length.toLocaleString()} 条公开报价、{allProducts.length} 个标准商品。不执行页面实时采集。
             </p>
           </div>
           <div className="flex w-full max-w-[640px] flex-col gap-2">
-            <label className="flex h-12 w-full items-center gap-3 rounded-2xl bg-white px-4 shadow-[0_16px_42px_rgba(35,58,48,0.07)] ring-1 ring-[#dfe7e4]">
-              <Search size={18} className="text-[#698078]" />
+            <label className="flex h-12 w-full items-center gap-3 rounded-2xl bg-white px-4 shadow-[0_16px_42px_rgba(122,47,18,0.07)] ring-1 ring-[#ecd9c2]">
+              <Search size={18} className="text-[#9a8a78]" />
               <input
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 placeholder="搜索标准商品、店铺或渠道"
-                className="min-w-0 flex-1 bg-transparent text-sm outline-none placeholder:text-[#a0aca6]"
+                className="min-w-0 flex-1 bg-transparent text-sm outline-none placeholder:text-[#b8a890]"
               />
             </label>
             <div className="flex flex-wrap items-center gap-2">
@@ -365,13 +365,13 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
                 onClick={() => setShowFilters((v) => !v)}
                 className={`inline-flex items-center gap-1.5 rounded-full px-3.5 py-2 text-xs font-semibold ring-1 transition ${
                   activeFilters || showFilters
-                    ? "bg-[#2d3435] text-white ring-[#2d3435]"
-                    : "bg-white text-[#526265] ring-[#dfe7e4] hover:bg-[#edf5f0]"
+                    ? "bg-[#3a2418] text-white ring-[#3a2418]"
+                    : "bg-white text-[#6a5a4c] ring-[#ecd9c2] hover:bg-[#f9ecdc]"
                 }`}
               >
                 <Filter size={13} aria-hidden="true" /> 筛选{activeFilters ? ` · ${activeFilters}` : ""}
               </button>
-              <select value={sort} onChange={(e) => setSort(e.target.value as SortKey)} className="rounded-full bg-white px-3.5 py-2 text-xs font-semibold text-[#526265] ring-1 ring-[#dfe7e4] outline-none">
+              <select value={sort} onChange={(e) => setSort(e.target.value as SortKey)} className="rounded-full bg-white px-3.5 py-2 text-xs font-semibold text-[#6a5a4c] ring-1 ring-[#ecd9c2] outline-none">
                 <option value="default">默认排序（有货优先）</option>
                 <option value="price_asc">价格升序</option>
                 <option value="price_desc">价格降序</option>
@@ -380,7 +380,7 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
               </select>
             </div>
             {showFilters ? (
-              <div className="grid grid-cols-2 gap-2 rounded-2xl bg-white p-3 ring-1 ring-[#dfe7e4] sm:grid-cols-3 lg:grid-cols-5">
+              <div className="grid grid-cols-2 gap-2 rounded-2xl bg-white p-3 ring-1 ring-[#ecd9c2] sm:grid-cols-3 lg:grid-cols-5">
                 <FilterSelect label="库存" value={stock} onChange={(v) => setStock(v as StockFilter)} options={[["all", "全部"], ["in_stock", "有货"], ["out_of_stock", "缺货"]]} />
                 <FilterSelect label="风险" value={risk} onChange={(v) => setRisk(v as RiskFilter)} options={[["all", "全部"], ["low", "低"], ["medium", "中"], ["high", "高"]]} />
                 <FilterSelect label="归属" value={ownership} onChange={(v) => setOwnership(v as OwnershipFilter)} options={[["all", "全部"], ["official", "官方"], ["third_party", "第三方"], ["shared", "共享/拼车"], ["unknown", "未知"]]} />
@@ -391,10 +391,10 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
           </div>
         </section>
 
-        <section className="mt-8 overflow-hidden rounded-3xl bg-white shadow-[0_18px_60px_rgba(35,58,48,0.06)] ring-1 ring-[#dfe7e4]">
+        <section className="mt-8 overflow-hidden rounded-3xl bg-white shadow-[0_18px_60px_rgba(122,47,18,0.06)] ring-1 ring-[#ecd9c2]">
           <div className="hidden overflow-x-auto md:block">
             <table className="w-full min-w-[1200px] text-left text-sm">
-              <thead className="bg-[#f1f4f4] text-xs font-semibold text-[#526265]">
+              <thead className="bg-[#f7eadb] text-xs font-semibold text-[#6a5a4c]">
                 <tr>
                   <th className="px-5 py-5">标准商品</th>
                   <th className="px-5 py-5">平台</th>
@@ -408,39 +408,39 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
                   <th className="px-5 py-5">操作</th>
                 </tr>
               </thead>
-              <tbody className="divide-y divide-[#edf1ee]">
+              <tbody className="divide-y divide-[#f0e2d2]">
                 {rows.map((row) => {
                   const lowest = row.lowestAvailableOffer || row.lowestOffer;
                   const isExpanded = expanded === row.product.id;
                   return (
-                    <tr key={row.product.id} className="align-middle hover:bg-[#fbfdfb]">
+                    <tr key={row.product.id} className="align-middle hover:bg-[#fffaf3]">
                       <td className="px-5 py-5">
                         <div className="flex items-center gap-3">
-                          <BrandIcon platform={row.product.platform} productId={row.product.id} className="h-10 w-10 rounded-full bg-[#f2f4f4] p-2" />
+                          <BrandIcon platform={row.product.platform} productId={row.product.id} className="h-10 w-10 rounded-full bg-[#f7eadb] p-2" />
                           <div>
-                            <p className="font-semibold text-[#202b2d]">{row.product.displayName}</p>
-                            <p className="mt-1 text-xs text-[#75847d]">{row.product.spec || row.product.productType}</p>
+                            <p className="font-semibold text-[#2a1f17]">{row.product.displayName}</p>
+                            <p className="mt-1 text-xs text-[#8a7a6a]">{row.product.spec || row.product.productType}</p>
                           </div>
                         </div>
                       </td>
-                      <td className="px-5 py-5 text-[#46585d]">{row.product.platform}</td>
-                      <td className="px-5 py-5 text-[#687779]">{row.product.productType}</td>
+                      <td className="px-5 py-5 text-[#6a5a4c]">{row.product.platform}</td>
+                      <td className="px-5 py-5 text-[#7a6a5c]">{row.product.productType}</td>
                       <td className="px-5 py-5">
-                        <p className="text-xl font-semibold text-[#202b2d]">{row.lowestAvailableOffer ? formatPrice(lowest.price, lowest.currency) : "暂无价格"}</p>
+                        <p className="text-xl font-semibold text-[#2a1f17]">{row.lowestAvailableOffer ? formatPrice(lowest.price, lowest.currency) : "暂无价格"}</p>
                         <span className={`mt-1 inline-flex rounded-full px-2 py-1 text-xs font-semibold ${statusTone(lowest.status)}`}>{statusLabel(lowest.status)}</span>
                       </td>
                       <td className="px-5 py-5">
                         <div className="flex gap-2 text-xs">
-                          <span className="rounded-full bg-[#e8f6ed] px-3 py-2 text-[#28764b]">有货 {row.availableCount}</span>
+                          <span className="rounded-full bg-[#e6f0e9] px-3 py-2 text-[#2d7a5f]">有货 {row.availableCount}</span>
                           <span className="rounded-full bg-[#fdebec] px-3 py-2 text-[#b34646]">缺货 {row.outOfStockCount}</span>
                         </div>
                       </td>
-                      <td className="px-5 py-5 text-lg text-[#374b50]">{row.offers.length}</td>
+                      <td className="px-5 py-5 text-lg text-[#5a3a26]">{row.offers.length}</td>
                       <td className="max-w-[220px] px-5 py-5">
-                        <p className="truncate font-medium text-[#29383b]">{offerStore(lowest)}</p>
-                        <p className="mt-1 truncate text-xs text-[#7a8982]">{offerTitle(lowest)}</p>
+                        <p className="truncate font-medium text-[#3a2418]">{offerStore(lowest)}</p>
+                        <p className="mt-1 truncate text-xs text-[#8a7a6a]">{offerTitle(lowest)}</p>
                       </td>
-                      <td className="whitespace-nowrap px-5 py-5 text-[#526265]">{formatUpdated(row.updatedAt)}</td>
+                      <td className="whitespace-nowrap px-5 py-5 text-[#6a5a4c]">{formatUpdated(row.updatedAt)}</td>
                       <td className="px-5 py-5">
                         <span className={`inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold ${riskTone(row.minRiskLevel)}`}>
                           <RiskIcon level={row.minRiskLevel} /> {riskLabel(row.minRiskLevel)}
@@ -450,7 +450,7 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
                         <button
                           type="button"
                           onClick={() => setExpanded(isExpanded ? null : row.product.id)}
-                          className="inline-flex items-center gap-2 rounded-full bg-[#293538] px-4 py-3 font-semibold text-white transition hover:bg-[#1d2729]"
+                          className="inline-flex items-center gap-2 rounded-full bg-[#b5471f] px-4 py-3 font-semibold text-white transition hover:bg-[#8f3614]"
                         >
                           查看 <ChevronDown size={15} className={isExpanded ? "rotate-180" : ""} />
                         </button>
@@ -459,7 +459,7 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
                   );
                 })}
                 {rows.length === 0 ? (
-                  <tr><td colSpan={10} className="px-5 py-10 text-center text-sm text-[#7a8982]">没有符合当前筛选条件的报价。</td></tr>
+                  <tr><td colSpan={10} className="px-5 py-10 text-center text-sm text-[#8a7a6a]">没有符合当前筛选条件的报价。</td></tr>
                 ) : null}
               </tbody>
             </table>
@@ -470,12 +470,12 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
               const lowest = row.lowestAvailableOffer || row.lowestOffer;
               const isExpanded = expanded === row.product.id;
               return (
-                <article key={row.product.id} className="rounded-2xl bg-[#fbfdfb] p-4 ring-1 ring-[#e2eae5]">
+                <article key={row.product.id} className="rounded-2xl bg-[#fffaf3] p-4 ring-1 ring-[#ecd9c2]">
                   <div className="flex items-start gap-3">
-                    <BrandIcon platform={row.product.platform} productId={row.product.id} className="h-10 w-10 rounded-full bg-[#f2f4f4] p-2" />
+                    <BrandIcon platform={row.product.platform} productId={row.product.id} className="h-10 w-10 rounded-full bg-[#f7eadb] p-2" />
                     <div className="min-w-0 flex-1">
-                      <p className="font-semibold text-[#202b2d]">{row.product.displayName}</p>
-                      <p className="mt-1 text-xs text-[#75847d]">{row.product.platform} · {row.product.productType}</p>
+                      <p className="font-semibold text-[#2a1f17]">{row.product.displayName}</p>
+                      <p className="mt-1 text-xs text-[#8a7a6a]">{row.product.platform} · {row.product.productType}</p>
                     </div>
                     <span className={`inline-flex items-center gap-1 rounded-full px-2 py-1 text-[10px] font-semibold ${riskTone(row.minRiskLevel)}`}>
                       <RiskIcon level={row.minRiskLevel} className="h-3 w-3" /> {riskLabel(row.minRiskLevel)}
@@ -483,18 +483,18 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
                   </div>
                   <div className="mt-4 grid grid-cols-2 gap-2 text-xs">
                     <div className="rounded-xl bg-white p-3">
-                      <p className="text-[#82908b]">最低价</p>
+                      <p className="text-[#9a8a78]">最低价</p>
                       <p className="mt-1 text-lg font-semibold">{row.lowestAvailableOffer ? formatPrice(lowest.price, lowest.currency) : "暂无价格"}</p>
                     </div>
                     <div className="rounded-xl bg-white p-3">
-                      <p className="text-[#82908b]">渠道 / 库存</p>
+                      <p className="text-[#9a8a78]">渠道 / 库存</p>
                       <p className="mt-1 font-semibold">{row.offers.length} / 有货 {row.availableCount}</p>
                     </div>
                   </div>
                   <button
                     type="button"
                     onClick={() => setExpanded(isExpanded ? null : row.product.id)}
-                    className="mt-3 inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#293538] px-4 py-2.5 text-sm font-semibold text-white"
+                    className="mt-3 inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#b5471f] px-4 py-2.5 text-sm font-semibold text-white"
                   >
                     {isExpanded ? "收起渠道" : `展开 ${row.offers.length} 个渠道`} <ChevronDown size={14} className={isExpanded ? "rotate-180" : ""} />
                   </button>
@@ -502,21 +502,21 @@ export function StaticChannelExplorer({ initialPlatform = "全部" }: { initialP
                 </article>
               );
             })}
-            {rows.length === 0 ? <p className="px-5 py-10 text-center text-sm text-[#7a8982]">没有符合当前筛选条件的报价。</p> : null}
+            {rows.length === 0 ? <p className="px-5 py-10 text-center text-sm text-[#8a7a6a]">没有符合当前筛选条件的报价。</p> : null}
           </div>
         </section>
 
         {expanded ? (
-          <section className="mt-4 hidden rounded-3xl bg-white p-5 ring-1 ring-[#dfe7e4] md:block">
-            <p className="text-xs font-semibold uppercase tracking-[0.16em] text-[#71817a]">渠道详情</p>
-            <h2 className="mt-1 text-xl font-semibold text-[#18342b]">
+          <section className="mt-4 hidden rounded-3xl bg-white p-5 ring-1 ring-[#ecd9c2] md:block">
+            <p className="text-xs font-semibold uppercase tracking-[0.16em] text-[#8a7a6a]">渠道详情</p>
+            <h2 className="mt-1 text-xl font-semibold text-[#7a2f12]">
               {rows.find((r) => r.product.id === expanded)?.product.displayName}
             </h2>
             <OfferList offers={rows.find((r) => r.product.id === expanded)?.offers || []} />
           </section>
         ) : null}
 
-        <footer className="mt-8 rounded-2xl bg-[#eef5f0] px-5 py-4 text-xs leading-6 text-[#60706a]">
+        <footer className="mt-8 rounded-2xl bg-[#fbeede] px-5 py-4 text-xs leading-6 text-[#7a6a5c]">
           本页面为公开数据整理与比较工具，不代表任何商家或渠道背书。价格、库存、资质、交付和售后政策请以原始页面为准。
           <br />
           静态快照抓取时间：{formatDateTime(metadata.fetchedAt)}；数据来源：原项目公开 API（{metadata.sourceUrl}）。
@@ -539,9 +539,9 @@ function FilterSelect({
   options: Array<[string, string]>;
 }) {
   return (
-    <label className="flex flex-col gap-1 text-[11px] font-semibold text-[#7a8982]">
+    <label className="flex flex-col gap-1 text-[11px] font-semibold text-[#8a7a6a]">
       <span>{label}</span>
-      <select value={value} onChange={(e) => onChange(e.target.value)} className="rounded-lg bg-[#f8faf9] px-2.5 py-1.5 text-xs font-semibold text-[#34464a] ring-1 ring-[#dfe7e4] outline-none">
+      <select value={value} onChange={(e) => onChange(e.target.value)} className="rounded-lg bg-[#fdf6ee] px-2.5 py-1.5 text-xs font-semibold text-[#5a3a26] ring-1 ring-[#ecd9c2] outline-none">
         {options.map(([v, l]) => (
           <option key={v} value={v}>{l}</option>
         ))}
@@ -559,13 +559,13 @@ function OfferList({ offers }: { offers: StaticOffer[] }) {
   });
 
   return (
-    <div className="mt-4 divide-y divide-[#edf1ee] rounded-2xl bg-[#fbfdfb] ring-1 ring-[#e2eae5]">
+    <div className="mt-4 divide-y divide-[#f0e2d2] rounded-2xl bg-[#fffaf3] ring-1 ring-[#ecd9c2]">
       {sorted.map((offer) => (
         <div key={offer.id} className="px-4 py-4">
           <div className="flex flex-wrap items-start justify-between gap-3">
             <div className="min-w-0 flex-1">
               <div className="flex flex-wrap items-center gap-2">
-                <p className="font-semibold text-[#263638]">{offerStore(offer)}</p>
+                <p className="font-semibold text-[#2a1f17]">{offerStore(offer)}</p>
                 <span className={`inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-semibold ${riskTone(offer.risk_level)}`}>
                   <RiskIcon level={offer.risk_level} className="h-3 w-3" /> {riskLabel(offer.risk_level)}
                 </span>
@@ -575,8 +575,8 @@ function OfferList({ offers }: { offers: StaticOffer[] }) {
                   </span>
                 ) : null}
               </div>
-              <p className="mt-1 text-xs text-[#71817a]">{offerTitle(offer)}</p>
-              <dl className="mt-2 grid grid-cols-2 gap-x-4 gap-y-1 text-[11px] text-[#6b7773] sm:grid-cols-3 lg:grid-cols-4">
+              <p className="mt-1 text-xs text-[#8a7a6a]">{offerTitle(offer)}</p>
+              <dl className="mt-2 grid grid-cols-2 gap-x-4 gap-y-1 text-[11px] text-[#7a6a5c] sm:grid-cols-3 lg:grid-cols-4">
                 <Detail label="原始标题" value={offer.sourceTitle} />
                 <Detail label="数据来源" value={offer.sourceName} />
                 <Detail label="商家名称" value={offer.sourceStoreName || "—"} />
@@ -594,21 +594,21 @@ function OfferList({ offers }: { offers: StaticOffer[] }) {
               </dl>
             </div>
             <div className="flex flex-col items-end gap-2">
-              <span className="font-semibold text-[#263638]">{formatPrice(offer.price, offer.currency)}</span>
+              <span className="font-semibold text-[#2a1f17]">{formatPrice(offer.price, offer.currency)}</span>
               <span className={`rounded-full px-2.5 py-1 text-xs font-semibold ${statusTone(offer.status)}`}>{statusLabel(offer.status)}</span>
               {offer.url ? (
                 <a
                   href={offer.url}
                   target="_blank"
                   rel="noreferrer nofollow"
-                  className="inline-flex items-center gap-1 rounded-full bg-[#eaf5ed] px-3 py-2 text-xs font-semibold text-[#28764b] hover:bg-[#d8eede]"
+                  className="inline-flex items-center gap-1 rounded-full bg-[#fde6d4] px-3 py-2 text-xs font-semibold text-[#b5471f] hover:bg-[#f7d0b3]"
                 >
                   原始来源 <ExternalLink size={12} />
                 </a>
               ) : null}
             </div>
           </div>
-          <p className="mt-2 text-[10px] leading-4 text-[#9aa69f]">
+          <p className="mt-2 text-[10px] leading-4 text-[#aa9a86]">
             免责声明：本数据为静态快照，价格、库存、资质、交付和售后以原始页面为准。本工具不构成购买建议，不背书任何渠道。
           </p>
         </div>
@@ -620,8 +620,8 @@ function OfferList({ offers }: { offers: StaticOffer[] }) {
 function Detail({ label, value }: { label: string; value: string }) {
   return (
     <div>
-      <dt className="text-[#9aa69f]">{label}</dt>
-      <dd className="mt-0.5 font-medium text-[#3a4849] break-words">{value}</dd>
+      <dt className="text-[#aa9a86]">{label}</dt>
+      <dd className="mt-0.5 font-medium text-[#4a3526] break-words">{value}</dd>
     </div>
   );
 }
